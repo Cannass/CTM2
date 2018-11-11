@@ -5,38 +5,31 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:text="CREATE NOTIFICATION"
-        tools:layout_editor_absoluteX="27dp"
-        tools:layout_editor_absoluteY="27dp" />
-
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/scritta_statica_orari"
         android:layout_width="330dp"
-        android:layout_height="46dp"
+        android:layout_height="34dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="59dp"
-        android:textSize="26dp"
         android:text="Orari Programmati"
+        android:textSize="28dp"
+        android:visibility="visible"
         tools:layout_editor_absoluteX="27dp"
         tools:layout_editor_absoluteY="389dp" />
 
     <TextView
-        android:id="@+id/OrariProgrammati"
-        android:layout_width="330dp"
-        android:layout_height="46dp"
-        android:layout_below="@+id/textView"
+        android:id="@+id/nome_palina"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/scritta_statica_orari"
         android:layout_centerHorizontal="true"
-        android:text="TextView"
-        android:visibility="invisible" />
+        android:text="TextView" />
+
+    <ListView
+        android:id="@+id/list_item"
+        android:layout_width="match_parent"
+        android:layout_height="367dp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true" />
 
 </RelativeLayout>

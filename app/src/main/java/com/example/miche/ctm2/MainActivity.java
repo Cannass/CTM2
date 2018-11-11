@@ -3,10 +3,13 @@ package com.example.miche.ctm2;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.StrictMode;
+import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.ArrayAdapter;
 import android.widget.Button;
+import android.widget.ListView;
 import android.widget.TextView;
 
 import org.jsoup.Jsoup;
@@ -16,6 +19,11 @@ import org.jsoup.select.Elements;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Iterator;
+import java.util.List;
+import java.util.ListIterator;
 
 import static android.widget.TextView.AUTO_SIZE_TEXT_TYPE_UNIFORM;
 
@@ -25,9 +33,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Button clickButton = (Button) findViewById(R.id.button);
-        final TextView text = (TextView) findViewById(R.id.textView);
-        final TextView text2 = (TextView) findViewById(R.id.OrariProgrammati);
+        final TextView scritta_statica_orari = (TextView) findViewById(R.id.scritta_statica_orari);
+        final TextView nome_palina = (TextView) findViewById(R.id.nome_palina);
+        final ListView item = (ListView) findViewById(R.id.list_item);
 
         try {
             // get URL content
@@ -50,31 +58,32 @@ public class MainActivity extends AppCompatActivity {
                 Element mast = doc.getElementById("tempo_reale");
                 Elements tbody = mast.getElementsByTag("tbody");
                 Elements ora1 = mast.getElementsByTag("tr");
-                Element orarioprogrammato = ora1.get(1);
-                Element oraprogrammata = orarioprogrammato.getElementsByClass("ore").first();
-                Elements minutiprogrammati = orarioprogrammato.getElementsByIndexEquals(1);
-                String minuti[] = minutiprogrammati.get(0).childNodes().get(0).toString().split(" ");
-
-
-                String val = "";
-                if(val == ""){
-                    throw new  Exception("error");
-                }else{
-
+                List<String> Stringhe = new ArrayList<String>();
+                for(int i =0;i<=ora1.size()-1;i++){
+                    if(i != 0){
+                        Element orarioprogrammato = ora1.get(i);
+                        Element oraprogrammata = orarioprogrammato.getElementsByClass("ore").first();
+                        Elements minutiprogrammati = orarioprogrammato.getElementsByIndexEquals(1);
+                        String minuti[] = minutiprogrammati.get(0).childNodes().get(0).toString().split(" ");
+                        String val = "";
+                        for(int j=0; j<=minuti.length -1; j++){
+                            if(val == ""){
+                                val = oraprogrammata.childNodes().get(0).toString() + ":" + minuti[j];
+                                Stringhe.add(val);
+                            }
+                            else{
+                                val =oraprogrammata.childNodes().get(0).toString() + ":" + minuti[j];
+                                Stringhe.add(val);
+                            }
+                        }
+                    }
                 }
 
-                for(int i=0; i<=minuti.length -1; i++){
-                    if(val == ""){
-                        val = oraprogrammata.childNodes().get(0).toString() + ":" + minuti[i];
-                    }
-                    else{
-                        val = val + "\n" +oraprogrammata.childNodes().get(0).toString() + ":" + minuti[i];
-                    }
-                }
-                text2.setText(val);
-                text2.setAutoSizeTextTypeWithDefaults(AUTO_SIZE_TEXT_TYPE_UNIFORM);
-                text2.setVisibility(View.VISIBLE);
-                text2.setTextColor(Color.BLACK);
+                nome_palina.setText(doc.getElementById("nome_palina").childNode(0).toString());
+                final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>
+                        (this, android.R.layout.simple_list_item_1, Stringhe);
+                item.setAdapter(arrayAdapter);
+
             } catch (Exception e) {
                 Element orari = doc.getElementsByClass("tabella_orari testo").first();
                 Elements ora = orari.getElementsByTag("tr");
@@ -89,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
                         val = val + "\n" +firstorario.getElementsByClass("ore").first().text() + ":" + minuti[i];
                     }
                 }
-                text2.setText( val);
+//                text2.setText( val);
 
             }
 
