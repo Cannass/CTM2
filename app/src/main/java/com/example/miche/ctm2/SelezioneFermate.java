@@ -1,22 +1,21 @@
 package com.example.miche.ctm2;
 
+import android.annotation.SuppressLint;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
 public class SelezioneFermate extends AppCompatActivity {
-    private static final String[] paths = {"item 1", "item 2", "item 3"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_impostazioni);
+        setContentView(R.layout.activity_selezione_fermate);
 //        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 //        setSupportActionBar(toolbar);
         final Spinner spinner = (Spinner)findViewById(R.id.spinner2);
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(SelezioneFermate.this,
-                android.R.layout.simple_spinner_item,paths);
+        ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,R.array.fermate,android.R.layout.simple_spinner_item);
 
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spinner.setAdapter(adapter);
