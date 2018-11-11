@@ -47,7 +47,8 @@ public class MainActivity extends AppCompatActivity {
                 StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
                 StrictMode.setThreadPolicy(policy);
             }
-            Document doc = Jsoup.connect("http://www.ctmcagliari.it/linee_orari.php?linea=01&verso=Di&palina=PA0205").get();
+
+            Document doc = Jsoup.connect("http://www.ctmcagliari.it/linee_orari.php?linea=01&verso=Di&palina=PA0205").timeout(10000).get();
 //            Elements newsHeadlines = doc.select("#mp-itn b a");
 //            String a="http://www.ctmcagliari.it/linee_orari.php?linea=01&verso=Di&palina=PA0205";
 //            Connection conn = new  Connection();
