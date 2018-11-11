@@ -1,5 +1,6 @@
 package com.example.miche.ctm2;
 
+import android.content.Intent;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.StrictMode;
@@ -36,6 +37,18 @@ public class MainActivity extends AppCompatActivity {
         final TextView scritta_statica_orari = (TextView) findViewById(R.id.scritta_statica_orari);
         final TextView nome_palina = (TextView) findViewById(R.id.nome_palina);
         final ListView item = (ListView) findViewById(R.id.list_item);
+        final Button settings= (Button) findViewById(R.id.settings);
+        settings.setVisibility(View.VISIBLE);
+        settings.setOnClickListener( new View.OnClickListener() {
+
+
+            @Override
+            public void onClick(View v) {
+                Intent myIntent = new Intent(MainActivity.this, SelezioneFermate.class);
+                MainActivity.this.startActivity(myIntent);
+
+            }
+        });
 
             if (Build.VERSION.SDK_INT > 9)
             {
