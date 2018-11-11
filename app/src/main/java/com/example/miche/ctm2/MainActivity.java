@@ -68,14 +68,8 @@ public class MainActivity extends AppCompatActivity {
                         String minuti[] = minutiprogrammati.get(0).childNodes().get(0).toString().split(" ");
                         String val = "";
                         for(int j=0; j<=minuti.length -1; j++){
-                            if(val == ""){
                                 val = oraprogrammata.childNodes().get(0).toString() + ":" + minuti[j];
                                 Stringhe.add(val);
-                            }
-                            else{
-                                val =oraprogrammata.childNodes().get(0).toString() + ":" + minuti[j];
-                                Stringhe.add(val);
-                            }
                         }
                     }
                 }
