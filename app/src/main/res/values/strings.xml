@@ -3,11 +3,8 @@
     <string name="title_activity_impostazioni">Impostazioni</string>
 
     <string-array name="fermate">
-        <item>San Bartolomeo (caserma carabinieri)</item>
-        <item>Elmas (fronte via del Fangario)</item>
-        <item>Colombo (ang. via Salieri)</item>
-        <item>Colombo (ang. via Salieri)</item>
-        <item>Cabras (campi sportivi)</item>
+        <item>Sonnino (ang. via Abba)</item>
+        <item>Pascoli (ang. via Petrarca)</item>
     </string-array>
 
 
