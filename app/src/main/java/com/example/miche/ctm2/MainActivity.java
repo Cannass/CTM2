@@ -1,6 +1,7 @@
 package com.example.miche.ctm2;
 
 import android.content.Intent;
+import android.database.sqlite.SQLiteDatabase;
 import android.graphics.Color;
 import android.os.Build;
 import android.os.StrictMode;
@@ -26,6 +27,7 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.ListIterator;
 
+import static android.database.sqlite.SQLiteDatabase.openOrCreateDatabase;
 import static android.widget.TextView.AUTO_SIZE_TEXT_TYPE_UNIFORM;
 
 public class MainActivity extends AppCompatActivity {
@@ -34,6 +36,10 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        SQLiteDatabase mydatabase = openOrCreateDatabase("CTMData",MODE_PRIVATE,null);
+
+        Database.Check(mydatabase);
+
         final TextView scritta_statica_orari = (TextView) findViewById(R.id.scritta_statica_orari);
         final TextView nome_palina = (TextView) findViewById(R.id.nome_palina);
         final ListView item = (ListView) findViewById(R.id.list_item);
