@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
                 StrictMode.setThreadPolicy(policy);
             }
             String url = "http://www.ctmcagliari.it/linee_orari.php?linea=01&verso=Di&palina=PA0205";
+            //String url = "http://www.ctmcagliari.it/linee_orari.php?linea=10&verso=Di&palina=SO0020";
             Orari or = new Orari(url,10000);
             List<String> Stringhe = or.GetOrariProgrammati();
             final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>

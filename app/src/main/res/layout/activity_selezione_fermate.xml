@@ -14,4 +14,12 @@
         android:layout_marginTop="172dp"
         android:visibility="visible" />
 
+    <Button
+        android:id="@+id/fermata_selezionata"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:text="Seleziona" />
+
 </RelativeLayout>

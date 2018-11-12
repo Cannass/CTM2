@@ -1,11 +1,15 @@
 package com.example.miche.ctm2;
 
 import android.annotation.SuppressLint;
+import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
+import android.widget.ListView;
 import android.widget.Spinner;
 
 public class SelezioneFermate extends AppCompatActivity {
@@ -17,14 +21,28 @@ public class SelezioneFermate extends AppCompatActivity {
 //        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
 //        setSupportActionBar(toolbar);
         final Spinner spinner = (Spinner)findViewById(R.id.spinner2);
-        SQLiteDatabase mydatabase = openOrCreateDatabase("CTMData",MODE_PRIVATE,null);
-        Cursor resultSet = mydatabase.rawQuery("Select Fermata from Fermate",null);
-        while(resultSet.moveToNext()){
-            String username = resultSet.getString(0);
-            resultSet.moveToNext();
+        final Button fermata_selezionata = (Button) findViewById(R.id.fermata_selezionata);
+        fermata_selezionata.setOnClickListener( new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+               Object item = spinner.getSelectedItem();
+                SQLiteDatabase mydatabase = openOrCreateDatabase("CTMData",MODE_PRIVATE,null);
+                mydatabase.execSQL("DROP TABLE IF EXISTS Preferite");
+                mydatabase.execSQL("CREATE TABLE IF NOT EXISTS Preferite(Fermata VARCHAR,IdFermata VARCHAR);");
+                String itemstring = "'" + item + "'";
+                mydatabase.execSQL("INSERT INTO Preferite VALUES('"+item +"','');");
 
-        }
-        resultSet.moveToFirst();
+            }
+        });
+//
+//
+//        Cursor resultSet = mydatabase.rawQuery("Select Fermata from Fermate",null);
+//        while(resultSet.moveToNext()){
+//            String username = resultSet.getString(0);
+//            resultSet.moveToNext();
+//
+//            resultSet.moveToFirst();
+//        }
 
         ArrayAdapter<CharSequence> adapter = ArrayAdapter.createFromResource(this,R.array.fermate,android.R.layout.simple_spinner_item);
 

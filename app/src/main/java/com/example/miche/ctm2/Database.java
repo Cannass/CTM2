@@ -22,6 +22,9 @@ public class Database {
         Db.execSQL("CREATE TABLE IF NOT EXISTS Fermate(Fermata VARCHAR,IdFermata VARCHAR);");
         Db.execSQL("INSERT INTO Fermate VALUES('Pascoli (ang. via Petrarca)','0205');");
         Db.execSQL("INSERT INTO Fermate VALUES('Sonnino (ang. via Abba)','0020');");
+
+        Db.execSQL("CREATE TABLE IF NOT EXISTS Preferite(Fermata VARCHAR,IdFermata VARCHAR);");
+
     }
 
 
