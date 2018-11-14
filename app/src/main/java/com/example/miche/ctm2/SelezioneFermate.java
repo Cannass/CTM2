@@ -27,10 +27,19 @@ public class SelezioneFermate extends AppCompatActivity {
             public void onClick(View v) {
                Object item = spinner.getSelectedItem();
                 SQLiteDatabase mydatabase = openOrCreateDatabase("CTMData",MODE_PRIVATE,null);
-                mydatabase.execSQL("DROP TABLE IF EXISTS Preferite");
-                mydatabase.execSQL("CREATE TABLE IF NOT EXISTS Preferite(Fermata VARCHAR,IdFermata VARCHAR);");
-                String itemstring = "'" + item + "'";
-                mydatabase.execSQL("INSERT INTO Preferite VALUES('"+item +"','');");
+                String itemstring = item.toString();
+                Cursor c=mydatabase.query("Preferite", new String[]{"Fermata"}, "Fermata"+"=?",
+                        new String[]{itemstring}, null, null, null);
+                //mydatabase.execSQL("DROP TABLE IF EXISTS Preferite");
+                Cursor mCount= mydatabase.rawQuery("select count(*) from Preferite where Fermata='" + itemstring + "'" , null);
+                mCount.moveToFirst();
+                int count= mCount.getInt(0);
+                mCount.close();
+                if(count == 0) {
+                    mydatabase.execSQL("CREATE TABLE IF NOT EXISTS Preferite(Fermata VARCHAR,IdFermata VARCHAR);");
+                    mydatabase.execSQL("INSERT INTO Preferite VALUES('"+itemstring +"','');");
+                }
+
 
             }
         });
