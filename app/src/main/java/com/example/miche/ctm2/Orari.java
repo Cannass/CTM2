@@ -1,5 +1,8 @@
 package com.example.miche.ctm2;
 
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
+
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
@@ -23,6 +26,7 @@ public class Orari {
         List<String> Stringhe = new ArrayList<String>();
         if(this.doc== null){return Stringhe;}
         try{
+
             Element tempo_reale = this.doc.getElementById("tempo_reale");
             Elements tbody = tempo_reale.getElementsByTag("tbody");
             Elements orari = tempo_reale.getElementsByTag("tr");
@@ -39,8 +43,6 @@ public class Orari {
                     }
                 }
             }
-
-
         }catch (Exception e){
 
         }

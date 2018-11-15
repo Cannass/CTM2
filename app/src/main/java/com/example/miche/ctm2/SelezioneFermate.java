@@ -58,6 +58,7 @@ public class SelezioneFermate extends AppCompatActivity {
                 SQLiteDatabase mydatabase = openOrCreateDatabase("CTMData",MODE_PRIVATE,null);
                 String itemstring = item.toString();
                 mydatabase.execSQL("DROP TABLE IF EXISTS Preferite");
+                mydatabase.execSQL("CREATE TABLE IF NOT EXISTS Preferite(Fermata VARCHAR,IdFermata VARCHAR);");
                 Cursor mCount= mydatabase.rawQuery("select count(*) from Preferite where Fermata='" + itemstring + "'" , null);
                 mCount.moveToFirst();
                 int count= mCount.getInt(0);
@@ -65,6 +66,9 @@ public class SelezioneFermate extends AppCompatActivity {
                 if(count == 0) {
                     mydatabase.execSQL("CREATE TABLE IF NOT EXISTS Preferite(Fermata VARCHAR,IdFermata VARCHAR);");
                     mydatabase.execSQL("INSERT INTO Preferite VALUES('"+itemstring +"','');");
+                    Context context = getApplicationContext();
+                    Toast toast = Toast.makeText(context, "Fermata:" + itemstring+ "salvata!!!", Toast.LENGTH_SHORT);
+                    toast.show();
                 }
 
 
