@@ -5,6 +5,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+import java.io.Closeable;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
@@ -16,6 +17,7 @@ public class Orari {
     public Orari(String url,int timeout){
         this.doc = GetDocFromUrl(url,timeout);
     }
+
 
     public List<String> GetOrariProgrammati(){
         List<String> Stringhe = new ArrayList<String>();

@@ -24,6 +24,13 @@ public class Database {
         Db.execSQL("INSERT INTO Fermate VALUES('Sonnino (ang. via Abba)','0020');");
 
         Db.execSQL("CREATE TABLE IF NOT EXISTS Preferite(Fermata VARCHAR,IdFermata VARCHAR);");
+    }
+
+    public static void CloseConnection(SQLiteDatabase Db){
+        if(Db != null ){
+            Db.close();
+
+        }
 
     }
 
