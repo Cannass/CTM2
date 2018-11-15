@@ -1,16 +1,8 @@
 package com.example.miche.ctm2;
 
 
-import android.content.res.AssetManager;
 import android.database.sqlite.SQLiteDatabase;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-
-import static android.content.Context.MODE_PRIVATE;
 
 public class Database {
     private String DbName = "CTMData";

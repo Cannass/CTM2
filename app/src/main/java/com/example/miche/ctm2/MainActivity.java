@@ -3,12 +3,8 @@ package com.example.miche.ctm2;
 import android.content.Intent;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
-import android.graphics.Color;
 import android.os.Build;
 import android.os.StrictMode;
-import android.provider.ContactsContract;
-import android.support.annotation.MainThread;
-import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -16,24 +12,8 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
-
-import com.google.android.gms.ads.MobileAds;
-
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
-import org.jsoup.select.Elements;
-
-import java.io.IOException;
-import java.net.MalformedURLException;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.Iterator;
 import java.util.List;
-import java.util.ListIterator;
 
-import static android.database.sqlite.SQLiteDatabase.openOrCreateDatabase;
-import static android.widget.TextView.AUTO_SIZE_TEXT_TYPE_UNIFORM;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -45,8 +25,6 @@ public class MainActivity extends AppCompatActivity {
         final TextView nome_palina = (TextView) findViewById(R.id.nome_palina);
         final ListView item = (ListView) findViewById(R.id.list_item);
         final Button settings= (Button) findViewById(R.id.settings);
-        // Sample AdMob app ID: ca-app-pub-3940256099942544~3347511713
-//        MobileAds.initialize(this, "ca-app-pub-3940256099942544~3347511713");
         settings.setVisibility(View.VISIBLE);
         settings.setOnClickListener( new View.OnClickListener() {
 
@@ -59,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
         });
         SQLiteDatabase mydatabase = openOrCreateDatabase("CTMData",MODE_PRIVATE,null);
         Database.Check(mydatabase);
-        //mydatabase.execSQL("DROP TABLE IF EXISTS Preferite");
         mydatabase.execSQL("CREATE TABLE IF NOT EXISTS Preferite(Fermata VARCHAR,IdFermata VARCHAR);");
         Cursor mCount= mydatabase.rawQuery("select count(*) from Preferite " , null);
         mCount.moveToFirst();
