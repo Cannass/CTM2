@@ -49,6 +49,20 @@ public class Orari {
         return Stringhe;
     }
 
+
+    public List<String> GetTestOrari(){
+        List<String> Stringhe = new ArrayList<String>();
+        if(this.doc== null){return Stringhe;}
+        try{
+            Elements litag = this.doc.getElementsByTag("li");
+            litag.tagName("span");
+            String prova = "";
+        }catch (Exception e){
+
+        }
+        return Stringhe;
+    }
+
     public  static  Document GetDocFromUrl(String url,int timeout){
         try {
             Document doc = Jsoup.connect(url).timeout(timeout).get();

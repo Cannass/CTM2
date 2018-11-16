@@ -5,6 +5,7 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Build;
 import android.os.StrictMode;
+import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -27,25 +28,19 @@ public class MainActivity extends AppCompatActivity {
         final Button settings= (Button) findViewById(R.id.settings);
         settings.setVisibility(View.VISIBLE);
         settings.setOnClickListener( new View.OnClickListener() {
-
-
             @Override
             public void onClick(View v) {
                 Intent myIntent = new Intent(MainActivity.this, SelezioneFermate.class);
                 MainActivity.this.startActivity(myIntent);
+                MainActivity.this.finish();
             }
         });
         SQLiteDatabase mydatabase = openOrCreateDatabase("CTMData",MODE_PRIVATE,null);
         Database.Check(mydatabase);
-        mydatabase.execSQL("CREATE TABLE IF NOT EXISTS Preferite(Fermata VARCHAR,IdFermata VARCHAR);");
-        Cursor mCount= mydatabase.rawQuery("select count(*) from Preferite " , null);
-        mCount.moveToFirst();
-        int count= mCount.getInt(0);
-        mCount.close();
-        Database.CloseConnection(mydatabase);
+        int count =Database.CheckPreferite(mydatabase);
         if(count == 0){
+            Database.CloseConnection(mydatabase);
             Intent myIntent = new Intent(MainActivity.this, SelezioneFermate.class);
-            mydatabase.close();
             MainActivity.this.finish();
             MainActivity.this.startActivity(myIntent);
 
@@ -55,32 +50,24 @@ public class MainActivity extends AppCompatActivity {
                 StrictMode.ThreadPolicy policy = new StrictMode.ThreadPolicy.Builder().permitAll().build();
                 StrictMode.setThreadPolicy(policy);
             }
-            mydatabase = openOrCreateDatabase("CTMData",MODE_PRIVATE,null);
-            mydatabase.execSQL("CREATE TABLE IF NOT EXISTS Preferite(Fermata VARCHAR,IdFermata VARCHAR);");
-            Cursor cursor = mydatabase.rawQuery("SELECT Fermata FROM Preferite",null);
-
-            cursor.moveToNext();
-
-            String fermata = cursor.getString(cursor.getColumnIndex("Fermata"));
-
-            mydatabase.close();
+            String fermata = Database.GetPreferita(mydatabase);
+            Database.CloseConnection(mydatabase);
             String url = "";
             if(fermata.equals("Pascoli (ang. via Petrarca)")){
                 url = "http://www.ctmcagliari.it/linee_orari.php?linea=01&verso=Di&palina=PA0205";
-
-            }else{
+            }else if (fermata.equals("Sonnino (ang. via Abba)")){
                 url = "http://www.ctmcagliari.it/linee_orari.php?linea=10&verso=Di&palina=SO0020";
-
+            }else{
+                url = "http://www.ctmcagliari.it/linee_orari.php?linea=29&verso=As&palina=DA0206";
             }
+            url = "http://m.ctmcagliari.it/fermate.php?s=0020";
             Orari or = new Orari(url,10000);
+            List<String> st= or.GetTestOrari();
             List<String> Stringhe = or.GetOrariProgrammati();
             final ArrayAdapter<String> arrayAdapter = new ArrayAdapter<String>
                     (this, android.R.layout.simple_list_item_1, Stringhe);
             nome_palina.setText(or.GetPalinaName());
             item.setAdapter(arrayAdapter);
-
         }
-
-
     }
 }
