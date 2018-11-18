@@ -1,6 +1,7 @@
 package com.example.miche.ctm2;
 
 import android.content.Intent;
+import android.content.res.AssetManager;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.os.Build;
@@ -12,6 +13,8 @@ import android.widget.ArrayAdapter;
 import android.widget.Button;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import java.io.InputStream;
 import java.util.List;
 
 
@@ -25,6 +28,10 @@ public class MainActivity extends AppCompatActivity {
         final TextView nome_palina = (TextView) findViewById(R.id.nome_palina);
         final ListView item = (ListView) findViewById(R.id.list_item);
         final Button settings= (Button) findViewById(R.id.settings);
+
+
+        TxtReader quoteBank = new TxtReader(getApplicationContext());
+        InputStream is  = quoteBank.mContext.getAssets().open("paline.txt");
         settings.setVisibility(View.VISIBLE);
         settings.setOnClickListener( new View.OnClickListener() {
 
