@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         TxtReader quoteBank = new TxtReader(getApplicationContext());
-        List<String> lines = quoteBank.readLine("Fermate.txt");
+        List<String> lines = quoteBank.readLine("Fermate");
         settings.setVisibility(View.VISIBLE);
         settings.setOnClickListener( new View.OnClickListener() {
             @Override
