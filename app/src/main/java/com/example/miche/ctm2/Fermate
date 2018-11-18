@@ -1,951 +1,948 @@
-('San Bartolomeo (caserma carabinieri)','0325')
-('Elmas (fronte via del Fangario)','0125')
-('Colombo (ang. via Salieri)','0523')
-('Colombo (ang. via Salieri)','0517')
-('Cabras (campi sportivi)','0654')
-('Costituzione (Bastione)','0051')
-('della Pineta (fronte via Dexart)','0292')
-('delle Serre (ang. via Verdi)','0960')
-('Cabras (cantina sociale)','0467')
-('Roma (Molo Dogana)','0734')
-('Bonaria (Banca CIS)','0268')
-('Marconi (Istituto Marconi)','0255')
-('Bembo (chiesa)','1191')
-('Cimabue (ang. via Diaz)','1251')
-('Poetto (lido Polizia)','0381')
-('Poetto (ang. via Pantelleria)','0180')
-('San Fulgezio (ang. via Argentina)','1186')
-('Porto Botte (ang. via Aritzo)','1185')
-('Brigata Sassari (ang. via Lombardia)','0914')
-('Regina Elena (Bastione)','0749')
-('Sonnino (ang. via Alghero)','0019')
-('Marconi (fronte via Tommaseo)','0219')
-('Flavio Gioia (portici)','0252')
-('Giulio Cesare (fronte cimitero)','0826')
-('Sulcitana Assemini (ang. via delle Margh','0595')
-('Trento (ang. via Zara)','0153')
-('Diaz (fronte Fiera)','0282')
-('Porto Botte (ang. via Scevola)','1184')
-('Giudicati (capolinea 13)','0300')
-('Is Maglias (ang. via dei Punici)','0174')
-('S. Avendrace (ang. via Montello)','0145')
-('Barracca Manna (fronte via Saba)','1152')
-('Milano (ang. via Perugia)','0281')
-('Chiaramonti (capolinea 18)','0955')
-('Peretti (Hotel Quadrifoglio)','0765')
-('Dante (fronte San Saturnino)','0270')
-('Marconi (Vigili del Fuoco)','0636')
-('Trieste (chiesa)','0041')
-('Nazionale (fronte municipio)','0957')
-('Cagliari (ang. via Livorno)','1112')
-('Carmine (ang. via Sardegna)','0605')
-('Scano (ang. via Marini)','0261')
-('Cornalias (acquedotto)','0803')
-('Riva Villasanta (ang. via dei Grilli)','0238')
-('Africa (ang. via Cipro)','1177')
-('ZI Protezione civile','1006')
-('San Vincenzo (lato civico n°45)','2068')
-('Basilicata (scuole)','0875')
-('La Vega (ang. viale San Vincenzo)','0072')
-('Lunigiana (Hotel Sardegna)','0120')
-('della Resistenza (mercato)','2014')
-('Basilicata (Magistero)','0874')
-('Poetto (fronte via Grecale)','0328')
-('S. Michele (altezza civico n. 60)','0142')
-('Lungosaline (fronte via Montecristo)','0351')
-('Via San Giovanni (altezza civico n°209)','1019')
-('Bonaria (fronte Basilica)','0277')
-('Vidal (fronte via Besta)','0865')
-('Sant\'Elena (chiesa)','0469')
-('San Benedetto (Poste)','0208')
-('Matteotti (fronte stazione FS)','0832')
-('Is Maglias (ang. via Asiago)','0172')
-('Pessina (Palazzo di Giustizia)','0867')
-('Paoli (ang. via Settembrini)','0199')
-('Marongiu (Cimitero San Michele)','0810')
-('Matteotti (fronte ARST)','1168')
-('Ospedale (clinica Macciotta)','0060')
-('Santa Maria Chiara (ang. via Montecuccol','1160')
-('Via Delle Azalee fronte civico 9','2054')
-('Sulcitana Elmas (prima fermata)','0587')
-('Cinquini (fronte via da Paganello)','1148')
-('Bacaredda (fronte via Benedetta)','0009')
-('Cocco Ortu (ang. via Foscolo)','0202')
-('Pitz\' e Serra (ang. via Cecoslovacchia)','0704')
-('ZI NIVEA (lavanderia industriale)','1009')
-('Borgo Sant\'Elia (ang. via Livingstone)','0906')
-('Hospedale Brotzu (lato pronto soccorso)','2097')
-('Brotzu (ang. via Piero della Francesca)','0733')
-('Lungosaline (fronte via Gorgona)','0349')
-('S.S. 391 Assemini - Decimo (prima fermat','0615')
-('Elmas (centro commerciale)','0578')
-('Fiume (ang. via San Salvatore)','0447')
-('Ospedale Brotzu (capolinea 1)','0520')
-('Ciusa (Uffici Citt Metropolitana)','0006')
-('Ciusa (ang. via Donoratico)','0003')
-('Canneto (ang. via Vesalio)','0248')
-('dei Conversi (fermata Metrò)','0189')
-('San Michele (angolo via Redipuglia)','0106')
-('S.P. Villasimius (ang. via lago Alserio)','0429')
-('S\'Ecca S\'Arrideli (ang. via Lago Simbir','0713')
-('Is Maglias (nuovi edifici)','2038')
-('Piovella (fronte via Sella)','0094')
-('Bacaredda (Mercato Civico)','0014')
-('Bonaria (RAI)','0269')
-('Matteotti (capolinea 30 - 31)','0030')
-('Poetto (Via Dell\'Idrovora - Lato Ospedal','0377')
-('Vico Regina Margherita (lato civico n°3)','2071')
-('Mandas (ang. via Marrubiu)','0966')
-('Curie (ang. via Corsica)','0863')
-('San Gottardo (ang. via Diocleziano)','0659')
-('Rosselli (parco comunale)','0844')
-('S.S. 391 Decimo - Assemini (prima fermat','0839')
-('Via Jenner Ospedale Brotzu','2079')
-('Trento (uffici regionali)','0152')
-('Via Luigi Pirandello (fronte civico 3)','2080')
-('Balilla (ang. via Marmilla)','1122')
-('De Petris (ang. via Manara)','1102')
-('Elmas (distributore)','0124')
-('Policlinico Universitario','0830')
-('L. da Vinci (Loc. Sa Tiacca)','0729')
-('Mameli (ang. largo Carlo Felice)','0044')
-('Piero della Francesca (fronte via Montebianco)','0887')
-('S.P. Villasimius (ang. via Transatlantic','0433')
-('Elmas (Istituto Agrario)','0581')
-('Agavi (fronte via dei Castagni)','1126')
-('Fiume (ang. via Umbria)','0445')
-('San Benedetto (Buon Pastore)','0217')
-('I Maggio (Liceo)','0491')
-('Circonv. Pirri (ang. via Timo)','1139')
-('Cugia (Dettori)','0918')
-('Cugia (ang. via Randaccio)','0919')
-('S.P. Villasimius (ang. via dei Pioppi)','0438')
-('Via San Giovanni (altezza civico n°83)','1018')
-('Crespellani (polizia municipale)','0885')
-('Parcheggi Stadio (capolinea 6)','0901')
-('Piero della Francesca (ang. via Aresu)','0845')
-('Aquilone (fronte via Ostro)','0313')
-('Milano (ang. via Messina)','0284')
-('L. da Vinci (fronte Hotel Setar)','0416')
-('Fiume (canneto)','0941')
-('Buoncammino (Anfiteatro Romano)','0068')
-('Marconi (fronte Asse Mediano)','0230')
-('Santa Maria Chiara (ang. via Balilla)','0555')
-('Caracalla (ang. via Capo d\'Orso)','1188')
-('Autonomia Regionale (prima fermata)','0720')
-('Cittadella Universitaria - Lato Neuroscienze','2087')
-('Fiume (fronte canneto)','0443')
-('Is Mirrionis (ang. via Fontana Raminosa)','0102')
-('Via della Libertà Altezza Civico 20','2049')
-('Dante (ang. via Farina)','0197')
-('Abruzzi (chiesa)','0894')
-('Dalla Chiesa (fronte via Austria)','2007')
-('del Pino Solitario (fronte via Garofani)','0834')
-('Ippodromo (ang. via Ausonia)','0356')
-('Trieste (ang. via S. Paolo)','0150')
-('San Fulgenzio (ang. via Mure)','0737')
-('Jenner (ang. via Koch)','0842')
-('Berna (fronte Scuola)','0345')
-('Mameli (ang. via Sassari)','0045')
-('Autonomia Regionale (lato Cava)','0725')
-('Carmine (pressi Hotel Grillo)','0604')
-('Schiavazzi (piazza Silesu)','0347')
-('San Michele (Chiesa)','0108')
-('Italia (ang. via Sinnai)','0815')
-('Manin (fronte via Sauro)','0493')
-('Elmas (fronte via Infante Alfonso)','0361')
-('De Petris (fronte campo Rosas)','0989')
-('Margine Rosso (ang. via Pianosa)','0411')
-('Parigi (lato sede Polizia Municipale)','2085')
-('Mattei (ang. via Campania)','0868')
-('Regina Elena (Unione Sarda)','0064')
-('Schiavazzi (piazza Pigafetta)','0541')
-('Poetto (caserma Monfenera)','0332')
-('Giorgino (chiesetta Sant\'Efisio)','0567')
-('Nazionale (piazza del Crocifisso)','0956')
-('Colombo (Polizia Municipale)','0524')
-('Italia (passaggio livello)','0549')
-('Trieste (fronte via S. Paolo)','0151')
-('Tiziano (ang. via Alfieri)','0201')
-('Margine Rosso (ang. via Cipro)','0755')
-('Trieste (ang. via Monte Arci)','0530')
-('Piero della Francesca altezza civico 4','2072')
-('Margine Rosso (quarta fermata)','0407')
-('Marche (ang. via Piceno)','0877')
-('Via Is Arenas (ang. via Pizzetti)','2041')
-('Colombo (ang. via Rossini)','0461')
-('Piero della Francesca (capolinea 20)','0626')
-('Tamburino Sardo (ang. via Pirandello)','1149')
-('Margine Rosso (ang. via Sussalai)','0406')
-('della Pineta (Chiesa)','0297')
-('Merello (ang. via Sant\'Antonio)','0476')
-('Italia (fronte Vetreria)','0551')
-('Capolinea - Carcere di UTA','2050')
-('Giulio Cesare (ang. via Clelia)','0814')
-('Trieste (ang. via Galilei)','0531')
-('Elmas (angolo via delle Miniere)','0577')
-('Argiolas (ang. via Biancamano)','1130')
-('Ciusa (deposito CTM)','0002')
-('Diaz (fronte Amsicora)','0298')
-('Rossini (ang. via Mascagni)','1257')
-('Vidal (parco)','0866')
-('Poetto (ponte Vittorio)','0308')
-('Dante (Tribunale Minori)','0272')
-('Torricelli (ang. via Flavio Gioia)','1104')
-('Don Matzeu (lato campo bascket)','2082')
-('Abruzzi (fronte via Campeda)','0110')
-('Giulio Cesare (ang. via del Redentore)','0836')
-('Pitz\' e serra (ang. via Vinola)','0993')
-('S.P. Villasimius (ang. via dei Papaveri)','0430')
-('Legnano (ang via Santa Maria Chiara)','0825')
-('Peretti (ospedale Brotzu)','0763')
-('Saline (AIAS)','0379')
-('Via Stamira Fronte Ufficio Postale','2073')
-('Poetto (ang. via Vergine di Lluc)','0331')
-('Poerio (ang. via Melis)','0245')
-('Risorgimento (ang. piazza Italia)','0689')
-('Nazionale (ang. via Quartu)','0963')
-('S.S. 554 (ang. via Anastasia)','0751')
-('Risorgimento (ang. via Carbonari)','1118')
-('Marconi (quartiere Europeo)','0254')
-('Tigellio (lato civico n°8)','2066')
-('Brigata Sassari (fronte Banca)','0509')
-('Liguria (fronte Pacinotti)','0079')
-('Cabras (fronte Polizia Municipale)','0823')
-('Bacaredda (Agenzia delle Entrate)','0015')
-('Cornalias (ang. via Cinquini)','0113')
-('San Fulgenzio (ang. via Marconi)','0214')
-('Abruzzi (ang. via Campeda)','0109')
-('Pitz\' e Serra (fronte via Vinola)','0996')
-('Piero della Francesca (ang.via Monte Bia','0135')
-('Saline (fronte AIAS)','0380')
-('Angioni (giardini)','0118')
-('Trieste (ang. via Tirana)','0529')
-('Giovanni XXIII (Chiesa)','0647')
-('Deledda (ang. piazza Giovanni XXIII)','0676')
-('Portogallo (ang. via S. Antonio)','0699')
-('Autonomia Regionale (ang. via delle Came','0721')
-('San Benedetto (ang. via Pindemonte)','0937')
-('Sulcitana Elmas (Discount)','0592')
-('28 Febbraio (fronte Assessorato RAS)','0223')
-('Cornalias (ang. via Sulcis)','0115')
-('Redentore (Giardinetti)','0538')
-('Irpinia (parcheggi)','0077')
-('Lussu (fronte Carabinieri)','0691')
-('Flavio Gioia (fronte portici)','0251')
-('Via Castelli fronte civico n°11','2064')
-('L. da Vinci (fronte via Rio Solanas)','0419')
-('Marconi (fronte Vigili del Fuoco)','0519')
-('Istria (ang. via Gorizia)','0668')
-('S\'Arrulloni (fronte via Silesu)','0973')
-('Costantinopoli (ang. via Atene)','0644')
-('Jenner (Oncologico)','0559')
-('Trieste (CTM)','0635')
-('ZI Stabilimento Enichem','1014')
-('Repubblica (ang. via Stazione)','0837')
-('Fosse Ardeatine (fronte giardini ex Vetr','2015')
-('Milano (fronte via Arezzo)','0287')
-('Agavi (fronte via Pioppi)','1127')
-('Via Liri (località Santa Luria Quartu Sa','2049')
-('Bulgaria (fronte via Italia)','2001')
-('Pitagora (capolinea CEP)','1144')
-('Sulcitana Assemini (fronte via Mogoro)','0730')
-('L. da Vinci (ang. via Asparago)','0412')
-('Via Sulis (altezza civico n°71)','1024')
-('Calamosca (seconda fermata )','0337')
-('Is Maglias (ang. via Monte Grappa)','0178')
-('Donoratico (ang. via Capula)','0004')
-('Elmas (ang. via dell\'Autonomia)','0129')
-('Cittadella Universitaria - Lato Stazione Metro','2092')
-('Colombo (ang. via San Benedetto)','0522')
-('ZI CASIC','1007')
-('Diaz (piscina comunale)','0183')
-('Sulcitana Elmas (fronte via Carloforte)','0591')
-('ZI Stabilimento Enichem','1002')
-('L. da Vinci (fronte Scuole)','0424')
-('Carmine (ang. via Montale)','0599')
-('Lungosaline (Contro Strada Parcheggi - L','0354')
-('Palau (ang. via Giulio Cesare)','0817')
-('Diaz (Hotel Mediterraneo)','0274')
-('Margine Rosso (ang. via Scirocco)','0401')
-('dell\'Abbazia (ang. via Stoccolma)','0212')
-('Margine Rosso (ang. via Antas)','0408')
-('Zona Industriale Machiareddu altezza Sta','2056')
-('Balilla (ang. via Bragadin)','1115')
-('Marconi (Scuola Foscolo)','0220')
-('Regina Margherita (ex Manifattura Tabacc','0748')
-('Alghero (ang. via Satta)','0018')
-('Jenner (Ospedale Brotzu)','0560')
-('S\'Arrulloni (Campi Sportivi)','0515')
-('Elmas (terza fermata)','0127')
-('Capula (ang. via Belgrano)','2035')
-('Bonaria (fronte Banco di Sardegna)','0267')
-('Santa Maria Chiara (ang. via Cuoco)','0239')
-('Flavio Gioia (fronte scuola)','0640')
-('Nazionale (vico VI Nazionale)','0965')
-('Carlo Felice (piazza Yenne)','0046')
-('S\'Ecca S\'Arrideli (seconda fermata)','0716')
-('San Valeriano (scuola materna)','0656')
-('Cadello (parco)','0090')
-('Via Gallura (Chiesa)','2078')
-('Sulcitana Elmas (ang. via degli Sportivi','0593')
-('S. Paolo (fronte via Mincio)','1169')
-('Poetto (ang. via Grecale)','0329')
-('Favonio (fronte chiesa)','0314')
-('Giotto (fronte giardini)','0881')
-('AKHELA / STREAM','1008')
-('Cao di San Marco (Cittadella della Music','0878')
-('Pitz\' e Serra (ang. via Irlanda)','0697')
-('Gallus (Torre)','0496')
-('Golfo di Quartu S.E. (fronte lido Medite','0394')
-('Cittadella Universitaria - Lato Segreteria','2091')
-('Riva Villasanta (fronte via del Colle)','0243')
-('Margine Rosso (ang. via Othoca)','0404')
-('Porto Botte (fermta Metrò)','1183')
-('Trieste (fronte Poste)','0507')
-('Centro Commerciale Le Vele','0961')
-('Autonomia Regionale (ang. via S.Giovanni','0770')
-('Biasi (fronte ANAS)','1131')
-('S.P. Villasimius (Is Mortorius)','0439')
-('Sulcitana Elmas (fronte via Talamone)','0590')
-('Is Mirrionis (ang. via Montesanto)','0103')
-('ZI Stabilimento Bridgestone (fronte SAN','1004')
-('Angioni (centro commerciale)','1108')
-('Sulcitana Elmas (ang. via Sestu)','0584')
-('Donoratico (parco)','0226')
-('S\'Arrulloni (ang. via Silesu)','0971')
-('Istria (fronte Municipio)','0669')
-('Indipendenza (Torre San Pancrazio)','0744')
-('Lungosaline (ang. via d\'Elba)','0972')
-('Milano (ang. via Arezzo)','0286')
-('Dessy (fronte Comune)','0920')
-('Carmine (fronte distributore)','0598')
-('S\'Ecca S\'Arrideli (ang. via Van Dick)','0718')
-('Repubblica (direz. Cagliari)','0838')
-('Petrarca (ang. via Dante)','0204')
-('Filzi (ang. via Antonietti)','1120')
-('Pessina (ang. via Taramelli)','0264')
-('Segni (fronte via Torre delle Stelle)','1129')
-('San Benedetto (ang. via Atene)','0847')
-('Sulcitana Assemini (prima fermata)','0596')
-('della Pineta (fronte Chiesa)','0296')
-('Bonorva (ang. via Calasetta)','0672')
-('Verdi (ang. via Leoncavallo)','0998')
-('Is Maglias (Ingegneria)','0173')
-('Carmine (ang. via Manno)','0603')
-('Marconi (fronte Istituto Marconi)','0256')
-('Fiume (fronte parco)','0449')
-('S. Paolo (fronte case FS)','0036')
-('San Benedetto (piscina)','0846')
-('Via Stamira (lato civico 41)','2074')
-('Quirra (fronte mercato)','0098')
-('Cornalias (chiesa)','0114')
-('Vico (ang. via Colombo)','0997')
-('Rossini (ang. via Cilea)','0510')
-('Gobetti lato Santa Lucia','0614')
-('Elmas (ang. via dell\'Artigianato)','0362')
-('Gherardo delle Notti (fronte via Laconi)','2016')
-('Alghero (ang. via Sonnino)','0017')
-('Sole (Capolinea 3)','0336')
-('Merello (fronte Ingegneria)','0168')
-('Colombo (ang. via Foscolo)','0458')
-('Is Maglias (dip Ing. Elettronica)','2037')
-('Don Minzoni (ang. via Nazionale)','0500')
-('Quartu (fronte Chiesa)','1271')
-('Autonomia Regionale (ang. via Palma Fior','0723')
-('Yenne (ang. corso Vittorio Emanuele)','0047')
-('I Maggio (Salesiani)','0488')
-('San Benedetto (fronte Buon Pastore)','0195')
-('Fadda (ang. via Angioni)','1114')
-('Pitz\' e Serra (N.S. del Buoncammino)','0753')
-('Yenne (fronte via Azuni)','0056')
-('ZI Cavalcavia VI Strada','1005')
-('Cocco Ortu (fronte Mercato)','0012')
-('San Nicolò (scuole)','0683')
-('Elmas (fronte via dell\'Autonomia)','0130')
-('Golfo di Quartu S.E. (ang. via Da Vinci)','0399')
-('S\'Ecca S\'Arrideli (terza fermata)','0717')
-('Parini (ang via Cilea)','0978')
-('Mameli (ang. via Caprera)','0163')
-('Poetto (Ippodromo)','0358')
-('Europa (scuole)','1179')
-('dell\'Abbazia (ang. via Conversi)','0209')
-('San Gottardo (stazione Treni)','0947')
-('Perda Longa (scuole)','0999')
-('S\'Ecca S\'Arrideli (prima fermata)','0714')
-('della Pineta (ang. via dei Passeri)','0289')
-('Cadello (fronte parco)','0089')
-('Cittadella Universitaria','2089')
-('20 Settembre (ang. via Lanusei)','0023')
-('Parigi (lato civico 29)','2083')
-('Carmine (prima fermata)','0606')
-('Cugia (ang. via Scano)','0900')
-('Cadello (ang. via Monsignor Botto)','0566')
-('Perda Longa (fronte scuole)','0988')
-('Musica (parco Saline)','0970')
-('Piemonte (fronte Chiesa)','0075')
-('Trieste (fronte CTM)','0634')
-('Tiziano (Mercato Civico)','0200')
-('Dante (Stazione metrò)','0196')
-('Sole (ang. via del Sestante)','0319')
-('S.P. Villasimius (ang. via del Galeone)','0435')
-('Menotti (ang. via Morelli)','0246')
-('Liguria (ang. via Istria)','0081')
-('Merello (ang. via Don Bosco)','0166')
-('Riu Mortu (ang. via Zuddas)','0655')
-('Regina Margherita (Hotel)','0746')
-('Campania (ang. via Capitanata)','0085')
-('Tramontana (Istituto Biologia)','0772')
-('Brotzu (ang. via Binaghi)','0990')
-('Gherardo delle Notti (ang. via De Martis','0833')
-('Is Mirrionis (fronte Ospedale)','0100')
-('Vico (scuole)','0456')
-('Schiavazzi (fronte Lazzareto)','0343')
-('Giotto (ang. via Cornalias)','0767')
-('Don Minzoni (ang. via delle Serre)','0501')
-('Autonomia Regionale (settima fermata)','0852')
-('Is Mirrionis (ang. via Timavo)','0101')
-('Flumini (ang. via San Teodoro)','0428')
-('Is Mirrionis (Ospedale)','0099')
-('Del Pino Solitario (altezza Uff. Postale','2057')
-('Fiume (ang. via Dalla Chiesa)','0942')
-('Schiavazzi (Lazzareto)','0344')
-('Merello (chiesa)','0157')
-('Toscana (ang. via La Vega)','0876')
-('Archimede (ang. via Avogadro)','1133')
-('San Salvatore (ang. vico S. Salvatore)','0946')
-('Sassari (parcheggio stazione)','1143')
-('Alghero (ang. via Dante)','0185')
-('Don Matzeu (lato civico 3)','2081')
-('Pascoli (ang. via Petrarca)','0205')
-('Vesalio (ang. via Giovine Italia)','0366')
-('Cornalias (ang. via Giotto)','0133')
-('Vergine di Lluc (capolinea 5)','0327')
-('Sulcitana Elmas (ang. via Marsala)','0589')
-('Portogallo (ang. via Pitz\'e Serra)','0851')
-('Argentina (ang. via San Fulgenzio)','0820')
-('Roma (fronte Molo Dogana)','0026')
-('Sant\'Ignazio da Laconi (lato civico n°56','2061')
-('Cittadella Universitaria','0741')
-('Bonaria (Basilica)','0276')
-('Cornalias (fronte acquedotto)','0809')
-('S.P. Villasimius (Camping)','0436')
-('Borgo Sant\'Elia (ang. viale Ferrara)','0324')
-('Musica (ang. via Rossini)','1261')
-('Andorra','0904')
-('Lussu (ang. via Zucca)','0681')
-('Diaz (ang. via Caboto)','0278')
-('Autonomia Regionale (fronte via Molinu C','0558')
-('Corso Africa fronte Via Manin','0613')
-('Corso Vittorio Emanuele II (altezza civi','2067')
-('F.lli Bandiera (ang. via Bayle)','0453')
-('Stoccolma (ang. via Budapest)','0213')
-('Sicilia (ang. via Arborea)','0477')
-('Carlo Felice (Palazzo Civico)','0043')
-('Sa Funtanedda (ang. via Carbia)','0711')
-('Nazionale (fronte via Italia)','0620')
-('Poetto (ang. via S\'Arrulloni)','0330')
-('I Maggio (fronte via Deledda)','0489')
-('Biasi (ANAS)','1192')
-('Matteotti (capolinea M)','0029')
-('S.P. Villasimius (ang. via Liri)','0431')
-('Sulcitana Elmas (fronte via degli sporti','0594')
-('Santa Margherita (ang. via Azuni)','0057')
-('Is Mirrionis (ang. via Falletti)','0086')
-('Elmas (quarta fermata)','0128')
-('Argentina (scuola)','0819')
-('L. da Vinci (fronte via Taormina)','0422')
-('Alghero ( piazza Repubblica)','0184')
-('Peretti (fronte uffici INPS)','0761')
-('Brigata Sassari (ex Fornaci)','0504')
-('delle Serre (fronte via Siliqua)','0959')
-('Sa Funtanedda (ang. via Tibula)','0710')
-('Peretti (uffici INPS)','0760')
-('Petrarca (ang. via Cavalcanti)','0203')
-('Schiavazzi (fronte piazza Demuro)','0902')
-('Parigi (fronte civico 29)','2084')
-('Deliperi (scuola)','0807')
-('Castiglione (campi sportivi)','0231')
-('S. Michele (ang. via Col di Lana)','0143')
-('delle Ninfee (Terramala)','0442')
-('Pergolesi (ang. via San Benedetto)','0193')
-('Borgo Sant\'Elia (ang. via Callas)','0323')
-('Giorgino (Villaggio Pescatori)','0395')
-('Via Delle Begonie (ingresso parco San Lu','2051')
-('Autonomia Regionale (ang. via Pittori Eu','0722')
-('Ariosto (ang. via Oslo)','1000')
-('Margine Rosso (fronte via Molaria)','0403')
-('Pessina (fronte Tribunale)','0257')
-('Marconi (ang. via Tommaseo)','0623')
-('Argiolas (ang. via Principe di Napoli)','1155')
-('Risorgimento (ang. via Berchet)','0688')
-('Donoratico (ang. via Ciusa)','0005')
-('S\'Ecca s\'Arrideli (terza fermata)','0715')
-('De Magistris (Teatro Massimo)','0156')
-('Margine Rosso (ang. via Melibodes)','0402')
-('Italia (ang. via D\'Acquisto)','0690')
-('Scano (fronte clinica)','0186')
-('Fermata 2018 Fiume (ang. via Novergia)','2018')
-('Golfo di Quartu S.E. (La Bussola)','0385')
-('Carmine (Chiesa)','0602')
-('ZI Sardinia Green Island','1003')
-('Bellini (scuole)','0678')
-('Cabras (ang. via Italia)','0479')
-('Vesalio (fermata Metrò)','0685')
-('Raffa Garzia','0864')
-('Pessina (fronte via Gianturco)','0258')
-('Donoratico (fronte parco)','0225')
-('Piemonte (ang. Iolanda)','0982')
-('S.P. Villasimius (fronte via del Galeone','0434')
-('P.zza San Rocco','1021')
-('Bembo (fronte chiesa)','1190')
-('Crespellani (ang. via Masaccio)','0137')
-('Flumini (cantoniera)','0516')
-('Praga (ang. via Atene)','0660')
-('dell\'Abbazia (fronte via Conversi)','0210')
-('Scano (clinica)','0187')
-('Pascal (fronte civico 1)','2086')
-('Milano (ang. via Genova)','0280')
-('Fieramosca (parco)','0986')
-('L. da Vinci (ang. via Taormina)','0423')
-('Vico (fronte via F.lli Rosselli)','0454')
-('L. da Vinci (fronte Hotel Califfo)','0414')
-('Peretti (fronte ospedale Brotzu)','0762')
-('S.S. 391 Assemini - Decimo (ang. via Laz','0617')
-('Vico (ang. via Manara)','0992')
-('Toti (fronte scuole)','1124')
-('Via delle Begonie fronte Palestra','2047')
-('Italia (portici)','0824')
-('Sant\' Antonio (ang. via S. Francesco)','0682')
-('Favonio (fronte via Garbino)','0320')
-('Crespellani (ang. via Cimabue)','0136')
-('Bacaredda (ang. via Benedetta)','0008')
-('Via Goceano (fronte supermertato)','2077')
-('Mori (ang. via Negri)','0981')
-('Cimitero (ang. via Marconi)','1253')
-('Don Minzoni (scuole)','0502')
-('Schiavazzi (fronte scuola materna)','0346')
-('Torbeno (T Hotel)','0879')
-('Sant\' Antonio (ang. via Liguria)','0700')
-('San Bartolomeo (Parcheggi)','0215')
-('Cettigne (ang. via Costantinopoli)','0905')
-('Cabras (ang. via Monte Marganai)','0481')
-('San Francesco (ang. via Fadda)','1256')
-('San Gottardo (ang. via Cortis)','0666')
-('d\'Armi (Ingegneria)','0170')
-('Brigata Sassari (fronte ex Fornaci)','0503')
-('Europa (Centro Giovani)','1164')
-('Trieste (ang. via Bezzecca)','0526')
-('Fadda (fronte Questura)','1109')
-('Manin (portici)','0492')
-('Marconi (ponte pedonale)','0521')
-('L. da Vinci (ang. via Anglona)','0728')
-('Gallus (fronte Torre)','0497')
-('Golfo di Quartu S.E. (fronte Torre)','0392')
-('Cettigne (parcheggi)','0903')
-('Sa Funtanedda','0712')
-('Marconi (Asse Mediano)','0229')
-('Sonnino (ang. via Abba)','0020')
-('Regina Elena (Giardini Pubblici)','0067')
-('Giorgino (fronte ex fabbrica)','0569')
-('Bacaredda (fronte via Gioberti)','0016')
-('Autonomia Regionale (quarta fermata)','0724')
-('Ariosto (ang. via Dublino)','1113')
-('della Pineta (ang. via Venezia)','0295')
-('Diaz (ang. via Ancona)','0279')
-('Is Mirrionis (Magistero)','0171')
-('del Fangario (ang. viale Elmas)','0123')
-('S. Avendrace (ang. via Coghinas)','0148')
-('Don Orione (chiesa)','0677')
-('Gherardo delle Notti (ang. via Laconi)','2017')
-('Giorgino (villaggio pescatori)','0080')
-('Ciusa (fronte via Biasi)','0236')
-('Liguria (parco)','0738')
-('Is Maglias ( Azuni)','0768')
-('Jenner (fronte via Koch)','0869')
-('Taloro (ang. via Tevere)','2039')
-('Dante (fronte via San Saturnino)','0309')
-('Colombo (ang. via Gramsci)','0463')
-('Colombo (ang. via Paganini)','0459')
-('Deliperi (fronte via Beato Angelico)','0766')
-('Piero della Francesca (ang. via Peretti)','0134')
-('Dante (ang. via Todde)','0206')
-('Paganini (ang. v. Fogazzaro/ v. Zandonai','0707')
-('Marconi (Le Vele)','0912')
-('Riva Villasanta (ang. vico Villasanta)','0556')
-('Marconi (fronte scuola Foscolo)','0218')
-('Ciusa (fronte via San Carlo)','0233')
-('L. da Vinci (ang. via Rio Solanas)','0940')
-('Ciusa (ang. via San Carlo)','0234')
-('Castiglione (ang. via Sarpi)','0228')
-('Pessina (fronte via Taramelli)','0263')
-('Calamosca (Strada per il Faro)','0338')
-('Is Maglias (fronte Azuni)','0769')
-('Vesalio (ang. via Turr)','0247')
-('Emilia (ang. via Mandrolisai)','0104')
-('Scano (ang. via Gazzano)','0262')
-('Ginestre (ang. via Toti)','1125')
-('Poetto (ang. via Tramontana)','0371')
-('Poetto (stadio Amsicora)','0310')
-('Fiume (fronte via Norvegia)','2019')
-('Dante (Tribunale minori)','0312')
-('Pitz\' e Serra (Liceo)','0708')
-('Scano (chiesa)','0260')
-('Crespellani (oratorio)','2023')
-('Trieste (Comune)','0527')
-('Poetto (fronte Monfenera)','0333')
-('Poetto (fronte via dei Tritoni)','0335')
-('Italia (Vetreria)','0552')
-('San Fulgenzio (campi sportivi)','2010')
-('Cornalias (ang. via Brianza)','0890')
-('Cittadella Universitaria - Lato Cesar','2094')
-('Schiavazzi (scuola)','0642')
-('Carbonia (lato civico n°7)','2070')
-('Nazionale (ang. via Selargius)','0958')
-('Borgo Sant\'Elia (fronte via Livingstone)','0341')
-('Carlo Felice (Rinascente)','0042')
-('Parini (ang. via Leoncavallo)','0977')
-('La Playa (fronte parcheggio)','0033')
-('Giovanni XXIII (Chiesa)','0221')
-('Tramontana (campo Rossi)','0311')
-('Fieramosca (ang. via Trieste)','0987')
-('Autonomia Regionale (ang. via Trifoglio)','0727')
-('Merello (ang. via Vittorio Veneto)','0165')
-('Buoncammino (fronte Carcere)','0070')
-('della Menta (ang. via Mereu)','1151')
-('dei Conversi (piazza Padre Pio)','0188')
-('Italia (portici)','2000')
-('San Benedetto (ang. via Dublino)','0936')
-('Vidal (ang. via Besta)','0856')
-('Matteotti (capolinea 9)','1200')
-('Abruzzi (cimitero S. Michele)','0119')
-('Golfo di Quartu S.E. (Lido Mediterraneo)','0387')
-('Risorgimento (fronte via Berchet )','0812')
-('S\'Ecca S\'Arrideli (quarta fermata)','0853')
-('S. Avendrace (fronte via Montello)','0144')
-('Poetto (ang. via Tremiti)','0357')
-('Borgo Sant\'Elia (fronte piazza Callas)','0342')
-('Poetto (Lido Esercito)','0948')
-('dell\'Abbazia (ang. via Francoforte)','0211')
-('Caracalla (fermata Metrò)','1198')
-('Marconi (ponte pedonale)','0482')
-('Cittadella Univeritaria - lato Fisica','2088')
-('M.C.T.C.','0648')
-('Ciusa (ang. via Biasi)','0235')
-('Cimabue (scuole)','1252')
-('Nazionale (biblioteca)','0964')
-('Marconi (fronte le Vele)','0483')
-('Giulio Cesare (cimitero)','0829')
-('Cimitero','1254')
-('Lanusei (fronte civico n°51)','2069')
-('Monaco (ang. via Dalla Chiesa)','2027')
-('Diaz (Banco di Sardegna)','0632')
-('Diaz (ang. via Siracusa)','0241')
-('Sarcidano (ang. via Marmilla)','1165')
-('Riva Villasanta (ang. via Calamattia)','0237')
-('Colombo (ang. via Meucci)','0462')
-('Dante (ang. via Deledda)','0273')
-('San Benedetto (ang. via Bonn)','0848')
-('San Benedetto (scuole)','0935')
-('Crespellani (fronte oratorio)','2022')
-('Bonaria (Banco di Sardegna)','0266')
-('Golfo di Quartu S.E. (ang. via Fiume)','0400')
-('Cittadella Universitaria - Fronte Fisica','2095')
-('Poetto (fronte vecchio Ospedale)','0375')
-('Via delle Azalee altezza civico 79','2046')
-('Via San Giacomo (altezza civico n°130)','1022')
-('Sant\'Antonio (ang. via Fadda)','0451')
-('Buoncammino (fronte 4° chiosco)','2025')
-('Cittadella Universitaria - Fronte Neuroscienze','2096')
-('L. da Vinci (Scuole)','0425')
-('Musica (ang. via Stradivari)','0975')
-('Via delle Ortensie (lato civico 27)','2076')
-('San Gottardo (Stazione Metro Capolinea M','0742')
-('Schiavazzi (piazza Demuro)','0907')
-('Milano (ang. via Grosseto)','0285')
-('Calamattia (ang. via Santa Maria Chiara)','0216')
-('Paganini (ang. via Fogazzaro)','0706')
-('S\'Ecca S\'Arrideli (seconda fermata)','0553')
-('San Gottardo (fronte via Q.F. Massimo)','0662')
-('Diaz (parcheggi Fiera)','0917')
-('XX Settembre ( ex Corte dei Conti)','0022')
-('4 Novembre (ang. via Amsicora)','0701')
-('S. Avendrace (ang. via Flumendosa)','0147')
-('Dante (ang. via Cino da Pistoia)','1147')
-('Golfo di Quartu S.E. (Lido Finanza)','0383')
-('Diaz (Fiera)','0283')
-('Marconi (ang. via Volta)','0464')
-('Africa (ang. via Porto Torres)','1170')
-('Peretti (uffici ASL)','0764')
-('Redentore (ang. via Giulio Cesare)','0821')
-('della Pineta (ang. via dei Colombi)','0290')
-('Is Maglias (ang. via Pasubio)','0182')
-('Liguria (Pacinotti)','0078')
-('Campania (fronte via Mattei)','0083')
-('Lungosaline (ang. via Montecristo)','0350')
-('della Pineta (ang. via Dexart)','0293')
-('Marconi (ang. via Torricelli)','0478')
-('Lussu (ang. via Romagnino)','0680')
-('Sulcitana Elmas (piazza Suella)','0586')
-('Sulcitana Elmas (ang. via del Mare)','0588')
-('Verdi (fronte via Pascoli)','0513')
-('S.P. Villasimius (ang. via delle Acacie)','0440')
-('Zona Industriale Machiareddu altezza Sta','2055')
-('Brigata Sassari (ang. via Milano)','0916')
-('Trieste (fronte Assessorato RAS)','0161')
-('Vico (ang. via Iglesias)','0457')
-('L. da Vinci (ang. via Is Pardinas)','0754')
-('Trieste (ang. via 29 Novembre)','0162')
-('Margine Rosso (fronte via Marco Polo)','0409')
-('Nazionale (ang. via Ballero)','0962')
-('Giotto (ang. via Carpaccio)','0882')
-('Carmine (ang. via De Sanctis)','0597')
-('Vesalio (cittadella finanziaria)','0365')
-('San Gottardo (Chiesa)','0658')
-('Dante (ang. via San Lucifero)','0271')
-('Calamosca (Capolinea 511)','0340')
-('Autonomia Regionale (fronte via San Giov','0771')
-('Flavio Gioia (Chiesa)','0250')
-('Marconi (fronte quartiere Europeo)','0253')
-('Jenner (fronte Oncologico)','0131')
-('San Martino (cimitero Pirri)','0740')
-('Cinquini (parco San Michele)','1140')
-('Via delle Azalee altezza civico 9','2045')
-('San Giorgio (parcheggi)','0059')
-('San Benedetto (fronte Poste)','0207')
-('Roma (cimitero)','0675')
-('Ausonia (ang. Lungosaline)','0355')
-('Marconi (Credito Italiano)','0465')
-('Pergolesi (ang. via Cimarosa)','0191')
-('Cagna (ang. via Curie)','0301')
-('Ciociaria (fronte via Nebida)','1141')
-('Via Del REdentore (altezza civico n°56C)','1016')
-('Carmine (fronte Chiesa)','0601')
-('Borgo Sant\'Elia (fronte via Ferrara)','0074')
-('Zuddas (ang. via vico Zuddas)','0532')
-('Romagna (parcheggi)','0076')
-('Astrolabio (giardini)','0317')
-('Golfo di Quartu S.E. (fronte lido Carabi','0384')
-('Vittorio Veneto (ang. via Mazzini)','0945')
-('La Vega (Clinica)','0071')
-('Elmas (seconda fermata)','0117')
-('del Pino Solitario (ang. via Polveriera)','0835')
-('Poetto (fronte Ippodromo)','0374')
-('Via San Giacomo (altezza civico n°48)','1023')
-('S.P. Villasimius (ang. via Lago di Vares','0475')
-('Roma (fronte Stazione FS)','0040')
-('Santa Margherita (parcheggi)','0058')
-('Is Guadazzonis (Ospedale)','0858')
-('Tamburino Sardo (ang. via Montale)','1150')
-('dei Fiori (fronte via Ciclamini)','1128')
-('Schiavazzi (parco giochi)','0638')
-('Buoncammino (Polizia)','0065')
-('S. Avendrace (fronte via Coghinas)','0149')
-('Fiume (ang. via Borsellino)','2020')
-('La Playa (capolinea 29)','1146')
-('La Playa (fronte mercato Ittico)','0035')
-('Margine Rosso (ang. via Marco Polo)','0410')
-('Via della Libertà altezza civico 97','2048')
-('Nazionale (fronte chiesa)','0624')
-('Sauro (uffici comunali)','0158')
-('S. Avendrace (ang. via Tirso)','0146')
-('Raffa Garzia','0857')
-('Riva Villasanta (ang. via Randaccio)','0244')
-('Schiavazzi (fronte piazza Pigafetta)','0646')
-('Poetto (Via Dell\'Idrovora - Fronte Osped','0378')
-('Flumini','0413')
-('Europa (parco)','0913')
-('Caracalla (ang. via S. Giuliano)','1187')
-('Chiabrera (ang. via Rosa)','1103')
-('Crespellani (fronte via Tintoretto)','0886')
-('Pitz\' e Serra (fronte N.S. del Buoncammi','0752')
-('Castiglione (ang. via Grandi)','0227')
-('Colombo (fronte Polizia Municipale)','0525')
-('Marconi (fronte Clinica)','0911')
-('Mazzini (poliambulatorio)','0670')
-('Marconi (ang. via Angioy)','0470')
-('Marconi (fronte via Torricelli)','0480')
-('Flavio Gioia (fronte Chiesa)','0249')
-('Archimede (fronte via Avogadro)','1145')
-('Piovella (fronte chiesa)','0095')
-('Cagliari (ang. via Firenze)','1111')
-('Is Mirrionis (fronte Magistero)','2026')
-('Cabras (Polizia Municipale)','0547')
-('Sant\'Ignazio da Laconi (lato civico n.74)','2065')
-('Pisano (parco Terramaiani)','1181')
-('Pola (ang. via Mameli)','0159')
-('Jenner (Casa Accoglienza)','0872')
-('Is Guadazzonis (scuole)','0860')
-('Lungosaline (ang. Via Gorgona)','0348')
-('Bacaredda (vico S. Giovanni)','0010')
-('Roma (Molo Sanità)','0024')
-('San Gavino','0542')
-('L. da Vinci (Su Meriagu)','0421')
-('Tiepolo (fronte piazza Tiepolo)','0884')
-('I Maggio (fronte liceo)','0490')
-('Duca di Genova (ang. via Conte Verde)','1132')
-('Centro commerciale','1174')
-('Merello (fronte via Vittorio Veneto)','0167')
-('Pergolesi (ang. via Rossini)','0192')
-('Cagna (ang. via Is Guadazzonis)','0861')
-('Pisano (centro commerciale)','1134')
-('Nazionale (fronte via Toscana)','0618')
-('Cadello (fronte uffici Citt Metropolitana)','0091')
-('Pergolesi (ang. via Donizetti)','0190')
-('Schiavazzi (fronte scuola)','0645')
-('Trieste (Poste)','0506')
-('Scano (ang. via Cugia)','0259')
-('Golfo di Quartu S.E. (fronte Fortino)','0398')
-('Brigata Sassari (CTM Point)','0466')
-('L. da Vinci (Hotel Califfo)','0415')
-('Poetto (fronte G.Rossi)','0322')
-('Marmilla (ang. via Monsignor Virgilio)','1123')
-('Poetto (ang. via San Pietro)','0359')
-('Elmas (ang. via dell\'Industria)','0363')
-('Nazionale (ang. via Stazione)','0622')
-('Quirra (mercato civico)','0032')
-('della pace (cimitero)','1272')
-('Giorgino (ex fabbrica)','0564')
-('Chiabrera (ang. via Stampa)','1101')
-('Cittadella Universitaria - Lato Biblioteca','2090')
-('Campania (ang. via Mattei)','0082')
-('Jenner (fronte Casa Accoglienza)','0870')
-('Matteotti (capolinea PF - PQ)','0028')
-('Giovanni XXIII (fronte via Alberti)','0222')
-('Africa (fronte via Iglesias)','1166')
-('Binaghi (ang. via Aresu)','1142')
-('Nazionale (ang. via Stazione)','0621')
-('Cittadella Universitaria - Lato Medicina','2093')
-('Sonnino (Archivio di Stato)','0811')
-('S.S. 391 Assemini - Decimo (seconda ferm','0639')
-('L. da Vinci (ang. via Buonarroti)','0643')
-('Calamosca (fronte Strada Faro)','0339')
-('Flumini (Circonvallazione)','0494')
-('Cabras (ang. vico Zuddas)','0427')
-('S.S. 554 (cavalcavia pedonale)','0750')
-('Regina Elena (fronte Bastione)','0053')
-('Cittadella Universitaria QSA','0735')
-('Roma (Stazione FS)','0039')
-('Sini (ang. via Gherardo delle Notti)','0896')
-('Via San Giovanni (altezza civico n°361)','1020')
-('Via Delle Azalee fronte civico 79','2053')
-('Golfo di Quartu S.E. (Torre)','0389')
-('Cimitero (cimitero di Bonaria)','0334')
-('S.P. Villasimius (fronte via delle Acaci','0441')
-('Scirocco (ang. via Ghibli)','0316')
-('Don Minzoni (fronte Scuole)','0505')
-('Libeccio (fronte via Aquilone)','0315')
-('Carpaccio (fronte Circoscrizione)','0139')
-('Calamosca (prima fermata)','0370')
-('Merello (ang. via Oslavia)','0164')
-('Trieste (fronte via Tirana)','0528')
-('S.P. Villasimius (fronte via Transatlant','0432')
-('L. da Vinci (Hotel Setar)','0417')
-('Fiume (fronte via Borsellino)','2021')
-('Golfo di Quartu S.E. (fronte Bussola)','0388')
-('Baronia (ang. via Edison)','1178')
-('della Pineta (ang. via Firenze)','0294')
-('Nigra (fronte polisportiva)','1107')
-('Italia (ang. via Dalla Chiesa)','2030')
-('San Gottardo (ang. via Dorgali)','0661')
-('F.lli Bandiera (fronte via Bayle)','0452')
-('Piemonte (fronte via Ciusa)','0703')
-('La Playa (mercato ittico)','0037')
-('Trieste (Assessorato RAS)','0160')
-('Risorgimento (ang. via Mentana)','0364')
-('Buoncammino (ang. via Belvedere)','0069')
-('Sulcitana Assemini (ang. via Sitzia)','0731')
-('Colombo (scuole)','0460')
-('Santa Maria Chiara (fronte via Calamatti','0240')
-('San Benedetto (ang. via Fiume)','2024')
-('Trento (teatro Massimo)','0155')
-('Pitz\' e Serra (ang. via Danimarca)','0705')
-('Pizzetti (fronte spiazzo)','1259')
-('Danimarca (ang. via Pitz\'e Serra)','0925')
-('Via Castelli lato civico n°19','2063')
-('Gallus (ang. vico Gallus)','0498')
-('San Bartolomeo (fronte piazza)','0326')
-('Marconi (clinica)','0915')
-('S.P. Villasimius (fronte via Lago D\'alse','0472')
-('Eligio Porcu (ang. via Cavour)','0979')
-('Puglia (parcheggi)','0122')
-('Golfo di Quartu S.E. (Fortino)','0397')
-('Fiume (ang. via Fieramosca)','0448')
-('Vesalio (scuole)','0684')
-('Bacaredda (Conservatorio)','0011')
-('Autonomia Regionale (ang. via Molinu Coc','0633')
-('Italia (ang. via Dalla Chiesa)','2005')
-('Lungosaline (fronte via Ischia)','0353')
-('Lungosaline (ang. via Ischia)','0352')
-('Diaz (uffici Abbanoa)','0265')
-('Giotto (ang. via Carpaccio)','0140')
-('Margine Rosso (fronte via Neapolis)','0405')
-('Segni (fronte via Putzolu)','1154')
-('Marongiu (fronte Cimitero San Michele)','0112')
-('Stendardi (fronte palestra)','0628')
-('Autonomia Regionale (ang. via Cixerri)','0726')
-('Bellini (ang. via S.Martino)','0679')
-('della Pineta (fronte via dei Colombi)','0291')
-('Barracca Manna (ang. via Ungaretti)','1153')
-('4 Novembre (fronte via Fiume)','0849')
-('Fiume (ang. via San Benedetto)','0446')
-('Bacaredda (ang. piazza Garibaldi)','0813')
-('San Lorenzo (ang. via Tonara)','0653')
-('Is Maglias (ang. via trincea delle Frasc','0181')
-('Paoli (ang. via Tola)','0198')
-('Vico (ang. via Salvemini)','0455')
-('S.S. 391 Elmas (fronte Provveditorato)','0582')
-('Danimarca (ang. via Bulgaria)','0984')
-('Pitz\'e Serra (Giua)','0709')
-('Trentino (fronte via Molise)','0873')
-('Regina Elena (Unione Sarda)','0063')
-('Sonnino (Piazza Gramsci)','0021')
-('Tasso (ang. via Petrarca)','0991')
-('Africa (ang. via Iglesias)','1176')
-('Castiglione (ang. via Serra)','0232')
-('Torricelli (ang. via Asfodelo)','1105')
-('Via della Libertà civico 33','2050')
-('S\'Arrulloni (fronte campi sportivi)','0974')
-('Porcell (ang. via dei Genovesi)','0062')
-('Sole (fronte via del Sestante)','0318')
-('Golfo di Quartu S.E. (fronte lido VV.FF.','0386')
-('Via delle Agavi (lato civico 63B)','2075')
-('Marconi (ang. via Cavaro)','1265')
-('Giulio Cesare (ang. via Sant\'Angelo)','0816')
-('della Pineta (ang. via Milano)','0288')
-('Rio Sa Murta (ang. via Tevere)','2040')
-('Via delle Begonie (Altezza Palestra)','2052')
-('Nazionale (ang. via Italia)','0619')
-('Piovella (piazza d\'Esquivel)','0088')
-('28 Febbraio (Assessorato RAS)','0224')
-('Cadello (ang. via dei Falletti)','0084')
-('Carpaccio (Circoscrizione)','0883')
-('Gherardo delle Notti (scuole)','0732')
-('S\'Ecca S\'Arrideli (prima fermata)','0719')
-('Autonomia Regionale (ang. via Menta Fior','0736')
-('S.S. 391 Decimo - Assemini (seconda ferm','0616')
-('Regina Elena (Terrapieno)','0066')
-('Vidal (ang. via Solmi)','0855')
-('Is Mirrionis (Chiesa)','0087')
-('Roma (fronte Molo Sanità)','0739')
-('Cornalias (ang. via Perugino)','0804')
-('San Benedetto (ang. via Parigi)','0938')
-('Europa (fronte parco)','1163')
-('Nazionale (chiesa)','0625')
-('Stazione (capolinea 9)','0627')
-('Cagna (ang. via Malpighi)','0862')
-('Is Maglias (fronte via Montegrappa)','0177')
-('S.P. Villasimius (fronte Camping)','0437')
-('Diaz (ang. via Bottego)','0275')
-('San Gavino (ang. via Crasso)','0818')
-('Is Maglias (ang. via Doberdò)','0179')
-('Poetto (ex Ospedale Marino)','0376')
-('L. da Vinci (ang. via S. Giovanni)','0420')
-('Santa Maria Chiara (scuole)','0242')
-('Cadello (uffici Citt Metropolitana)','0092')
-('Ciusa (Leonardo da Vinci)','0007')
-('Ospedale (ospedale)','0061')
-('Giotto (giardini)','0141')
-('Giotto (ang. via Deliperi)','0805')
-('Deliperi (fronte scuola)','0806')
-('Carmine (fronte via Montale)','0600')
+insert into ctm.fermate values ('San Bartolomeo (caserma carabinieri)','0325', 'Linea_5_R Linea_5e11_R Linea_6_R','39.1973820489,9.14458993234');
+insert into ctm.fermate values ('Elmas (fronte via del Fangario)','0125', 'Linea_9_A','39.2421657958,9.09082302593');
+insert into ctm.fermate values ('Colombo (ang. via Salieri)','0523', 'Linea_QS_A','39.2312898616,9.18849988446');
+insert into ctm.fermate values ('Verdi (ang. via Bellini)','0517', 'Linea_40_A','39.2361501183,9.18062246548');
+insert into ctm.fermate values ('Cabras (campi sportivi)','0654', 'Linea_M_R Linea_8_R Linea_8A_R Linea_19_R Linea_QS_A Linea_QSB_R','39.2510318899,9.14473481034');
+insert into ctm.fermate values ('Costituzione (Bastione)','0051', 'Linea_7_A','39.2157413109,9.11664262676');
+insert into ctm.fermate values ('della Pineta (fronte via Dexart)','0292', 'Linea_3_R Linea_6_A','39.2112204858,9.13115951959');
+insert into ctm.fermate values ('delle Serre (ang. via Verdi)','0960', 'Linea_18_A','39.248969317,9.17070070674');
+insert into ctm.fermate values ('Cabras (cantina sociale)','0467', 'Linea_M_A Linea_8_A Linea_8A_A Linea_19_A Linea_29_A Linea_QS_R Linea_QSB_A','39.2526003748,9.13676463984');
+insert into ctm.fermate values ('Roma (Molo Dogana)','0734', 'Linea_1_R Linea_M_R Linea_5_R Linea_5e11_R Linea_29_A Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R Linea_PF_A Linea_PQ_A','39.2127795338,9.11384629821');
+insert into ctm.fermate values ('Bonaria (Banca CIS)','0268', 'Linea_5_R Linea_5e11_R Linea_6_A Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2100856,9.12244755871');
+insert into ctm.fermate values ('Marconi (Istituto Marconi)','0255', 'Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2357101181,9.14026571304');
+insert into ctm.fermate values ('Bembo (chiesa)','1191', 'Circolare_CEP_A','39.2329189682,9.13064377677');
+insert into ctm.fermate values ('Cimabue (ang. via Diaz)','1251', 'Linea_41_A','39.2477075934,9.1883815877');
+insert into ctm.fermate values ('Poetto (lido Polizia)','0381', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.2185662475,9.18312579992');
+insert into ctm.fermate values ('Poetto (ang. via Pantelleria)','0180', 'Linea_PF_R Linea_PQ_R','39.1960749893,9.15205631756');
+insert into ctm.fermate values ('San Fulgezio (ang. via Argentina)','1186', 'Linea_29_A','39.2618698352,9.13114953934');
+insert into ctm.fermate values ('Porto Botte (ang. via Aritzo)','1185', 'Linea_29_A','39.2578750853,9.13379623045');
+insert into ctm.fermate values ('Brigata Sassari (ang. via Lombardia)','0914', 'Linea_19_A Linea_31_R Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2437213524,9.17918182259');
+insert into ctm.fermate values ('Regina Elena (Bastione)','0749', 'Linea_6_A Linea_7_A Linea_10_R','39.2161375518,9.11687494722');
+insert into ctm.fermate values ('Sonnino (ang. via Alghero)','0019', 'Linea_1_R Linea_M_R Linea_10_R Linea_29_A','39.2174305403,9.12133672091');
+insert into ctm.fermate values ('Marconi (fronte via Tommaseo)','0219', 'Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2266745609,9.13060902955');
+insert into ctm.fermate values ('Flavio Gioia (portici)','0252', 'Linea_1_R Circolare_CEP_A','39.2342052225,9.13266216268');
+insert into ctm.fermate values ('Giulio Cesare (fronte cimitero)','0826', 'Linea_QSA_R','39.264951214,9.13915325866');
+insert into ctm.fermate values ('Sulcitana Assemini (ang. via delle Margh','0595', 'Linea_9_R Linea_19_A','39.2776373971,9.02600392356');
+insert into ctm.fermate values ('Trento (ang. via Zara)','0153', 'Linea_1_A','39.2245937404,9.10298741053');
+insert into ctm.fermate values ('Diaz (fronte Fiera)','0282', 'Linea_PF_R Linea_PQ_R','39.2056536119,9.12956249751');
+insert into ctm.fermate values ('Porto Botte (ang. via Scevola)','1184', 'Linea_29_A','39.2550285326,9.13307226274');
+insert into ctm.fermate values ('Giudicati (capolinea 13)','0300', 'Linea_13_A Linea_13_A','39.2283838033,9.12494700835');
+insert into ctm.fermate values ('Is Maglias (ang. via dei Punici)','0174', 'Linea_8_A Linea_8A_A Linea_20_R','39.2283821261,9.10864655191');
+insert into ctm.fermate values ('S. Avendrace (ang. via Montello)','0145', 'Linea_1_A Linea_9_R','39.2325006407,9.09779688339');
+insert into ctm.fermate values ('Barracca Manna (fronte via Saba)','1152', 'Linea_13_A Linea_15_A','39.2557303,9.11729993483');
+insert into ctm.fermate values ('Milano (ang. via Perugia)','0281', 'Linea_5_A Linea_5e11_A','39.2081061276,9.12813084517');
+insert into ctm.fermate values ('Chiaramonti (capolinea 18)','0955', 'Linea_18_A Linea_18_A','39.2570575763,9.1847094081');
+insert into ctm.fermate values ('Peretti (Hotel Quadrifoglio)','0765', 'Linea_1_A Linea_University_Express_A Linea_19_R Linea_QS_A Linea_QSB_R','39.2516429699,9.1041047498');
+insert into ctm.fermate values ('Dante (fronte San Saturnino)','0270', 'Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2137152809,9.12401754634');
+insert into ctm.fermate values ('Marconi (Vigili del Fuoco)','0636', 'Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2411502127,9.1494305543');
+insert into ctm.fermate values ('Trieste (chiesa)','0041', 'Linea_1_A Linea_5_A Circolare_San_Simone_A Linea_5e11_A Linea_9_R','39.2173713417,9.10825890944');
+insert into ctm.fermate values ('Nazionale (fronte municipio)','0957', 'Linea_18_A','39.254244642,9.1799735105');
+insert into ctm.fermate values ('Cagliari (ang. via Livorno)','1112', 'Linea_30R_R Linea_41_A','39.2468186507,9.18644396691');
+insert into ctm.fermate values ('Carmine (ang. via Sardegna)','0605', 'Linea_9_R Linea_19_A','39.2861101295,9.00681772148');
+insert into ctm.fermate values ('Scano (ang. via Marini)','0261', 'Linea_3_R','39.2134563475,9.1300980613');
+insert into ctm.fermate values ('Cornalias (acquedotto)','0803', 'Linea_1_A Linea_20_A','39.2473089144,9.10399404677');
+insert into ctm.fermate values ('Riva Villasanta (ang. via dei Grilli)','0238', 'Linea_M_R Linea_19_R','39.2377187882,9.12507943259');
+insert into ctm.fermate values ('Africa (ang. via Cipro)','1177', 'Linea_9_R Linea_19_A','39.2977519808,8.9948974588');
+insert into ctm.fermate values ('ZI Protezione civile','1006', 'Linea_Zona_Industriale_A','39.2473338206,8.97144623934');
+insert into ctm.fermate values ('San Vincenzo (lato civico n°45)','2068', 'Linea_10_R','39.2265823564,9.11553682784');
+insert into ctm.fermate values ('Basilicata (scuole)','0875', 'Linea_13_A','39.2283756305,9.11540074503');
+insert into ctm.fermate values ('La Vega (ang. viale San Vincenzo)','0072', 'Linea_6_A','39.2247691464,9.11758434016');
+insert into ctm.fermate values ('Lunigiana (Hotel Sardegna)','0120', 'Linea_3_A','39.2417809348,9.09870200251');
+insert into ctm.fermate values ('della Resistenza (mercato)','2014', 'Linea_15_A','39.2458400288,9.13093427106');
+insert into ctm.fermate values ('Basilicata (Magistero)','0874', 'Linea_13_A','39.2297381632,9.11345661623');
+insert into ctm.fermate values ('Poetto (fronte via Grecale)','0328', 'Linea_PF_A Linea_PQ_A','39.1993629898,9.14574046075');
+insert into ctm.fermate values ('S. Michele (altezza civico n. 60)','0142', 'Linea_1_R Linea_9_A','39.2360684115,9.09836957564');
+insert into ctm.fermate values ('Lungosaline (fronte via Montecristo)','0351', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.1987604385,9.15863976454');
+insert into ctm.fermate values ('Via San Giovanni (altezza civico n°209)','1019', 'Linea_7_A','39.2206406733,9.1191065383');
+insert into ctm.fermate values ('Bonaria (fronte Basilica)','0277', 'Linea_5_R Linea_5e11_R','39.2078298554,9.12531594716');
+insert into ctm.fermate values ('Vidal (fronte via Besta)','0865', 'Linea_10_A','39.2147517324,9.13202323194');
+insert into ctm.fermate values ('Sant''Elena (chiesa)','0469', 'Linea_30R_A','39.242435416,9.18330372207');
+insert into ctm.fermate values ('San Benedetto (Poste)','0208', 'Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2245048327,9.12893682365');
+insert into ctm.fermate values ('Matteotti (fronte stazione FS)','0832', 'Linea_8_A Linea_8_R Navetta_Giorgino_A Navetta_Giorgino_R Linea_8A_R Linea_29_A','39.215369872,9.10941414754');
+insert into ctm.fermate values ('Is Maglias (ang. via Asiago)','0172', 'Linea_8_A Linea_8A_A Linea_20_R','39.2338577756,9.10186550818');
+insert into ctm.fermate values ('Pessina (Palazzo di Giustizia)','0867', 'Linea_10_A','39.2162272552,9.12591003609');
+insert into ctm.fermate values ('Paoli (ang. via Settembrini)','0199', 'Linea_1_A','39.2202397149,9.1234150775');
+insert into ctm.fermate values ('Marongiu (Cimitero San Michele)','0810', 'Linea_1_R','39.2437332115,9.10223901171');
+insert into ctm.fermate values ('Matteotti (fronte ARST)','1168', 'Linea_5_A Circolare_San_Simone_A Circolare_San_Simone_R Linea_5e11_A Linea_Zona_Industriale_A Linea_Zona_Industriale_A Carcere_Uta_A Carcere_Uta_R','39.2150637128,9.10919359412');
+insert into ctm.fermate values ('Ospedale (clinica Macciotta)','0060', 'Linea_7_A Linea_8_R Linea_8A_R','39.221637881,9.11306129912');
+insert into ctm.fermate values ('Santa Maria Chiara (ang. via Montecuccol','1160', 'Linea_15_A','39.2446309085,9.12424578948');
+insert into ctm.fermate values ('Via Delle Azalee fronte civico 9','2054', 'Linea_17_A','39.2598682878,9.14721015061');
+insert into ctm.fermate values ('Sulcitana Elmas (prima fermata)','0587', 'Linea_9_R Linea_19_A','39.268665129,9.04714421256');
+insert into ctm.fermate values ('Cinquini (fronte via da Paganello)','1148', 'Linea_5_R Linea_5e11_R','39.2412861854,9.10791327477');
+insert into ctm.fermate values ('Bacaredda (fronte via Benedetta)','0009', 'Linea_M_A Linea_6_R Circolare_CEP_A','39.2271997786,9.11981272739');
+insert into ctm.fermate values ('Cocco Ortu (ang. via Foscolo)','0202', 'Linea_6_A','39.2233562849,9.12449788658');
+insert into ctm.fermate values ('Pitz'' e Serra (ang. via Cecoslovacchia)','0704', 'Linea_30R_R Linea_40_A Linea_1Q_R Linea_PQ_R','39.2403953414,9.20186114258');
+insert into ctm.fermate values ('ZI NIVEA (lavanderia industriale)','1009', 'Linea_Zona_Industriale_A','39.2303419457,8.98379177098');
+insert into ctm.fermate values ('Borgo Sant''Elia (ang. via Livingstone)','0906', 'Linea_6_A','39.1928991941,9.14089848831');
+insert into ctm.fermate values ('Hospedale Brotzu (lato pronto soccorso)','2097', 'Linea_13_A','39.2500263043,9.10821638918');
+insert into ctm.fermate values ('Brotzu (ang. via Piero della Francesca)','0733', 'Linea_1_A Linea_19_R','39.2519155925,9.10149759926');
+insert into ctm.fermate values ('Lungosaline (fronte via Gorgona)','0349', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.1972112482,9.1581499152');
+insert into ctm.fermate values ('S.S. 391 Assemini - Decimo (prima fermat','0615', 'Linea_9_R','39.2986429784,8.98350930558');
+insert into ctm.fermate values ('Elmas (centro commerciale)','0578', 'Linea_9_A Linea_19_R Linea_Zona_Industriale_A Carcere_Uta_A','39.257794087,9.07270468609');
+insert into ctm.fermate values ('Fiume (ang. via San Salvatore)','0447', 'Linea_19_R Linea_QSA_R Linea_QSB_R','39.2372940075,9.19756517205');
+insert into ctm.fermate values ('Ospedale Brotzu (capolinea 1)','0520', 'Linea_1_A Linea_1_R Linea_13_A','39.2504581481,9.10893556389');
+insert into ctm.fermate values ('Ciusa (Citt Metropolitana)','0006', 'Linea_3_R Linea_M_R Linea_16_R','39.2301098033,9.1202463404');
+insert into ctm.fermate values ('Ciusa (ang. via Donoratico)','0003', 'Linea_M_R Linea_16_A','39.2318114599,9.12157002779');
+insert into ctm.fermate values ('Canneto (ang. via Vesalio)','0248', 'Linea_1_R','39.2385600145,9.1303529784');
+insert into ctm.fermate values ('dei Conversi (fermata Metrò)','0189', 'Linea_6_A','39.2201770127,9.13131519101');
+insert into ctm.fermate values ('San Michele (angolo via Redipuglia)','0106', 'Linea_1_A Linea_8_R Linea_8A_R Linea_9_R Linea_20_A','39.2374542831,9.10045712556');
+insert into ctm.fermate values ('S.P. Villasimius (ang. via lago Alserio)','0429', 'Linea_1Q_R Linea_PF_A','39.2157165171,9.30126659388');
+insert into ctm.fermate values ('S''Ecca S''Arrideli (ang. via Lago Simbir','0713', 'Linea_1Q_A','39.2417275012,9.23616377517');
+insert into ctm.fermate values ('Is Maglias (nuovi edifici)','2038', 'Linea_8_A Linea_8A_A Linea_20_R','39.2307635413,9.10584649729');
+insert into ctm.fermate values ('Piovella (fronte via Sella)','0094', 'Linea_5_A Linea_5e11_A','39.2385603271,9.11278719582');
+insert into ctm.fermate values ('Bacaredda (Mercato Civico)','0014', 'Linea_M_R','39.2233231681,9.12172915108');
+insert into ctm.fermate values ('Bonaria (RAI)','0269', 'Linea_5_A Linea_5e11_A Linea_6_R Linea_29_R Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2102389654,9.12227409094');
+insert into ctm.fermate values ('Matteotti (capolinea 30 - 31)','0030', 'Linea_30_A Linea_30_R Linea_30R_A Linea_30R_R Linea_31_A Linea_31_R Linea_31R_A Linea_31R_R','39.2152346563,9.10947185316');
+insert into ctm.fermate values ('Poetto (Via Dell''Idrovora - Lato Ospedal','0377', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.2130943943,9.17284928263');
+insert into ctm.fermate values ('Vico Regina Margherita (lato civico n°3)','2071', 'Linea_10_R','39.2143980106,9.11733538164');
+insert into ctm.fermate values ('Mandas (ang. via Marrubiu)','0966', 'Linea_18_A','39.2565546107,9.1836765888');
+insert into ctm.fermate values ('Curie (ang. via Corsica)','0863', 'Linea_10_A','39.2088356348,9.13639016619');
+insert into ctm.fermate values ('San Gottardo (ang. via Diocleziano)','0659', 'Linea_M_R Linea_8_R Linea_8A_R Linea_17_A Linea_QSA_A','39.2610242724,9.14512625622');
+insert into ctm.fermate values ('Rosselli (parco comunale)','0844', 'Linea_19_R Linea_30_A Linea_30R_A Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2519487406,9.17281715111');
+insert into ctm.fermate values ('S.S. 391 Decimo - Assemini (prima fermat','0839', 'Linea_9_A','39.3018319016,8.97835933058');
+insert into ctm.fermate values ('Via Jenner Ospedale Brotzu','2079', 'Linea_13_A','39.2487713095,9.11087984054');
+insert into ctm.fermate values ('Trento (uffici regionali)','0152', 'Linea_1_R','39.2248014269,9.10248957334');
+insert into ctm.fermate values ('Via Luigi Pirandello (fronte civico 3)','2080', 'Linea_13_A','39.2509443307,9.11856674735');
+insert into ctm.fermate values ('Balilla (ang. via Marmilla)','1122', 'Linea_15_A','39.2481658927,9.12160984665');
+insert into ctm.fermate values ('De Petris (ang. via Manara)','1102', 'Linea_41_A','39.2340306096,9.18758032335');
+insert into ctm.fermate values ('Elmas (distributore)','0124', 'Linea_9_R','39.2429500348,9.09043005706');
+insert into ctm.fermate values ('Policlinico Universitario','0830', 'Linea_8_A Linea_8_R Linea_University_Express_A Linea_University_Express_R Linea_29_A Linea_29_R','39.2713625561,9.12712151005');
+insert into ctm.fermate values ('L. da Vinci (Loc. Sa Tiacca)','0729', 'Linea_PF_A','39.2205113599,9.26363929079');
+insert into ctm.fermate values ('Mameli (ang. largo Carlo Felice)','0044', 'Linea_1_R','39.216718707,9.11233524225');
+insert into ctm.fermate values ('Piero della Francesca (fronte via Montebianco)','0887', 'Linea_20_A','39.2566728256,9.10197964443');
+insert into ctm.fermate values ('S.P. Villasimius (ang. via Transatlantic','0433', 'Linea_1Q_R','39.2097848983,9.30911712468');
+insert into ctm.fermate values ('Elmas (Istituto Agrario)','0581', 'Linea_9_R Linea_19_A Linea_Zona_Industriale_A Carcere_Uta_R','39.262854965,9.06259103152');
+insert into ctm.fermate values ('Agavi (fronte via dei Castagni)','1126', 'Linea_13_A Linea_15_A','39.2556082903,9.12203993268');
+insert into ctm.fermate values ('Fiume (ang. via Umbria)','0445', 'Linea_19_R Linea_40_A Linea_QSA_R Linea_QSB_R','39.2364256043,9.19954403974');
+insert into ctm.fermate values ('San Benedetto (Buon Pastore)','0217', 'Linea_1_R Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2218317379,9.12610539425');
+insert into ctm.fermate values ('I Maggio (Liceo)','0491', 'Linea_17_R Linea_30_A Linea_30R_A','39.2473625795,9.16000074442');
+insert into ctm.fermate values ('Circonv. Pirri (ang. via Timo)','1139', 'Linea_16_A','39.253211287,9.11327423688');
+insert into ctm.fermate values ('Cugia (Dettori)','0918', 'Linea_10_A','39.2158467351,9.12780900021');
+insert into ctm.fermate values ('Cugia (ang. via Randaccio)','0919', 'Linea_10_A','39.2157816891,9.12959269243');
+insert into ctm.fermate values ('S.P. Villasimius (ang. via dei Pioppi)','0438', 'Linea_1Q_A','39.1993660935,9.32650004822');
+insert into ctm.fermate values ('Via San Giovanni (altezza civico n°83)','1018', 'Linea_7_A','39.218523774,9.11848902871');
+insert into ctm.fermate values ('Crespellani (polizia municipale)','0885', 'Linea_20_A','39.2563952724,9.09992783625');
+insert into ctm.fermate values ('Parcheggi Stadio (capolinea 6)','0901', 'Linea_6_A Linea_6_R','39.1984979254,9.13837357545');
+insert into ctm.fermate values ('Piero della Francesca (ang. via Aresu)','0845', 'Linea_20_A','39.2544378275,9.10237045123');
+insert into ctm.fermate values ('Aquilone (fronte via Ostro)','0313', 'Linea_3_A','39.2037165747,9.14463766158');
+insert into ctm.fermate values ('Milano (ang. via Messina)','0284', 'Linea_5_R Linea_5e11_R','39.2076434365,9.13095597482');
+insert into ctm.fermate values ('L. da Vinci (fronte Hotel Setar)','0416', 'Linea_PF_R','39.2213356825,9.25356422676');
+insert into ctm.fermate values ('Fiume (canneto)','0941', 'Linea_PF_A','39.2329190355,9.21549960242');
+insert into ctm.fermate values ('Buoncammino (Anfiteatro Romano)','0068', 'Linea_8_A Linea_8A_A Linea_20_R','39.2243754586,9.11479179564');
+insert into ctm.fermate values ('Marconi (fronte Asse Mediano)','0230', 'Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2310404406,9.13441722865');
+insert into ctm.fermate values ('Santa Maria Chiara (ang. via Balilla)','0555', 'Linea_M_A Linea_8_A Linea_8A_A Linea_15_A Linea_19_A Linea_QS_R Linea_QSB_A','39.2453580912,9.12673850238');
+insert into ctm.fermate values ('Caracalla (ang. via Capo d''Orso)','1188', 'Linea_29_R','39.2545244893,9.13258454869');
+insert into ctm.fermate values ('Autonomia Regionale (prima fermata)','0720', 'Linea_1Q_R','39.2427681604,9.27519430946');
+insert into ctm.fermate values ('Cittadella Universitaria - Lato Neuroscienze','2087', 'Linea_University_Express_A','39.2690877418,9.12256176249');
+insert into ctm.fermate values ('Fiume (fronte canneto)','0443', 'Linea_PF_R','39.2331906613,9.2147936852');
+insert into ctm.fermate values ('Is Mirrionis (ang. via Fontana Raminosa)','0102', 'Linea_3_A Linea_8_A Linea_8A_A','39.2371160307,9.10593714856');
+insert into ctm.fermate values ('Dante (ang. via Farina)','0197', 'Linea_29_R Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2183819708,9.12484819259');
+insert into ctm.fermate values ('Abruzzi (chiesa)','0894', 'Linea_1_R Linea_8_A Linea_8A_A Linea_9_A Linea_20_R','39.2382117814,9.09976299348');
+insert into ctm.fermate values ('Dalla Chiesa (fronte via Austria)','2007', 'Linea_40_A','39.2350188337,9.21040803818');
+insert into ctm.fermate values ('del Pino Solitario (fronte via Garofani)','0834', 'Linea_9_R Linea_19_A','39.2718976572,9.05253685428');
+insert into ctm.fermate values ('Ippodromo (ang. via Ausonia)','0356', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.2064196129,9.16511954868');
+insert into ctm.fermate values ('Trieste (ang. via S. Paolo)','0150', 'Circolare_San_Simone_R Linea_9_A','39.224586404,9.10107593554');
+insert into ctm.fermate values ('San Fulgenzio (ang. via Mure)','0737', 'Linea_M_A Linea_8_A Linea_29_R','39.2602188575,9.13293139876');
+insert into ctm.fermate values ('Jenner (ang. via Koch)','0842', 'Linea_13_A Linea_19_R Linea_QS_A Linea_QSB_R','39.2410964996,9.1176927043');
+insert into ctm.fermate values ('Berna (fronte Scuola)','0345', 'Linea_6_A','39.2261921206,9.13488296104');
+insert into ctm.fermate values ('Mameli (ang. via Sassari)','0045', 'Linea_1_R','39.2177476613,9.11052985483');
+insert into ctm.fermate values ('Autonomia Regionale (lato Cava)','0725', 'Linea_1Q_A','39.2329002392,9.27947732965');
+insert into ctm.fermate values ('Carmine (pressi Hotel Grillo)','0604', 'Linea_9_A Linea_19_R','39.2842446889,9.01004079963');
+insert into ctm.fermate values ('Schiavazzi (piazza Silesu)','0347', 'Linea_6_R','39.1958968498,9.13578615214');
+insert into ctm.fermate values ('San Michele (Chiesa)','0108', 'Linea_3_R Linea_University_Express_R Linea_16_R','39.2375805431,9.10032985116');
+insert into ctm.fermate values ('Italia (ang. via Sinnai)','0815', 'Linea_M_R Linea_8_R Linea_8A_R Linea_15_A Linea_19_R Linea_QS_A Linea_QSB_R','39.2501629982,9.13285446761');
+insert into ctm.fermate values ('Manin (fronte via Sauro)','0493', 'Linea_19_A Linea_30R_R Linea_31_R Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2510053801,9.16469096687');
+insert into ctm.fermate values ('Elmas (fronte via Infante Alfonso)','0361', 'Linea_9_A','39.2450238627,9.08865975689');
+insert into ctm.fermate values ('De Petris (fronte campo Rosas)','0989', 'Linea_40_A','39.2341835861,9.18770817888');
+insert into ctm.fermate values ('Margine Rosso (ang. via Pianosa)','0411', 'Linea_PF_A','39.2258988316,9.24337441006');
+insert into ctm.fermate values ('Parigi (lato sede Polizia Municipale)','2085', 'Circolare_CEP_A','39.2383104223,9.13586787428');
+insert into ctm.fermate values ('Mattei (ang. via Campania)','0868', 'Linea_13_A','39.2336220129,9.1132311482');
+insert into ctm.fermate values ('Regina Elena (Unione Sarda)','0064', 'Linea_6_R Linea_10_A','39.2200831857,9.11794720721');
+insert into ctm.fermate values ('Schiavazzi (piazza Pigafetta)','0541', 'Linea_6_A','39.1934594791,9.13955638337');
+insert into ctm.fermate values ('Poetto (caserma Monfenera)','0332', 'Linea_PF_A Linea_PQ_A','39.1968884366,9.15014735808');
+insert into ctm.fermate values ('Giorgino (chiesetta Sant''Efisio)','0567', 'Navetta_Giorgino_A Navetta_Giorgino_R Linea_8A_A Linea_8A_R','39.2071925312,9.08208005297');
+insert into ctm.fermate values ('Nazionale (piazza del Crocifisso)','0956', 'Linea_18_A','39.2553777742,9.18140193915');
+insert into ctm.fermate values ('Colombo (Polizia Municipale)','0524', 'Linea_19_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2335380843,9.18566730631');
+insert into ctm.fermate values ('Italia (passaggio livello)','0549', 'Linea_M_A Linea_8_A Linea_8A_A Linea_19_A Linea_QS_R Linea_QSB_A','39.2500822057,9.13258777224');
+insert into ctm.fermate values ('Trieste (fronte via S. Paolo)','0151', 'Circolare_San_Simone_A Linea_9_R','39.2251090673,9.10103034629');
+insert into ctm.fermate values ('Tiziano (ang. via Alfieri)','0201', 'Linea_6_R Circolare_CEP_A','39.2224018503,9.12383589719');
+insert into ctm.fermate values ('Margine Rosso (ang. via Cipro)','0755', 'Linea_PF_A','39.2248301215,9.24596568191');
+insert into ctm.fermate values ('Trieste (ang. via Monte Arci)','0530', 'Linea_19_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2529163235,9.15089259619');
+insert into ctm.fermate values ('Piero della Francesca altezza civico 4','2072', 'Linea_University_Express_R','39.2504095543,9.10292086041');
+insert into ctm.fermate values ('Margine Rosso (quarta fermata)','0407', 'Linea_PF_A','39.2271357325,9.23338079714');
+insert into ctm.fermate values ('Marche (ang. via Piceno)','0877', 'Linea_13_A','39.2273085729,9.119164148');
+insert into ctm.fermate values ('Via Is Arenas (ang. via Pizzetti)','2041', 'Linea_40_A Linea_1Q_R','39.2327287706,9.17885262757');
+insert into ctm.fermate values ('Colombo (ang. via Rossini)','0461', 'Linea_19_R Linea_41_A Linea_1Q_R Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2374111299,9.18093854059');
+insert into ctm.fermate values ('Piero della Francesca (capolinea 20)','0626', 'Linea_20_A Linea_20_R','39.2545909584,9.10242862174');
+insert into ctm.fermate values ('Tamburino Sardo (ang. via Pirandello)','1149', 'Linea_15_A','39.2508276038,9.11816093764');
+insert into ctm.fermate values ('Margine Rosso (ang. via Sussalai)','0406', 'Linea_PF_R','39.2285333878,9.22833425038');
+insert into ctm.fermate values ('della Pineta (Chiesa)','0297', 'Linea_3_A Linea_5_A Linea_5e11_A Linea_6_R','39.205284198,9.13740246585');
+insert into ctm.fermate values ('Merello (ang. via Sant''Antonio)','0476', 'Linea_19_R Linea_1Q_R Linea_QSA_R Linea_QSB_R','39.2396797902,9.19342368042');
+insert into ctm.fermate values ('Italia (fronte Vetreria)','0551', 'Linea_M_A Linea_8_A Linea_8A_A Linea_19_A Linea_QS_R Linea_QSB_A','39.2485789422,9.13124066683');
+insert into ctm.fermate values ('Capolinea - Carcere di UTA','2050', 'Linea_Zona_Industriale_A Carcere_Uta_A Carcere_Uta_R','39.2153666658,8.95286828384');
+insert into ctm.fermate values ('Giulio Cesare (ang. via Clelia)','0814', 'Linea_QSA_R','39.2618322569,9.14020185073');
+insert into ctm.fermate values ('Trieste (ang. via Galilei)','0531', 'Linea_19_R Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2527636069,9.15053300174');
+insert into ctm.fermate values ('Elmas (angolo via delle Miniere)','0577', 'Linea_9_R Linea_19_A Linea_Zona_Industriale_A Carcere_Uta_R','39.2579560911,9.07300619663');
+insert into ctm.fermate values ('Argiolas (ang. via Biancamano)','1130', 'Linea_15_A','39.252366752,9.12826930309');
+insert into ctm.fermate values ('Ciusa (deposito CTM)','0002', 'Linea_M_A','39.2321088138,9.12157054087');
+insert into ctm.fermate values ('Diaz (fronte Amsicora)','0298', 'Linea_PF_A Linea_PQ_A','39.2047338159,9.138015206');
+insert into ctm.fermate values ('Rossini (ang. via Mascagni)','1257', 'Linea_1Q_R','39.235541546,9.17792126799');
+insert into ctm.fermate values ('Vidal (parco)','0866', 'Linea_10_A','39.2130659061,9.13273820471');
+insert into ctm.fermate values ('Poetto (ponte Vittorio)','0308', 'Linea_3_R Linea_5_R Linea_5e11_R Linea_6_A Linea_PF_A Linea_PQ_A','39.2025770715,9.14066303748');
+insert into ctm.fermate values ('Dante (Tribunale Minori)','0272', 'Linea_30_A Linea_30R_A Linea_31_A','39.2153632956,9.12491234521');
+insert into ctm.fermate values ('Torricelli (ang. via Flavio Gioia)','1104', 'Linea_29_A','39.2370550307,9.13052399364');
+insert into ctm.fermate values ('Don Matzeu (lato campo bascket)','2082', 'Circolare_CEP_A','39.2358167756,9.13385860445');
+insert into ctm.fermate values ('Abruzzi (fronte via Campeda)','0110', 'Linea_1_R Linea_3_R Linea_9_A Linea_University_Express_R Linea_16_R','39.2405719227,9.10054268274');
+insert into ctm.fermate values ('Giulio Cesare (ang. via del Redentore)','0836', 'Linea_QSA_R','39.2586322489,9.14120382671');
+insert into ctm.fermate values ('Pitz'' e serra (ang. via Vinola)','0993', 'Linea_1Q_R','39.2403362133,9.21960099129');
+insert into ctm.fermate values ('S.P. Villasimius (ang. via dei Papaveri)','0430', 'Linea_1Q_A Linea_PF_A','39.2122106507,9.30499278275');
+insert into ctm.fermate values ('Legnano (ang via Santa Maria Chiara)','0825', 'Linea_M_A Linea_8_R Linea_8A_R Linea_QS_A Linea_QSB_R','39.241883726,9.12322124535');
+insert into ctm.fermate values ('Peretti (ospedale Brotzu)','0763', 'Linea_University_Express_A Linea_19_R Linea_QS_A Linea_QSB_R','39.2508539556,9.10964310235');
+insert into ctm.fermate values ('Saline (AIAS)','0379', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.2162587809,9.17776834171');
+insert into ctm.fermate values ('Via Stamira Fronte Ufficio Postale','2073', 'Linea_13_A','39.2488528178,9.11957143557');
+insert into ctm.fermate values ('Poetto (ang. via Vergine di Lluc)','0331', 'Linea_PF_A Linea_PQ_A','39.1978728214,9.14842399762');
+insert into ctm.fermate values ('Poerio (ang. via Melis)','0245', 'Linea_1_R','39.2407245302,9.12860730436');
+insert into ctm.fermate values ('Risorgimento (ang. piazza Italia)','0689', 'Linea_15_A','39.2455709143,9.12985607919');
+insert into ctm.fermate values ('Nazionale (ang. via Quartu)','0963', 'Linea_18_A','39.2525368798,9.17718773163');
+insert into ctm.fermate values ('S.S. 554 (ang. via Anastasia)','0751', 'Linea_PQ_A','39.2359543674,9.21619249021');
+insert into ctm.fermate values ('Risorgimento (ang. via Carbonari)','1118', 'Linea_15_A','39.2428153835,9.13621260575');
+insert into ctm.fermate values ('Marconi (quartiere Europeo)','0254', 'Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2336683016,9.13722608386');
+insert into ctm.fermate values ('Tigellio (lato civico n°8)','2066', 'Linea_10_R','39.2205616521,9.10771936271');
+insert into ctm.fermate values ('Brigata Sassari (fronte Banca)','0509', 'Linea_19_R Linea_30_A Linea_30_R Linea_30R_A Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2428638,9.180176177');
+insert into ctm.fermate values ('Liguria (fronte Pacinotti)', '0079', 'Linea_3_R Linea_16_R','39.2294188959,9.11738356135');
+insert into ctm.fermate values ('Cabras (fronte Polizia Municipale)','0823', 'Linea_M_A Linea_8_A Linea_8A_A Linea_19_A Linea_QS_R Linea_QSB_A','39.2517410461,9.13955594261');
+insert into ctm.fermate values ('Bacaredda (Agenzia delle Entrate)','0015', 'Linea_M_R','39.2219087358,9.12148344018');
+insert into ctm.fermate values ('Cornalias (ang. via Cinquini)','0113', 'Linea_20_A','39.2402229852,9.10784212262');
+insert into ctm.fermate values ('San Fulgenzio (ang. via Marconi)','0214', 'Linea_8_A Linea_29_R','39.2617256774,9.13113767997');
+insert into ctm.fermate values ('Abruzzi (ang. via Campeda)','0109', 'Linea_1_A Linea_3_A Linea_9_R Linea_University_Express_A Linea_University_Express_R','39.2405447304,9.10072804003');
+insert into ctm.fermate values ('Pitz'' e Serra (fronte via Vinola)','0996', 'Linea_1Q_A','39.2405263102,9.21913809438');
+insert into ctm.fermate values ('Piero della Francesca (ang.via Monte Bia','0135', 'Linea_20_R','39.256411353,9.10216470352');
+insert into ctm.fermate values ('Saline (fronte AIAS)','0380', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.2162601913,9.17684168479');
+insert into ctm.fermate values ('Angioni (giardini)','0118', 'Linea_30R_A','39.2419944364,9.19409052358');
+insert into ctm.fermate values ('Trieste (ang. via Tirana)','0529', 'Linea_19_R Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2531080108,9.15586482487');
+insert into ctm.fermate values ('Giovanni XXIII (Chiesa)','0647', 'Linea_16_A Linea_16_R','39.2275802357,9.12644006428');
+insert into ctm.fermate values ('Deledda (ang. piazza Giovanni XXIII)','0676', 'Linea_17_R','39.2475916655,9.15719686961');
+insert into ctm.fermate values ('Portogallo (ang. via S. Antonio)','0699', 'Linea_30R_R Linea_41_A Linea_1Q_A Linea_PQ_A','39.2423693014,9.20150758616');
+insert into ctm.fermate values ('Autonomia Regionale (ang. via delle Came','0721', 'Linea_1Q_R','39.2358683149,9.27799445064');
+insert into ctm.fermate values ('San Benedetto (ang. via Pindemonte)','0937', 'Linea_19_A Linea_PF_R Linea_QSA_A Linea_QSB_A','39.233307981,9.1941592795');
+insert into ctm.fermate values ('Sulcitana Elmas (Discount)','0592', 'Linea_9_A Linea_19_R','39.2715241081,9.04023708189');
+insert into ctm.fermate values ('28 Febbraio (fronte Assessorato RAS)','0223', 'Linea_3_R Linea_16_R Linea_29_R','39.2292113663,9.12626921029');
+insert into ctm.fermate values ('Cornalias (ang. via Sulcis)','0115', 'Linea_20_A','39.2426939601,9.10562108508');
+insert into ctm.fermate values ('Redentore (Giardinetti)','0538', 'Linea_M_A Linea_8_A Linea_8A_A','39.2581041098,9.13829364137');
+insert into ctm.fermate values ('Irpinia (parcheggi)','0077', 'Linea_6_R','39.2277957437,9.11858571392');
+insert into ctm.fermate values ('Lussu (fronte Carabinieri)','0691', 'Linea_17_A','39.2549588702,9.15980939454');
+insert into ctm.fermate values ('Flavio Gioia (fronte portici)','0251', 'Linea_1_A Circolare_CEP_A','39.234115379,9.13243026958');
+insert into ctm.fermate values ('Via Castelli fronte civico n°11','2064', 'Linea_20_R','39.2326281183,9.10655604163');
+insert into ctm.fermate values ('L. da Vinci (fronte via Rio Solanas)','0419', 'Linea_PF_A','39.219609867,9.27928562106');
+insert into ctm.fermate values ('Marconi (fronte Vigili del Fuoco)','0519', 'Linea_30_A Linea_30R_A Linea_31R_R','39.2410688337,9.14965054108');
+insert into ctm.fermate values ('Istria (ang. via Gorizia)','0668', 'Linea_17_R Linea_19_A Linea_30_A Linea_30R_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2511962862,9.16349774609');
+insert into ctm.fermate values ('S''Arrulloni (fronte via Silesu)','0973', 'Linea_40_A','39.2332520782,9.18419512447');
+insert into ctm.fermate values ('Costantinopoli (ang. via Atene)','0644', 'Linea_6_R','39.2253440621,9.13578494866');
+insert into ctm.fermate values ('Jenner (Oncologico)','0559', 'Linea_13_A','39.2455773134,9.1152087546');
+insert into ctm.fermate values ('Trieste (CTM)','0635', 'Circolare_San_Simone_A Linea_9_R','39.222558016,9.10218511922');
+insert into ctm.fermate values ('ZI Stabilimento Enichem','1014', 'Linea_Zona_Industriale_A Linea_Zona_Industriale_A','39.2331718341,9.01195680073');
+insert into ctm.fermate values ('Repubblica (ang. via Stazione)','0837', 'Linea_9_R','39.307396777,8.96354661859');
+insert into ctm.fermate values ('Fosse Ardeatine (fronte giardini ex Vetr','2015', 'Linea_15_A Linea_15_A','39.2469201226,9.13199081488');
+insert into ctm.fermate values ('Milano (fronte via Arezzo)','0287', 'Linea_5_A Linea_5e11_A','39.20732583,9.13292428988');
+insert into ctm.fermate values ('Agavi (fronte via Pioppi)','1127', 'Linea_13_A Linea_15_A','39.2580703038,9.12002751688');
+insert into ctm.fermate values ('Bulgaria (fronte via Italia)','2001', 'Linea_41_A','39.2368609062,9.20824683877');
+insert into ctm.fermate values ('Pitagora (capolinea CEP)','1144', 'Circolare_CEP_A Circolare_CEP_A','39.2351348364,9.13133148138');
+insert into ctm.fermate values ('Sulcitana Assemini (fronte via Mogoro)','0730', 'Linea_9_A Linea_19_R','39.2755548123,9.03060558432');
+insert into ctm.fermate values ('L. da Vinci (ang. via Asparago)','0412', 'Linea_PF_R','39.2260700828,9.24335183176');
+insert into ctm.fermate values ('Via Sulis (altezza civico n°71)','1024', 'Linea_7_A','39.216794157,9.11804595417');
+insert into ctm.fermate values ('Calamosca (seconda fermata )','0337', 'Linea_5e11_A','39.193971702,9.14798734513');
+insert into ctm.fermate values ('Is Maglias (ang. via Monte Grappa)','0178', 'Linea_8_A Linea_8A_A Linea_20_R','39.232514086,9.10310326049');
+insert into ctm.fermate values ('Donoratico (ang. via Capula)','0004', 'Linea_3_A Linea_13_A Circolare_CEP_A','39.2313245416,9.12189358832');
+insert into ctm.fermate values ('Elmas (ang. via dell''Autonomia)','0129', 'Linea_9_A','39.2522730121,9.08249184803');
+insert into ctm.fermate values ('Cittadella Universitaria - Lato Stazione Metro','2092', 'Linea_University_Express_R','39.2692373365,9.1259236967');
+insert into ctm.fermate values ('Colombo (ang. via San Benedetto)','0522', 'Linea_19_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.231406738,9.18866239756');
+insert into ctm.fermate values ('ZI CASIC','1007', 'Linea_Zona_Industriale_A','39.2504338459,8.97285882642');
+insert into ctm.fermate values ('Diaz (piscina comunale)','0183', 'Linea_PF_A Linea_PQ_A','39.2050000325,9.13381167478');
+insert into ctm.fermate values ('Sulcitana Elmas (fronte via Carloforte)','0591', 'Linea_9_R Linea_19_A','39.2712444651,9.04112953012');
+insert into ctm.fermate values ('ZI Stabilimento Enichem','1002', 'Linea_Zona_Industriale_A','39.2332259022,9.01192205173');
+insert into ctm.fermate values ('L. da Vinci (fronte Scuole)','0424', 'Linea_PF_R','39.219269157,9.28231920929');
+insert into ctm.fermate values ('Carmine (ang. via Montale)','0599', 'Linea_9_R Linea_19_A','39.2811801543,9.01766918226');
+insert into ctm.fermate values ('Lungosaline (Contro Strada Parcheggi - L','0354', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.2047658314,9.16212768327');
+insert into ctm.fermate values ('Palau (ang. via Giulio Cesare)','0817', 'Linea_M_A Linea_8A_A','39.26174412,9.13855578974');
+insert into ctm.fermate values ('Diaz (Hotel Mediterraneo)','0274', 'Linea_PF_A Linea_PQ_A','39.207696156,9.12394905069');
+insert into ctm.fermate values ('Margine Rosso (ang. via Scirocco)','0401', 'Linea_PF_A','39.2299124034,9.22349598301');
+insert into ctm.fermate values ('dell''Abbazia (ang. via Stoccolma)','0212', 'Linea_6_A','39.2233889624,9.13558424648');
+insert into ctm.fermate values ('Margine Rosso (ang. via Antas)','0408', 'Linea_PF_R','39.2270256506,9.234353574');
+insert into ctm.fermate values ('Zona Industriale Machiareddu altezza Sta','2056', 'Linea_Zona_Industriale_A Carcere_Uta_A','39.2322081788,8.99472842061');
+insert into ctm.fermate values ('Balilla (ang. via Bragadin)','1115', 'Linea_15_A','39.2466945326,9.12408719467');
+insert into ctm.fermate values ('Marconi (Scuola Foscolo)','0220', 'Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2293126112,9.13246758428');
+insert into ctm.fermate values ('Regina Margherita (ex Manifattura Tabacc','0748', 'Linea_6_R','39.2132999055,9.11612894539');
+insert into ctm.fermate values ('Alghero (ang. via Satta)','0018', 'Linea_10_R','39.2177001731,9.12199744444');
+insert into ctm.fermate values ('Jenner (Ospedale Brotzu)','0560', 'Linea_13_A','39.248906426,9.11092640783');
+insert into ctm.fermate values ('S''Arrulloni (Campi Sportivi)','0515', 'Linea_41_A Linea_1Q_R','39.230853832,9.17931129433');
+insert into ctm.fermate values ('Elmas (terza fermata)','0127', 'Linea_9_A','39.2498293276,9.08496898504');
+insert into ctm.fermate values ('Capula (ang. via Belgrano)','2035', 'Circolare_CEP_A','39.2314048477,9.12264680108');
+insert into ctm.fermate values ('Bonaria (fronte Banco di Sardegna)','0267', 'Linea_5_A Linea_5e11_A Linea_6_R Linea_29_R Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2110257383,9.11954200843');
+insert into ctm.fermate values ('Santa Maria Chiara (ang. via Cuoco)','0239', 'Linea_8_R Linea_8A_R Linea_QS_A Linea_QSB_R','39.2410033093,9.12070525446');
+insert into ctm.fermate values ('Flavio Gioia (fronte scuola)','0640', 'Linea_1_A Linea_1_R','39.2375855419,9.13152143859');
+insert into ctm.fermate values ('Nazionale (vico VI Nazionale)','0965', 'Linea_18_A','39.25512562,9.18130857222');
+insert into ctm.fermate values ('Carlo Felice (piazza Yenne)','0046', 'Linea_8_R','39.2168530611,9.11316945828');
+insert into ctm.fermate values ('S''Ecca S''Arrideli (seconda fermata)','0716', 'Linea_1Q_A','39.2417468752,9.26086825294');
+insert into ctm.fermate values ('San Valeriano (scuola materna)','0656', 'Linea_M_R Linea_8_R Linea_8A_R Linea_QSA_A','39.2568603703,9.1458941972');
+insert into ctm.fermate values ('Cadello (parco)','0090', 'Linea_8_R Linea_8A_R Linea_13_A','39.2358024278,9.11342003636');
+insert into ctm.fermate values ('Via Gallura (Chiesa)','2078', 'Linea_13_A','39.2591067423,9.11072226509');
+insert into ctm.fermate values ('Sulcitana Elmas (ang. via degli Sportivi','0593', 'Linea_9_R Linea_19_A','39.2744276731,9.03352648922');
+insert into ctm.fermate values ('S. Paolo (fronte via Mincio)','1169', 'Navetta_Giorgino_R','39.2237055247,9.09853766949');
+insert into ctm.fermate values ('Poetto (ang. via Grecale)','0329', 'Linea_5_A Linea_5e11_A Linea_6_R Linea_PF_R Linea_PQ_R','39.1995701795,9.14578721091');
+insert into ctm.fermate values ('Favonio (fronte chiesa)','0314', 'Linea_3_R','39.2023558776,9.14469277605');
+insert into ctm.fermate values ('Giotto (fronte giardini)','0881', 'Linea_20_A','39.2496372575,9.09990665591');
+insert into ctm.fermate values ('AKHELA / STREAM','1008', 'Linea_Zona_Industriale_A','39.2463061742,8.96976636594');
+insert into ctm.fermate values ('Cao di San Marco (Cittadella della Music','0878', 'Linea_13_A','39.2262249398,9.12143295596');
+insert into ctm.fermate values ('Pitz'' e Serra (ang. via Irlanda)','0697', 'Linea_41_A Linea_1Q_A Linea_PQ_A','39.2405747935,9.20742353685');
+insert into ctm.fermate values ('Gallus (Torre)','0496', 'Linea_19_A Linea_30R_R Linea_31_R Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2535919807,9.17058443121');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (fronte lido Medite','0394', 'Linea_PQ_R','39.2253776004,9.20003406738');
+insert into ctm.fermate values ('Cittadella Universitaria - Lato Segreteria','2091', 'Linea_University_Express_A','39.2692644437,9.12585419331');
+insert into ctm.fermate values ('Riva Villasanta (fronte via del Colle)','0243', 'Linea_M_A','39.2398897966,9.12561629647');
+insert into ctm.fermate values ('Margine Rosso (ang. via Othoca)','0404', 'Linea_PF_R','39.2292958143,9.22549830008');
+insert into ctm.fermate values ('Porto Botte (fermta Metrò)','1183', 'Linea_29_A','39.2527557595,9.13487589184');
+insert into ctm.fermate values ('Trieste (fronte Poste)','0507', 'Linea_19_R Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2535314144,9.16252966037');
+insert into ctm.fermate values ('Centro Commerciale Le Vele','0961', 'Linea_18_A','39.2453256483,9.16678670609');
+insert into ctm.fermate values ('Autonomia Regionale (ang. via S.Giovanni','0770', 'Linea_1Q_R','39.2235636634,9.28380763528');
+insert into ctm.fermate values ('Biasi (fronte ANAS)','1131', 'Circolare_CEP_A','39.2329233198,9.12670454469');
+insert into ctm.fermate values ('S.P. Villasimius (Is Mortorius)','0439', 'Linea_1Q_R','39.1990755433,9.327286171');
+insert into ctm.fermate values ('Sulcitana Elmas (fronte via Talamone)','0590', 'Linea_9_A Linea_19_R','39.2699459195,9.04388769075');
+insert into ctm.fermate values ('Is Mirrionis (ang. via Montesanto)','0103', 'Linea_3_R Linea_8_R Linea_8A_R Linea_16_R Linea_20_A','39.2377773197,9.10201021758');
+insert into ctm.fermate values ('ZI Stabilimento Bridgestone (fronte SAN','1004', 'Linea_Zona_Industriale_A','39.2407585335,8.98507556395');
+insert into ctm.fermate values ('Angioni (centro commerciale)','1108', 'Linea_30R_R Linea_41_A','39.2427042073,9.19533235295');
+insert into ctm.fermate values ('Sulcitana Elmas (ang. via Sestu)','0584', 'Linea_9_A Linea_19_R','39.2665271582,9.05282263292');
+insert into ctm.fermate values ('Donoratico (parco)','0226', 'Linea_3_A Linea_13_A Linea_16_A','39.2302589391,9.12410458736');
+insert into ctm.fermate values ('S''Arrulloni (ang. via Silesu)','0971', 'Linea_41_A','39.2331348108,9.18427592008');
+insert into ctm.fermate values ('Istria (fronte Municipio)','0669', 'Linea_17_R Linea_19_A Linea_30_A Linea_30R_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2534551673,9.16548477495');
+insert into ctm.fermate values ('Indipendenza (Torre San Pancrazio)','0744', 'Linea_7_A','39.2212198112,9.11668644478');
+insert into ctm.fermate values ('Lungosaline (ang. via d''Elba)','0972', 'Linea_PF_A Linea_PQ_A Linea_QS_A Linea_QS_R','39.1952115012,9.15767066039');
+insert into ctm.fermate values ('Milano (ang. via Arezzo)','0286', 'Linea_5_R Linea_5e11_R','39.2071902717,9.13327148749');
+insert into ctm.fermate values ('Dessy (fronte Comune)','0920', 'Linea_40_A','39.2406655962,9.18565133141');
+insert into ctm.fermate values ('Carmine (fronte distributore)','0598', 'Linea_9_A Linea_19_R','39.2793052354,9.02179604797');
+insert into ctm.fermate values ('S''Ecca S''Arrideli (ang. via Van Dick)','0718', 'Linea_1Q_R','39.2433884924,9.26807029698');
+insert into ctm.fermate values ('Repubblica (direz. Cagliari)','0838', 'Linea_9_A','39.307504919,8.96359295566');
+insert into ctm.fermate values ('Petrarca (ang. via Dante)','0204', 'Linea_1_R Linea_3_A Linea_6_A','39.2233908338,9.12588807964');
+insert into ctm.fermate values ('Filzi (ang. via Antonietti)','1120', 'Linea_15_A','39.2449376921,9.1238523395');
+insert into ctm.fermate values ('Pessina (ang. via Taramelli)','0264', 'Linea_6_R','39.2134391901,9.12932198219');
+insert into ctm.fermate values ('Segni (fronte via Torre delle Stelle)','1129', 'Linea_15_A','39.2560001754,9.12634042711');
+insert into ctm.fermate values ('San Benedetto (ang. via Atene)','0847', 'Linea_19_R Linea_PF_A Linea_QSA_R Linea_QSB_R','39.2330470377,9.19393842613');
+insert into ctm.fermate values ('Sulcitana Assemini (prima fermata)','0596', 'Linea_9_A Linea_19_R','39.2774931665,9.02627051715');
+insert into ctm.fermate values ('della Pineta (fronte Chiesa)','0296', 'Linea_3_R Linea_5_R Linea_5e11_R Linea_6_A','39.2053751366,9.1366961732');
+insert into ctm.fermate values ('Bonorva (ang. via Calasetta)','0672', 'Linea_17_A','39.2548117325,9.17443513305');
+insert into ctm.fermate values ('Verdi (ang. via Leoncavallo)','0998', 'Linea_41_A','39.2339901618,9.17892534681');
+insert into ctm.fermate values ('Is Maglias (Ingegneria)','0173', 'Linea_8_R Linea_8A_R Linea_20_A','39.2282016625,9.10891273385');
+insert into ctm.fermate values ('Carmine (ang. via Manno)','0603', 'Linea_9_R Linea_19_A','39.2845240489,9.00969300443');
+insert into ctm.fermate values ('Marconi (fronte Istituto Marconi)','0256', 'Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2357554505,9.140034074');
+insert into ctm.fermate values ('Fiume (fronte parco)','0449', 'Linea_PF_A','39.2337026668,9.21074010477');
+insert into ctm.fermate values ('S. Paolo (fronte case FS)','0036', 'Navetta_Giorgino_R','39.2172529803,9.09952482404');
+insert into ctm.fermate values ('San Benedetto (piscina)','0846', 'Linea_19_R Linea_PF_A Linea_QSA_R Linea_QSB_R','39.2314222346,9.19021492911');
+insert into ctm.fermate values ('Via Stamira (lato civico 41)','2074', 'Linea_13_A','39.2490423514,9.11927045244');
+insert into ctm.fermate values ('Quirra (fronte mercato)','0098', 'Linea_5_R Linea_5e11_R Linea_20_R','39.2390164992,9.10680903207');
+insert into ctm.fermate values ('Cornalias (chiesa)','0114', 'Linea_20_R','39.2424056803,9.10555112739');
+insert into ctm.fermate values ('Vico (ang. via Colombo)','0997', 'Linea_1Q_A','39.2344126016,9.18536836882');
+insert into ctm.fermate values ('Rossini (ang. via Cilea)','0510', 'Linea_41_A Linea_1Q_R','39.2366372343,9.18027611629');
+insert into ctm.fermate values ('Gobetti lato Santa Lucia','0614', 'Linea_9_R Linea_19_A Linea_19_R','39.293859077,8.99015496005');
+insert into ctm.fermate values ('Elmas (ang. via dell''Artigianato)','0362', 'Linea_9_R','39.2485128699,9.08618419614');
+insert into ctm.fermate values ('Gherardo delle Notti (fronte via Laconi)','2016', 'Linea_19_R','39.2532828936,9.09351450637');
+insert into ctm.fermate values ('Alghero (ang. via Sonnino)','0017', 'Linea_10_A','39.21779022,9.12205551785');
+insert into ctm.fermate values ('Sole (Capolinea 3)','0336', 'Linea_3_A Linea_3_R','39.1986245829,9.15240922416');
+insert into ctm.fermate values ('Merello (fronte Ingegneria)','0168', 'Linea_5_A Linea_5e11_A Linea_8_A Linea_8A_A Linea_10_R Linea_20_R','39.2276957861,9.11026741365');
+insert into ctm.fermate values ('Colombo (ang. via Foscolo)','0458', 'Linea_19_A Linea_1Q_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2348388571,9.18363154401');
+insert into ctm.fermate values ('Is Maglias (dip Ing. Elettronica)','2037', 'Linea_8_R Linea_8A_R Linea_20_A','39.2299331007,9.10743246475');
+insert into ctm.fermate values ('Don Minzoni (ang. via Nazionale)','0500', 'Linea_19_A Linea_30R_R Linea_31_R Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2507031089,9.1742627088');
+insert into ctm.fermate values ('Quartu (fronte Chiesa)','1271', 'Linea_18_A','39.2512477536,9.17757851371');
+insert into ctm.fermate values ('Autonomia Regionale (ang. via Palma Fior','0723', 'Linea_1Q_A','39.239133529,9.27659372282');
+insert into ctm.fermate values ('Yenne (ang. corso Vittorio Emanuele)','0047', 'Linea_1_A Linea_8_A Linea_8A_A','39.2171235186,9.11303089161');
+insert into ctm.fermate values ('I Maggio (Salesiani)','0488', 'Linea_30R_R Linea_31_R','39.2463105464,9.15837600614');
+insert into ctm.fermate values ('San Benedetto (fronte Buon Pastore)','0195', 'Linea_1_A Linea_29_R Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2218410117,9.12586214309');
+insert into ctm.fermate values ('Fadda (ang. via Angioni)','1114', 'Linea_30R_A','39.2433034853,9.19258773006');
+insert into ctm.fermate values ('Pitz'' e Serra (N.S. del Buoncammino)','0753', 'Linea_1Q_A','39.239802998,9.22514955947');
+insert into ctm.fermate values ('Yenne (fronte via Azuni)','0056', 'Linea_7_A Linea_7_A Linea_8_R Linea_8A_R','39.2179879873,9.11361145508');
+insert into ctm.fermate values ('ZI Cavalcavia VI Strada','1005', 'Linea_Zona_Industriale_A','39.2470103266,8.97535163553');
+insert into ctm.fermate values ('Cocco Ortu (fronte Mercato)','0012', 'Linea_6_A','39.2234847425,9.12232023706');
+insert into ctm.fermate values ('San Nicolò (scuole)','0683', 'Linea_17_A','39.2582801958,9.17487256421');
+insert into ctm.fermate values ('Elmas (fronte via dell''Autonomia)','0130', 'Linea_9_R','39.252480324,9.08239937716');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (ang. via Da Vinci)','0399', 'Linea_PQ_A','39.2294528867,9.21873291859');
+insert into ctm.fermate values ('S''Ecca S''Arrideli (terza fermata)','0717', 'Linea_1Q_R','39.2417100276,9.26122732671');
+insert into ctm.fermate values ('Parini (ang via Cilea)','0978', 'Linea_1Q_A','39.2375393419,9.17960639321');
+insert into ctm.fermate values ('Mameli (ang. via Caprera)','0163', 'Linea_1_R','39.2189845243,9.1079833779');
+insert into ctm.fermate values ('Poetto (Ippodromo)','0358', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.2097299528,9.16904207861');
+insert into ctm.fermate values ('Europa (scuole)','1179', 'Linea_9_A Linea_19_R','39.2907595967,9.00735156674');
+insert into ctm.fermate values ('dell''Abbazia (ang. via Conversi)','0209', 'Linea_6_R','39.2212730757,9.13416691788');
+insert into ctm.fermate values ('San Gottardo (stazione Treni)','0947', 'Linea_17_A Linea_17_R','39.264332899,9.14375372996');
+insert into ctm.fermate values ('Perda Longa (scuole)','0999', 'Linea_41_A','39.2341329935,9.19111438467');
+insert into ctm.fermate values ('S''Ecca S''Arrideli (prima fermata)','0714', 'Linea_1Q_R','39.2424872895,9.24351283527');
+insert into ctm.fermate values ('della Pineta (ang. via dei Passeri)','0289', 'Linea_3_A Linea_6_R','39.2080999471,9.13363224623');
+insert into ctm.fermate values ('Cadello (fronte parco)','0089', 'Linea_8_A Linea_8A_A Linea_13_A','39.2358115964,9.11325784045');
+insert into ctm.fermate values ('Cittadella Universitaria','2089', 'Linea_University_Express_A','39.2714125424,9.12251944283');
+insert into ctm.fermate values ('20 Settembre (ang. via Lanusei)','0023', 'Linea_1_A Linea_M_A','39.2131712222,9.11864219123');
+insert into ctm.fermate values ('Parigi (lato civico 29)','2083', 'Circolare_CEP_A','39.236254677,9.13697621786');
+insert into ctm.fermate values ('Carmine (prima fermata)','0606', 'Linea_9_A Linea_19_R','39.2861371749,9.00658582872');
+insert into ctm.fermate values ('Cugia (ang. via Scano)','0900', 'Linea_10_R','39.2155833108,9.12971974241');
+insert into ctm.fermate values ('Cadello (ang. via Monsignor Botto)','0566', 'Linea_8_A Linea_8A_A Linea_13_A','39.2389519261,9.11771229494');
+insert into ctm.fermate values ('Perda Longa (fronte scuole)','0988', 'Linea_40_A','39.234222758,9.1913231799');
+insert into ctm.fermate values ('Musica (parco Saline)','0970', 'Linea_41_A Linea_1Q_R','39.2318478835,9.17743692162');
+insert into ctm.fermate values ('Piemonte (fronte Chiesa)','0075', 'Linea_6_A','39.2275180857,9.11692857556');
+insert into ctm.fermate values ('Trieste (fronte CTM)','0634', 'Circolare_San_Simone_R Linea_9_A','39.2223328185,9.10210370289');
+insert into ctm.fermate values ('Tiziano (Mercato Civico)','0200', 'Linea_6_R Circolare_CEP_A','39.2227011726,9.12197134752');
+insert into ctm.fermate values ('Dante (Stazione metrò)','0196', 'Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2169220559,9.12500777417');
+insert into ctm.fermate values ('Sole (ang. via del Sestante)','0319', 'Linea_3_R','39.1999525151,9.1498296239');
+insert into ctm.fermate values ('S.P. Villasimius (ang. via del Galeone)','0435', 'Linea_1Q_R','39.2080101613,9.3123522704');
+insert into ctm.fermate values ('Menotti (ang. via Morelli)','0246', 'Linea_1_R','39.2424252194,9.13070775877');
+insert into ctm.fermate values ('Liguria (ang. via Istria)', '0081', 'Linea_3_R Linea_16_R','39.2306999162,9.11589114843');
+insert into ctm.fermate values ('Merello (ang. via Don Bosco)','0166', 'Linea_5_A Linea_5e11_A Linea_10_R','39.2235518498,9.10919515943');
+insert into ctm.fermate values ('Riu Mortu (ang. via Zuddas)','0655', 'Linea_M_R Linea_8_R Linea_8A_R Linea_QSA_A','39.2533634842,9.14647800783');
+insert into ctm.fermate values ('Regina Margherita (Hotel)','0746', 'Linea_6_A Linea_7_A','39.2137053087,9.11621069305');
+insert into ctm.fermate values ('Campania (ang. via Capitanata)','0085', 'Linea_3_R Linea_13_A Linea_16_R','39.2335873689,9.11178282863');
+insert into ctm.fermate values ('Tramontana (Istituto Biologia)','0772', 'Linea_3_R','39.2028024944,9.14053609551');
+insert into ctm.fermate values ('Brotzu (ang. via Binaghi)','0990', 'Linea_1_R Linea_19_A Linea_QS_R Linea_QSB_A','39.2521230102,9.10130088253');
+insert into ctm.fermate values ('Gherardo delle Notti (ang. via De Martis','0833', 'Linea_19_A Linea_20_A','39.2529910194,9.09781375078');
+insert into ctm.fermate values ('Is Mirrionis (fronte Ospedale)','0100', 'Linea_3_A Linea_8_A Linea_8A_A','39.2361859891,9.10804450001');
+insert into ctm.fermate values ('Vico (scuole)','0456', 'Linea_1Q_R','39.2351473754,9.18793088768');
+insert into ctm.fermate values ('Schiavazzi (fronte Lazzareto)','0343', 'Linea_6_A','39.1913776833,9.13980700758');
+insert into ctm.fermate values ('Giotto (ang. via Cornalias)','0767', 'Linea_1_R Linea_20_R Linea_QS_A Linea_QSB_R','39.2494279898,9.1022356913');
+insert into ctm.fermate values ('Don Minzoni (ang. via delle Serre)','0501', 'Linea_19_R Linea_30_A Linea_30R_A Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2506312315,9.174123464');
+insert into ctm.fermate values ('Autonomia Regionale (settima fermata)','0852', 'Linea_1Q_A','39.242533446,9.2753787933');
+insert into ctm.fermate values ('Is Mirrionis (ang. via Timavo)','0101', 'Linea_3_R Linea_5_R Linea_5e11_R Linea_8_R Linea_8A_R Linea_16_R','39.2370172283,9.1055893997');
+insert into ctm.fermate values ('Flumini (ang. via San Teodoro)','0428', 'Linea_1Q_A Linea_PF_A','39.2184278461,9.29811586103');
+insert into ctm.fermate values ('Is Mirrionis (Ospedale)','0099', 'Linea_3_R Linea_5_R Linea_5e11_R Linea_8_R Linea_8A_R Linea_16_R','39.2361502574,9.10770843575');
+insert into ctm.fermate values ('Del Pino Solitario (altezza Uff. Postale','2057', 'Linea_19_A','39.2706461604,9.05029862235');
+insert into ctm.fermate values ('Fiume (ang. via Dalla Chiesa)','0942', 'Linea_PF_R','39.2340740701,9.20965211484');
+insert into ctm.fermate values ('Schiavazzi (Lazzareto)','0344', 'Linea_6_R','39.1913508037,9.13967958345');
+insert into ctm.fermate values ('Merello (chiesa)','0157', 'Linea_5_A Linea_5e11_A Linea_10_R','39.2223916019,9.10688809197');
+insert into ctm.fermate values ('Toscana (ang. via La Vega)','0876', 'Linea_6_A Linea_13_A','39.2266983412,9.11669551581');
+insert into ctm.fermate values ('Archimede (ang. via Avogadro)','1133', 'Circolare_CEP_A','39.2357121741,9.13075323474');
+insert into ctm.fermate values ('San Salvatore (ang. vico S. Salvatore)','0946', 'Linea_17_A','39.2582422995,9.17003937249');
+insert into ctm.fermate values ('Sassari (parcheggio stazione)','1143', 'Linea_29_R','39.2148122227,9.10832447771');
+insert into ctm.fermate values ('Alghero (ang. via Dante)','0185', 'Linea_10_A','39.2167424734,9.12441670533');
+insert into ctm.fermate values ('Don Matzeu (lato civico 3)','2081', 'Circolare_CEP_A','39.2357266018,9.13391636541');
+insert into ctm.fermate values ('Pascoli (ang. via Petrarca)','0205', 'Linea_1_A Linea_3_R Linea_29_R','39.2237957273,9.12643327437');
+insert into ctm.fermate values ('Vesalio (ang. via Giovine Italia)','0366', 'Linea_1_R Linea_29_R','39.2403937238,9.13429602974');
+insert into ctm.fermate values ('Cornalias (ang. via Giotto)','0133', 'Linea_1_R Linea_University_Express_R Linea_20_R','39.2487872684,9.10332409059');
+insert into ctm.fermate values ('Vergine di Lluc (capolinea 5)','0327', 'Linea_5_A Linea_5_R Linea_5e11_A Linea_6_R','39.1971809001,9.14691712543');
+insert into ctm.fermate values ('Sulcitana Elmas (ang. via Marsala)','0589', 'Linea_9_R Linea_19_A','39.2701983665,9.04349371542');
+insert into ctm.fermate values ('Portogallo (ang. via Pitz''e Serra)','0851', 'Linea_30R_R Linea_41_A Linea_1Q_A Linea_PQ_A','39.2408807512,9.20253459718');
+insert into ctm.fermate values ('Argentina (ang. via San Fulgenzio)','0820', 'Linea_M_A','39.2616259059,9.13171703026');
+insert into ctm.fermate values ('Roma (fronte Molo Dogana)','0026', 'Linea_1_A Linea_M_A Linea_5_A Linea_5e11_A Linea_7_A Linea_29_R Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A Linea_PF_R Linea_PQ_R','39.2129690197,9.11358020157');
+insert into ctm.fermate values ('Sant''Ignazio da Laconi (lato civico n°56','2061', 'Linea_10_R','39.2213165971,9.10981723749');
+insert into ctm.fermate values ('Cittadella Universitaria','0741', 'Linea_8_A Linea_29_R','39.2687539193,9.12296689747');
+insert into ctm.fermate values ('Bonaria (Basilica)','0276', 'Linea_5_A Linea_5e11_A','39.2080371029,9.12531631546');
+insert into ctm.fermate values ('Cornalias (fronte acquedotto)','0809', 'Linea_1_R Linea_20_R','39.2470206648,9.10388932619');
+insert into ctm.fermate values ('S.P. Villasimius (Camping)','0436', 'Linea_1Q_A','39.2055409982,9.31908174986');
+insert into ctm.fermate values ('Borgo Sant''Elia (ang. viale Ferrara)','0324', 'Linea_6_A','39.1970681745,9.14337337768');
+insert into ctm.fermate values ('Musica (ang. via Rossini)','1261', 'Linea_1Q_A','39.2345364401,9.17521913087');
+insert into ctm.fermate values ('Andorra','0904', 'Linea_6_A Linea_6_R','39.2293813133,9.13541040949');
+insert into ctm.fermate values ('Lussu (ang. via Zucca)','0681', 'Linea_17_A','39.2574458001,9.15982663042');
+insert into ctm.fermate values ('Diaz (ang. via Caboto)','0278', 'Linea_PF_A Linea_PQ_A','39.2061802112,9.12593842242');
+insert into ctm.fermate values ('Autonomia Regionale (fronte via Molinu C','0558', 'Linea_1Q_R Linea_PF_R','39.2190532107,9.28588612317');
+insert into ctm.fermate values ('Corso Africa fronte Via Manin','0613', 'Linea_9_A Linea_19_R','39.2943547618,8.99140727203');
+insert into ctm.fermate values ('Corso Vittorio Emanuele II (altezza civi','2067', 'Linea_10_R','39.2213735787,9.10667803425');
+insert into ctm.fermate values ('F.lli Bandiera (ang. via Bayle)','0453', 'Linea_1Q_A','39.2371031765,9.19315011169');
+insert into ctm.fermate values ('Stoccolma (ang. via Budapest)','0213', 'Linea_6_A','39.2251295102,9.13431327603');
+insert into ctm.fermate values ('Sicilia (ang. via Arborea)','0477', 'Linea_30R_R','39.2449855626,9.18887258915');
+insert into ctm.fermate values ('Carlo Felice (Palazzo Civico)','0043', 'Linea_1_R Linea_8_A Linea_8A_A','39.2154942008,9.11133714126');
+insert into ctm.fermate values ('Sa Funtanedda (ang. via Carbia)','0711', 'Linea_1Q_A','39.2402270065,9.22950769797');
+insert into ctm.fermate values ('Nazionale (fronte via Italia)','0620', 'Linea_9_A','39.307218408,8.97000693431');
+insert into ctm.fermate values ('Poetto (ang. via S''Arrulloni)','0330', 'Linea_5_A Linea_5e11_A Linea_6_R Linea_PF_R Linea_PQ_R','39.1985496295,9.14763795783');
+insert into ctm.fermate values ('I Maggio (fronte via Deledda)','0489', 'Linea_30_A Linea_30R_A','39.2460224091,9.15822471214');
+insert into ctm.fermate values ('Biasi (ANAS)','1192', 'Circolare_CEP_A','39.2329055879,9.12643803485');
+insert into ctm.fermate values ('Matteotti (capolinea M)','0029', 'Linea_M_A Linea_M_R','39.2150274524,9.10942519917');
+insert into ctm.fermate values ('S.P. Villasimius (ang. via Liri)','0431', 'Linea_1Q_R','39.2116326338,9.30549991125');
+insert into ctm.fermate values ('Sulcitana Elmas (fronte via degli sporti','0594', 'Linea_9_A Linea_19_R','39.2744998548,9.03319033096');
+insert into ctm.fermate values ('Santa Margherita (ang. via Azuni)','0057', 'Linea_8_A Linea_8A_A','39.2184295705,9.11355424869');
+insert into ctm.fermate values ('Is Mirrionis (ang. via Falletti)','0086', 'Linea_3_A Linea_8_A Linea_8A_A','39.2347060358,9.1103826619');
+insert into ctm.fermate values ('Elmas (quarta fermata)','0128', 'Linea_9_R','39.2500455677,9.08499242363');
+insert into ctm.fermate values ('Argentina (scuola)','0819', 'Linea_M_A','39.2629385123,9.13430426639');
+insert into ctm.fermate values ('L. da Vinci (fronte via Taormina)','0422', 'Linea_PF_R','39.2193089153,9.27320296463');
+insert into ctm.fermate values ('Alghero ( piazza Repubblica)','0184', 'Linea_10_R','39.2167608778,9.12405765415');
+insert into ctm.fermate values ('Peretti (fronte uffici INPS)','0761', 'Linea_13_A Linea_19_R Linea_QS_A Linea_QSB_R','39.2498050061,9.11351212121');
+insert into ctm.fermate values ('Brigata Sassari (ex Fornaci)','0504', 'Linea_19_A Linea_30R_R Linea_31_R Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2465903446,9.17683670909');
+insert into ctm.fermate values ('delle Serre (fronte via Siliqua)','0959', 'Linea_18_A','39.2509023648,9.17357945371');
+insert into ctm.fermate values ('Sa Funtanedda (ang. via Tibula)','0710', 'Linea_1Q_R','39.2402622722,9.2299017775');
+insert into ctm.fermate values ('Peretti (uffici INPS)','0760', 'Linea_13_A Linea_19_A Linea_QS_R Linea_QSB_A','39.249985254,9.11347764536');
+insert into ctm.fermate values ('Petrarca (ang. via Cavalcanti)','0203', 'Linea_6_R','39.2232558229,9.12574882554');
+insert into ctm.fermate values ('Schiavazzi (fronte piazza Demuro)','0902', 'Linea_6_R','39.1964793745,9.13848541615');
+insert into ctm.fermate values ('Parigi (fronte civico 29)','2084', 'Circolare_CEP_A','39.2362727121,9.13696466638');
+insert into ctm.fermate values ('Deliperi (scuola)','0807', 'Linea_1_R Linea_20_R','39.2516015709,9.09993262134');
+insert into ctm.fermate values ('Castiglione (campi sportivi)','0231', 'Linea_1_R','39.2311344026,9.13103438179');
+insert into ctm.fermate values ('S. Michele (ang. via Col di Lana)','0143', 'Linea_1_A Linea_9_R','39.2349967393,9.0976497259');
+insert into ctm.fermate values ('delle Ninfee (Terramala)','0442', 'Linea_1Q_A Linea_1Q_R','39.1914971536,9.3399880924');
+insert into ctm.fermate values ('Pergolesi (ang. via San Benedetto)','0193', 'Linea_3_R Linea_6_R','39.222487793,9.12769361511');
+insert into ctm.fermate values ('Borgo Sant''Elia (ang. via Callas)','0323', 'Linea_6_A','39.1947990905,9.1420370967');
+insert into ctm.fermate values ('Giorgino (Villaggio Pescatori)','0395', 'Navetta_Giorgino_A Linea_8A_A','39.2121058865,9.09087695235');
+insert into ctm.fermate values ('Via Delle Begonie (ingresso parco San Lu','2051', 'Linea_17_A','39.2576500577,9.15537650874');
+insert into ctm.fermate values ('Autonomia Regionale (ang. via Pittori Eu','0722', 'Linea_1Q_R','39.2387730212,9.27662706803');
+insert into ctm.fermate values ('Ariosto (ang. via Oslo)','1000', 'Linea_41_A','39.2347217505,9.19470773137');
+insert into ctm.fermate values ('Margine Rosso (fronte via Molaria)','0403', 'Linea_PF_A','39.2288615488,9.22640056532');
+insert into ctm.fermate values ('Pessina (fronte Tribunale)','0257', 'Linea_6_A Linea_10_R','39.2158394169,9.12625683917');
+insert into ctm.fermate values ('Marconi (ang. via Tommaseo)','0623', 'Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.226548748,9.13030758761');
+insert into ctm.fermate values ('Argiolas (ang. via Principe di Napoli)','1155', 'Linea_15_A','39.2496542009,9.12856566907');
+insert into ctm.fermate values ('Risorgimento (ang. via Berchet)','0688', 'Linea_15_A','39.2432954381,9.13406980861');
+insert into ctm.fermate values ('Donoratico (ang. via Ciusa)','0005', 'Linea_3_R Linea_16_R','39.2313249532,9.12149967393');
+insert into ctm.fermate values ('S''Ecca s''Arrideli (terza fermata)','0715', 'Linea_1Q_A','39.2427931284,9.25222777388');
+insert into ctm.fermate values ('De Magistris (Teatro Massimo)','0156', 'Linea_5_R Linea_5e11_R','39.2229604412,9.10561467458');
+insert into ctm.fermate values ('Margine Rosso (ang. via Melibodes)','0402', 'Linea_PF_R','39.2301017166,9.22345024139');
+insert into ctm.fermate values ('Italia (ang. via D''Acquisto)','0690', 'Linea_M_R Linea_8_R Linea_8A_R Linea_19_R Linea_QS_A Linea_QSB_R','39.2467062626,9.12985817279');
+insert into ctm.fermate values ('Scano (fronte clinica)','0186', 'Linea_3_R','39.2178713682,9.13032629616');
+insert into ctm.fermate values ('Fermata 2018 Fiume (ang. via Novergia)','2018', 'Linea_40_A Linea_PF_R','39.234776183,9.20499651338');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (La Bussola)','0385', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.2228661967,9.19315742625');
+insert into ctm.fermate values ('Carmine (Chiesa)','0602', 'Linea_9_A Linea_19_R','39.2826313841,9.01388984065');
+insert into ctm.fermate values ('ZI Sardinia Green Island','1003', 'Linea_Zona_Industriale_A','39.2443815527,8.99236357972');
+insert into ctm.fermate values ('Bellini (scuole)','0678', 'Linea_17_A','39.2619319222,9.1671042306');
+insert into ctm.fermate values ('Cabras (ang. via Italia)','0479', 'Linea_M_R Linea_8_R Linea_8A_R Linea_19_R Linea_29_R Linea_QS_A Linea_QSB_R','39.2524564214,9.13657893279');
+insert into ctm.fermate values ('Vesalio (fermata Metrò)','0685', 'Linea_29_A','39.2414908641,9.13616369453');
+insert into ctm.fermate values ('Raffa Garzia','0864', 'Linea_10_A','39.2099195744,9.13411056566');
+insert into ctm.fermate values ('Pessina (fronte via Gianturco)','0258', 'Linea_6_R','39.2154961521,9.12704387765');
+insert into ctm.fermate values ('Donoratico (fronte parco)','0225', 'Linea_3_R Linea_16_R','39.2300426446,9.12413896298');
+insert into ctm.fermate values ('Piemonte (ang. Iolanda)','0982', 'Linea_30R_R Linea_40_A Linea_1Q_R Linea_PQ_R','39.2395115579,9.19702679919');
+insert into ctm.fermate values ('S.P. Villasimius (fronte via del Galeone','0434', 'Linea_1Q_A','39.2085339581,9.311914476');
+insert into ctm.fermate values ('P.zza San Rocco','1021', 'Linea_M_A Linea_7_A','39.2226926461,9.12150796');
+insert into ctm.fermate values ('Bembo (fronte chiesa)','1190', 'Circolare_CEP_A','39.2329818742,9.13079451155');
+insert into ctm.fermate values ('Crespellani (ang. via Masaccio)','0137', 'Linea_20_R','39.2555311753,9.09883717573');
+insert into ctm.fermate values ('Flumini (cantoniera)','0516', 'Linea_1Q_A Linea_PF_A','39.2189589129,9.28758854187');
+insert into ctm.fermate values ('Praga (ang. via Atene)','0660', 'Linea_17_R','39.2520603854,9.15763564497');
+insert into ctm.fermate values ('dell''Abbazia (fronte via Conversi)','0210', 'Linea_6_A','39.2213633831,9.13399332829');
+insert into ctm.fermate values ('Scano (clinica)','0187', 'Linea_3_A','39.2177269759,9.13052294874');
+insert into ctm.fermate values ('Pascal (fronte civico 1)','2086', 'Circolare_CEP_A','39.2384715029,9.13681831178');
+insert into ctm.fermate values ('Milano (ang. via Genova)','0280', 'Linea_5_R Linea_5e11_R','39.2079977052,9.12839703196');
+insert into ctm.fermate values ('Fieramosca (parco)','0986', 'Linea_40_A','39.236251157,9.19614868947');
+insert into ctm.fermate values ('L. da Vinci (ang. via Taormina)','0423', 'Linea_PF_A','39.2191198272,9.2731443132');
+insert into ctm.fermate values ('Vico (fronte via F.lli Rosselli)','0454', 'Linea_1Q_R','39.2362501064,9.19136344549');
+insert into ctm.fermate values ('L. da Vinci (fronte Hotel Califfo)','0414', 'Linea_PF_R','39.223211307,9.24874028528');
+insert into ctm.fermate values ('Peretti (fronte ospedale Brotzu)','0762', 'Linea_University_Express_R Linea_19_A Linea_QS_R Linea_QSB_A','39.2512331875,9.10880928387');
+insert into ctm.fermate values ('S.S. 391 Assemini - Decimo (ang. via Laz','0617', 'Linea_9_R','39.3049035862,8.97377722824');
+insert into ctm.fermate values ('Vico (ang. via Manara)','0992', 'Linea_1Q_R','39.2344301432,9.18566965726');
+insert into ctm.fermate values ('Toti (fronte scuole)','1124', 'Linea_13_A Linea_15_A','39.2514542397,9.12214862248');
+insert into ctm.fermate values ('Via delle Begonie fronte Palestra','2047', 'Linea_17_R','39.2592410667,9.15148567028');
+insert into ctm.fermate values ('Italia (portici)','0824', 'Linea_M_A Linea_8_A Linea_8A_A Linea_15_A Linea_19_A Linea_QS_R Linea_QSB_A','39.2468145073,9.12975407783');
+insert into ctm.fermate values ('Sant'' Antonio (ang. via S. Francesco)','0682', 'Linea_17_A','39.2565518309,9.17374405186');
+insert into ctm.fermate values ('Favonio (fronte via Garbino)','0320', 'Linea_3_R','39.2004157367,9.14694702425');
+insert into ctm.fermate values ('Crespellani (ang. via Cimabue)','0136', 'Linea_20_R','39.2576290083,9.1007756626');
+insert into ctm.fermate values ('Bacaredda (ang. via Benedetta)','0008', 'Linea_M_R Linea_6_A','39.2276321269,9.11997565433');
+insert into ctm.fermate values ('Via Goceano (fronte supermertato)','2077', 'Linea_13_A','39.2599428237,9.11271713739');
+insert into ctm.fermate values ('Mori (ang. via Negri)','0981', 'Linea_40_A','39.2389505961,9.18750072884');
+insert into ctm.fermate values ('Cimitero (ang. via Marconi)','1253', 'Linea_41_A','39.2452487934,9.19319562692');
+insert into ctm.fermate values ('Don Minzoni (scuole)','0502', 'Linea_18_A Linea_19_A Linea_30R_R Linea_31_R Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2490258891,9.17508135162');
+insert into ctm.fermate values ('Schiavazzi (fronte scuola materna)','0346', 'Linea_6_R','39.1960315384,9.13619170923');
+insert into ctm.fermate values ('Torbeno (T Hotel)','0879', 'Linea_13_A','39.2278814694,9.12281444602');
+insert into ctm.fermate values ('Sant'' Antonio (ang. via Liguria)','0700', 'Linea_30R_R Linea_41_A Linea_1Q_A Linea_PQ_A','39.2416185244,9.19793651207');
+insert into ctm.fermate values ('San Bartolomeo (Parcheggi)','0215', 'Linea_5_R Linea_5e11_R Linea_6_A','39.2006378305,9.14224572523');
+insert into ctm.fermate values ('Cettigne (ang. via Costantinopoli)','0905', 'Linea_6_A','39.2268034624,9.13607738552');
+insert into ctm.fermate values ('Cabras (ang. via Monte Marganai)','0481', 'Linea_M_A Linea_8_A Linea_8A_A Linea_19_A Linea_QS_R Linea_QSB_A','39.2503863315,9.14212598711');
+insert into ctm.fermate values ('San Francesco (ang. via Fadda)','1256', 'Linea_41_A','39.2437893906,9.19299463112');
+insert into ctm.fermate values ('San Gottardo (ang. via Cortis)','0666', 'Linea_M_R Linea_8_R Linea_8A_R Linea_17_A Linea_QSA_A','39.2623591758,9.14406265123');
+insert into ctm.fermate values ('d''Armi (Ingegneria)','0170', 'Linea_5_R Linea_5e11_R Linea_8_R Linea_8A_R Linea_20_A','39.2278488369,9.11040667516');
+insert into ctm.fermate values ('Brigata Sassari (fronte ex Fornaci)','0503', 'Linea_19_R Linea_30_A Linea_30R_A Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2463559437,9.17691723791');
+insert into ctm.fermate values ('Europa (Centro Giovani)','1164', 'Linea_9_R Linea_19_A','39.2914804289,9.00766472466');
+insert into ctm.fermate values ('Trieste (ang. via Bezzecca)','0526', 'Linea_19_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2542300194,9.16553295433');
+insert into ctm.fermate values ('Fadda (fronte Questura)','1109', 'Linea_30R_R','39.2433754558,9.19265745314');
+insert into ctm.fermate values ('Manin (portici)','0492', 'Linea_19_A Linea_30R_R Linea_31_R Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2524712848,9.16668774046');
+insert into ctm.fermate values ('Marconi (ponte pedonale)','0521', 'Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2389830844,9.14591509723');
+insert into ctm.fermate values ('L. da Vinci (ang. via Anglona)','0728', 'Linea_PF_R','39.2207094897,9.26368636777');
+insert into ctm.fermate values ('Gallus (fronte Torre)','0497', 'Linea_17_A Linea_17_R Linea_19_R Linea_30_A Linea_30R_A Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2536465873,9.17021370254');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (fronte Torre)','0392', 'Linea_PQ_R','39.2273312678,9.20615653115');
+insert into ctm.fermate values ('Cettigne (parcheggi)','0903', 'Linea_6_R','39.2268479737,9.1365408715');
+insert into ctm.fermate values ('Sa Funtanedda','0712', 'Linea_1Q_R','39.2415655678,9.23603577071');
+insert into ctm.fermate values ('Marconi (Asse Mediano)','0229', 'Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2312927408,9.13441770998');
+insert into ctm.fermate values ('Sonnino (ang. via Abba)','0020', 'Linea_1_A Linea_M_A Linea_10_A','39.2171965621,9.12104673278');
+insert into ctm.fermate values ('Regina Elena (Giardini Pubblici)','0067', 'Linea_6_A Linea_7_A Linea_10_R','39.2226962779,9.11797474871');
+insert into ctm.fermate values ('Giorgino (fronte ex fabbrica)','0569', 'Navetta_Giorgino_R Linea_8A_R','39.2110802491,9.08881396084');
+insert into ctm.fermate values ('Bacaredda (fronte via Gioberti)','0016', 'Linea_M_A','39.2206380881,9.12160867394');
+insert into ctm.fermate values ('Autonomia Regionale (quarta fermata)','0724', 'Linea_1Q_R','39.2326118154,9.27951094331');
+insert into ctm.fermate values ('Ariosto (ang. via Dublino)','1113', 'Linea_41_A','39.2359254036,9.19695883649');
+insert into ctm.fermate values ('della Pineta (ang. via Venezia)','0295', 'Linea_3_A Linea_5_A Linea_5e11_A Linea_6_R','39.2066564216,9.13519303801');
+insert into ctm.fermate values ('Diaz (ang. via Ancona)','0279', 'Linea_PF_R Linea_PQ_R','39.2065859458,9.12570751354');
+insert into ctm.fermate values ('Is Mirrionis (Magistero)','0171', 'Linea_5_A Linea_5e11_A','39.2292628834,9.11108084396');
+insert into ctm.fermate values ('del Fangario (ang. viale Elmas)','0123', 'Linea_9_R','39.2430282962,9.09401074619');
+insert into ctm.fermate values ('S. Avendrace (ang. via Coghinas)','0148', 'Linea_1_R Circolare_San_Simone_R Linea_9_A','39.2273807731,9.09987509402');
+insert into ctm.fermate values ('Don Orione (chiesa)','0677', 'Linea_17_A','39.2609114617,9.16866653909');
+insert into ctm.fermate values ('Gherardo delle Notti (ang. via Laconi)','2017', 'Linea_19_A','39.2533547835,9.09375797852');
+insert into ctm.fermate values ('Giorgino (villaggio pescatori)','0080', 'Navetta_Giorgino_R Linea_8A_R','39.2122675816,9.09151420422');
+insert into ctm.fermate values ('Ciusa (fronte via Biasi)','0236', 'Linea_M_A','39.2351971241,9.12382362683');
+insert into ctm.fermate values ('Liguria (parco)', '0738', 'Linea_3_A Linea_13_A','39.2310966301,9.11564850122');
+insert into ctm.fermate values ('Is Maglias ( Azuni)','0768', 'Linea_8_R Linea_8A_R Linea_20_A','39.2317561015,9.1043186614');
+insert into ctm.fermate values ('Jenner (fronte via Koch)','0869', 'Linea_13_A','39.241150435,9.11782025532');
+insert into ctm.fermate values ('Taloro (ang. via Tevere)','2039', 'Linea_9_A Linea_19_R','39.2934178507,9.0052993581');
+insert into ctm.fermate values ('Dante (fronte via San Saturnino)','0309', 'Linea_6_A','39.2136251364,9.12405213626');
+insert into ctm.fermate values ('Colombo (ang. via Gramsci)','0463', 'Linea_19_R Linea_41_A Linea_1Q_R Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2410205248,9.17762224973');
+insert into ctm.fermate values ('Colombo (ang. via Paganini)','0459', 'Linea_19_R Linea_1Q_R Linea_QS_A Linea_QSA_R Linea_QSB_R','39.234577346,9.18375831129');
+insert into ctm.fermate values ('Deliperi (fronte via Beato Angelico)','0766', 'Linea_1_R Linea_QS_A Linea_QS_R Linea_QSB_A Linea_QSB_R','39.2505199079,9.10037146423');
+insert into ctm.fermate values ('Piero della Francesca (ang. via Peretti)','0134', 'Linea_University_Express_A Linea_QS_A Linea_QSB_R','39.2507247547,9.10311833299');
+insert into ctm.fermate values ('Dante (ang. via Todde)','0206', 'Linea_1_R Linea_3_A Linea_29_A Circolare_CEP_A','39.225319731,9.12533545718');
+insert into ctm.fermate values ('Paganini (ang. v. Fogazzaro/ v. Zandonai','0707', 'Linea_1Q_A','39.2343297779,9.18073366061');
+insert into ctm.fermate values ('Marconi (Le Vele)','0912', 'Linea_30_R Linea_31R_A','39.2432358478,9.16630666153');
+insert into ctm.fermate values ('Riva Villasanta (ang. vico Villasanta)','0556', 'Linea_M_R Linea_8_R Linea_8A_R Linea_19_R Linea_QS_A Linea_QSB_R','39.2431856512,9.12752255572');
+insert into ctm.fermate values ('Marconi (fronte scuola Foscolo)','0218', 'Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2296724065,9.13302436303');
+insert into ctm.fermate values ('Ciusa (fronte via San Carlo)','0233', 'Linea_M_A','39.2333421657,9.12263858749');
+insert into ctm.fermate values ('L. da Vinci (ang. via Rio Solanas)','0940', 'Linea_PF_R','39.2198069619,9.27976133871');
+insert into ctm.fermate values ('Ciusa (ang. via San Carlo)','0234', 'Linea_M_R Linea_16_A','39.2331078625,9.1226613517');
+insert into ctm.fermate values ('Castiglione (ang. via Sarpi)','0228', 'Linea_1_R','39.2290285402,9.12865546686');
+insert into ctm.fermate values ('Pessina (fronte via Taramelli)','0263', 'Linea_6_A','39.2133491854,9.12922915484');
+insert into ctm.fermate values ('Calamosca (Strada per il Faro)','0338', 'Linea_5e11_R','39.1897429215,9.15010899449');
+insert into ctm.fermate values ('Is Maglias (fronte Azuni)','0769', 'Linea_8_A Linea_8A_A Linea_20_R','39.2314674775,9.10463104967');
+insert into ctm.fermate values ('Vesalio (ang. via Turr)','0247', 'Linea_1_R Linea_29_R','39.2395130209,9.13224343673');
+insert into ctm.fermate values ('Emilia (ang. via Mandrolisai)','0104', 'Linea_3_A Linea_8_A Linea_8A_A Linea_20_R','39.2382910424,9.10188350579');
+insert into ctm.fermate values ('Scano (ang. via Gazzano)','0262', 'Linea_3_A','39.2132938432,9.13037574801');
+insert into ctm.fermate values ('Ginestre (ang. via Toti)','1125', 'Linea_13_A Linea_15_A','39.2526808678,9.12102659317');
+insert into ctm.fermate values ('Poetto (ang. via Tramontana)','0371', 'Linea_3_A Linea_5_A Linea_5e11_A Linea_6_R Linea_PF_R Linea_PQ_R','39.2010061371,9.14317292835');
+insert into ctm.fermate values ('Poetto (stadio Amsicora)','0310', 'Linea_PF_R Linea_PQ_R','39.2047060687,9.13861738255');
+insert into ctm.fermate values ('Fiume (fronte via Norvegia)','2019', 'Linea_PF_A','39.2345961936,9.20486854071');
+insert into ctm.fermate values ('Dante (Tribunale minori)','0312', 'Linea_6_A','39.2153000961,9.12502806427');
+insert into ctm.fermate values ('Pitz'' e Serra (Liceo)','0708', 'Linea_1Q_A','39.240673519,9.21263809701');
+insert into ctm.fermate values ('Scano (chiesa)','0260', 'Linea_3_A','39.2160150119,9.13045027969');
+insert into ctm.fermate values ('Crespellani (oratorio)','2023', 'Linea_20_A','39.2549559724,9.09707474468');
+insert into ctm.fermate values ('Trieste (Comune)','0527', 'Linea_19_R Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2540860626,9.16538195262');
+insert into ctm.fermate values ('Poetto (fronte Monfenera)','0333', 'Linea_PF_R Linea_PQ_R','39.1971768559,9.15009007133');
+insert into ctm.fermate values ('Poetto (fronte via dei Tritoni)','0335', 'Linea_PF_A Linea_PQ_A','39.195163354,9.15323549169');
+insert into ctm.fermate values ('Italia (Vetreria)','0552', 'Linea_M_R Linea_8_R Linea_8A_R Linea_19_R Linea_QS_A Linea_QSB_R','39.2484167235,9.13126354158');
+insert into ctm.fermate values ('San Fulgenzio (campi sportivi)','2010', 'Linea_29_A','39.2600833927,9.13319772371');
+insert into ctm.fermate values ('Cornalias (ang. via Brianza)','0890', 'Linea_5_R Linea_5e11_R Linea_20_R','39.2402142424,9.1075524292');
+insert into ctm.fermate values ('Cittadella Universitaria - Lato Cesar','2094', 'Linea_University_Express_R','39.2715026368,9.12253119207');
+insert into ctm.fermate values ('Schiavazzi (scuola)','0642', 'Linea_6_A','39.1964145556,9.13994436905');
+insert into ctm.fermate values ('Carbonia (lato civico n°7)','2070', 'Linea_10_R','39.2144140441,9.11929292839');
+insert into ctm.fermate values ('Nazionale (ang. via Selargius)','0958', 'Linea_18_A','39.2526989308,9.17728085345');
+insert into ctm.fermate values ('Borgo Sant''Elia (fronte via Livingstone)','0341', 'Linea_6_R','39.1931781358,9.14122327052');
+insert into ctm.fermate values ('Carlo Felice (Rinascente)','0042', 'Linea_1_A Linea_7_A Linea_8_R Linea_8A_R','39.2150438068,9.11118585014');
+insert into ctm.fermate values ('Parini (ang. via Leoncavallo)','0977', 'Linea_1Q_A','39.2362183552,9.17726254476');
+insert into ctm.fermate values ('La Playa (fronte parcheggio)','0033', 'Navetta_Giorgino_A Linea_8A_A Linea_Zona_Industriale_A Carcere_Uta_R','39.2149060191,9.10428214061');
+insert into ctm.fermate values ('Giovanni XXIII (Chiesa)','0221', 'Linea_1_R Linea_3_A Linea_29_A Circolare_CEP_A','39.2272108711,9.12636989117');
+insert into ctm.fermate values ('Tramontana (campo Rossi)','0311', 'Linea_3_A Linea_3_R','39.2036730812,9.14337522243');
+insert into ctm.fermate values ('Fieramosca (ang. via Trieste)','0987', 'Linea_40_A','39.2348679873,9.19346840008');
+insert into ctm.fermate values ('Autonomia Regionale (ang. via Trifoglio)','0727', 'Linea_1Q_A','39.2281280842,9.28175226916');
+insert into ctm.fermate values ('Merello (ang. via Vittorio Veneto)','0165', 'Linea_5_R Linea_5e11_R','39.2252268548,9.11025196576');
+insert into ctm.fermate values ('Buoncammino (fronte Carcere)','0070', 'Linea_8_A Linea_8A_A Linea_10_A Linea_20_R','39.2258281454,9.1127899854');
+insert into ctm.fermate values ('della Menta (ang. via Mereu)','1151', 'Linea_15_A','39.2551275718,9.11631380986');
+insert into ctm.fermate values ('dei Conversi (piazza Padre Pio)','0188', 'Linea_6_R','39.2199611201,9.13099044047');
+insert into ctm.fermate values ('Italia (portici)','2000', 'Linea_40_A','39.2363746194,9.2080831894');
+insert into ctm.fermate values ('San Benedetto (ang. via Dublino)','0936', 'Linea_19_A Linea_PF_R Linea_QSA_A Linea_QSB_A','39.2348436114,9.19725705603');
+insert into ctm.fermate values ('Vidal (ang. via Besta)','0856', 'Linea_10_R','39.2128227477,9.13262191996');
+insert into ctm.fermate values ('Matteotti (capolinea 9)','1200', 'Linea_8A_A Linea_9_A Linea_9_R','39.2147742771,9.11035144771');
+insert into ctm.fermate values ('Abruzzi (cimitero S. Michele)','0119', 'Linea_3_A Linea_3_R Linea_16_R','39.242391566,9.10114783345');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (Lido Mediterraneo)','0387', 'Linea_PQ_A','39.2254300294,9.20098416652');
+insert into ctm.fermate values ('Risorgimento (fronte via Berchet )','0812', 'Linea_1_R','39.2435305678,9.13332864055');
+insert into ctm.fermate values ('S''Ecca S''Arrideli (quarta fermata)','0853', 'Linea_1Q_A','39.2425600284,9.24320022237');
+insert into ctm.fermate values ('S. Avendrace (fronte via Montello)','0144', 'Linea_1_R Linea_9_A','39.2325728723,9.09762319447');
+insert into ctm.fermate values ('Poetto (ang. via Tremiti)','0357', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.2065185341,9.16525876019');
+insert into ctm.fermate values ('Borgo Sant''Elia (fronte piazza Callas)','0342', 'Linea_6_R','39.1947538388,9.14219912179');
+insert into ctm.fermate values ('Poetto (Lido Esercito)','0948', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.2080657723,9.16709232812');
+insert into ctm.fermate values ('dell''Abbazia (ang. via Francoforte)','0211', 'Linea_6_R','39.2229115821,9.13542114716');
+insert into ctm.fermate values ('Caracalla (fermata Metrò)','1198', 'Linea_29_R','39.2524140363,9.13428418766');
+insert into ctm.fermate values ('Marconi (ponte pedonale)','0482', 'Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2388306412,9.14532384596');
+insert into ctm.fermate values ('Cittadella Univeritaria - lato Fisica','2088', 'Linea_University_Express_A','39.2704045013,9.12141643128');
+insert into ctm.fermate values ('M.C.T.C.','0648', 'Linea_16_A Linea_16_R','39.2608080335,9.09200613616');
+insert into ctm.fermate values ('Ciusa (ang. via Biasi)','0235', 'Linea_M_R Linea_16_A','39.2347105452,9.1238227716');
+insert into ctm.fermate values ('Cimabue (scuole)','1252', 'Linea_41_A','39.2454784887,9.19050782747');
+insert into ctm.fermate values ('Nazionale (biblioteca)','0964', 'Linea_18_A','39.2536689782,9.1793114426');
+insert into ctm.fermate values ('Marconi (fronte le Vele)','0483', 'Linea_31_A Linea_31R_R','39.2429546394,9.16761540155');
+insert into ctm.fermate values ('Giulio Cesare (cimitero)','0829', 'Linea_8_R Linea_QSA_A','39.2651133229,9.13922312699');
+insert into ctm.fermate values ('Cimitero','1254', 'Linea_30R_A','39.2452490624,9.19303339536');
+insert into ctm.fermate values ('Lanusei (fronte civico n°51)','2069', 'Linea_10_A','39.2140810724,9.11887538042');
+insert into ctm.fermate values ('Monaco (ang. via Dalla Chiesa)','2027', 'Linea_41_A','39.235490972,9.2084165853');
+insert into ctm.fermate values ('Diaz (Banco di Sardegna)','0632', 'Linea_PF_R Linea_PQ_R','39.2102053425,9.11994599691');
+insert into ctm.fermate values ('Diaz (ang. via Siracusa)','0241', 'Linea_PF_R Linea_PQ_R','39.2053073136,9.13301313696');
+insert into ctm.fermate values ('Sarcidano (ang. via Marmilla)','1165', 'Linea_9_R Linea_19_A','39.295607515,9.00320058729');
+insert into ctm.fermate values ('Riva Villasanta (ang. via Calamattia)','0237', 'Linea_M_A','39.2380252644,9.12497569522');
+insert into ctm.fermate values ('Colombo (ang. via Meucci)','0462', 'Linea_19_A Linea_40_A Linea_1Q_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.240532974,9.17825831879');
+insert into ctm.fermate values ('Dante (ang. via Deledda)','0273', 'Linea_6_R Linea_29_R Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2160392757,9.12475137781');
+insert into ctm.fermate values ('San Benedetto (ang. via Bonn)','0848', 'Linea_19_R Linea_PF_A Linea_QSA_R Linea_QSB_R','39.2345646918,9.19701296355');
+insert into ctm.fermate values ('San Benedetto (scuole)','0935', 'Linea_19_A Linea_PF_R Linea_QSA_A Linea_QSB_A','39.2357956692,9.19906721035');
+insert into ctm.fermate values ('Crespellani (fronte oratorio)','2022', 'Linea_20_R','39.2550196248,9.09637945413');
+insert into ctm.fermate values ('Bonaria (Banco di Sardegna)','0266', 'Linea_5_R Linea_5e11_R Linea_6_A Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2108359645,9.12007447575');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (ang. via Fiume)','0400', 'Linea_PQ_R','39.2294456994,9.21775972121');
+insert into ctm.fermate values ('Cittadella Universitaria - Fronte Fisica','2095', 'Linea_University_Express_R','39.2703234053,9.12141629133');
+insert into ctm.fermate values ('Poetto (fronte vecchio Ospedale)','0375', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.211780642,9.17161831471');
+insert into ctm.fermate values ('Via delle Azalee altezza civico 79','2046', 'Linea_17_R','39.2614428112,9.1490563638');
+insert into ctm.fermate values ('Via San Giacomo (altezza civico n°130)','1022', 'Linea_7_A','39.2194509585,9.11939412262');
+insert into ctm.fermate values ('Sant''Antonio (ang. via Fadda)','0451', 'Linea_30R_A Linea_1Q_A Linea_PQ_A','39.2406143704,9.19494417768');
+insert into ctm.fermate values ('Buoncammino (fronte 4° chiosco)','2025', 'Linea_10_A','39.2267748434,9.11220066609');
+insert into ctm.fermate values ('Cittadella Universitaria - Fronte Neuroscienze','2096', 'Linea_University_Express_R','39.2691239186,9.12243431395');
+insert into ctm.fermate values ('L. da Vinci (Scuole)','0425', 'Linea_PF_A','39.2190800735,9.28226053346');
+insert into ctm.fermate values ('Musica (ang. via Stradivari)','0975', 'Linea_1Q_A','39.2320821794,9.17742592581');
+insert into ctm.fermate values ('Via delle Ortensie (lato civico 27)','2076', 'Linea_13_A','39.2582279183,9.11564670314');
+insert into ctm.fermate values ('San Gottardo (Stazione Metro Capolinea M','0742', 'Linea_M_A Linea_M_R Linea_8_R Linea_8A_A Linea_8A_R Linea_QSA_A','39.2639038017,9.1409593989');
+insert into ctm.fermate values ('Schiavazzi (piazza Demuro)','0907', 'Linea_6_A','39.1966503175,9.13870577248');
+insert into ctm.fermate values ('Milano (ang. via Grosseto)','0285', 'Linea_5_A Linea_5e11_A','39.2078508791,9.13078263186');
+insert into ctm.fermate values ('Calamattia (ang. via Santa Maria Chiara)','0216', 'Linea_19_R','39.2399579825,9.12078457319');
+insert into ctm.fermate values ('Paganini (ang. via Fogazzaro)','0706', 'Linea_1Q_R','39.2343829959,9.18127835017');
+insert into ctm.fermate values ('S''Ecca S''Arrideli (seconda fermata)','0553', 'Linea_1Q_R','39.2426844735,9.25247072413');
+insert into ctm.fermate values ('San Gottardo (fronte via Q.F. Massimo)','0662', 'Linea_17_R','39.2605556452,9.14518324267');
+insert into ctm.fermate values ('Diaz (parcheggi Fiera)','0917', 'Linea_PF_A Linea_PQ_A','39.2056739205,9.12748944231');
+insert into ctm.fermate values ('XX Settembre ( ex Corte dei Conti)','0022', 'Linea_1_R Linea_M_R Linea_29_A','39.2125142482,9.11784188308');
+insert into ctm.fermate values ('4 Novembre (ang. via Amsicora)','0701', 'Linea_30R_A Linea_30R_R Linea_40_A Linea_1Q_R Linea_PQ_A Linea_PQ_R','39.2394579299,9.19136057309');
+insert into ctm.fermate values ('S. Avendrace (ang. via Flumendosa)','0147', 'Linea_1_A Linea_9_R','39.2299677148,9.09887082079');
+insert into ctm.fermate values ('Dante (ang. via Cino da Pistoia)','1147', 'Linea_29_A Circolare_CEP_A','39.2226166345,9.12521480702');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (Lido Finanza)','0383', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.2208387137,9.18768421878');
+insert into ctm.fermate values ('Diaz (Fiera)','0283', 'Linea_PF_A Linea_PQ_A','39.2052733323,9.13119478423');
+insert into ctm.fermate values ('Marconi (ang. via Volta)','0464', 'Linea_19_A Linea_31_A Linea_31R_R Linea_40_A Linea_1Q_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2416308734,9.17917650421');
+insert into ctm.fermate values ('Africa (ang. via Porto Torres)','1170', 'Linea_9_A Linea_19_R','39.2979952876,8.99536131012');
+insert into ctm.fermate values ('Peretti (uffici ASL)','0764', 'Linea_1_R Linea_19_A Linea_QS_R Linea_QSB_A','39.2518143078,9.1039543447');
+insert into ctm.fermate values ('Redentore (ang. via Giulio Cesare)','0821', 'Linea_M_A Linea_8_A Linea_8A_A Linea_QSA_R','39.2552718264,9.14073349907');
+insert into ctm.fermate values ('della Pineta (ang. via dei Colombi)','0290', 'Linea_3_A Linea_6_R','39.2094439124,9.13244183266');
+insert into ctm.fermate values ('Is Maglias (ang. via Pasubio)','0182', 'Linea_8_A Linea_8A_A Linea_20_R','39.2352737275,9.10040767052');
+insert into ctm.fermate values ('Liguria (Pacinotti)', '0078', 'Linea_3_A Linea_13_A','39.2292924066,9.11771932736');
+insert into ctm.fermate values ('Campania (fronte via Mattei)','0083', 'Linea_3_R Linea_13_A Linea_16_R','39.232314757,9.11394737314');
+insert into ctm.fermate values ('Lungosaline (ang. via Montecristo)','0350', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.1988773891,9.15877899239');
+insert into ctm.fermate values ('della Pineta (ang. via Dexart)','0293', 'Linea_3_A Linea_6_R','39.2111571887,9.13135630304');
+insert into ctm.fermate values ('Marconi (ang. via Torricelli)','0478', 'Linea_31_A Linea_31R_R','39.242344332,9.1721330919');
+insert into ctm.fermate values ('Lussu (ang. via Romagnino)','0680', 'Linea_17_A','39.2593174918,9.16166215412');
+insert into ctm.fermate values ('Sulcitana Elmas (piazza Suella)','0586', 'Linea_9_A Linea_19_R','39.2670507109,9.05072494228');
+insert into ctm.fermate values ('Sulcitana Elmas (ang. via del Mare)','0588', 'Linea_9_A Linea_19_R','39.268493846,9.04734115942');
+insert into ctm.fermate values ('Verdi (fronte via Pascoli)','0513', 'Linea_40_A','39.2352321211,9.17991334295');
+insert into ctm.fermate values ('S.P. Villasimius (ang. via delle Acacie)','0440', 'Linea_1Q_A','39.1949398948,9.33666972219');
+insert into ctm.fermate values ('Zona Industriale Machiareddu altezza Sta','2055','rcere_Uta_R','39.2323883968,8.99479792264');
+insert into ctm.fermate values ('Brigata Sassari (ang. via Milano)','0916', 'Linea_30R_R','39.242926552,9.18038491506');
+insert into ctm.fermate values ('Trieste (fronte Assessorato RAS)','0161', 'Linea_5_R Circolare_San_Simone_R Linea_5e11_R Linea_9_A','39.219338759,9.10490263798');
+insert into ctm.fermate values ('Vico (ang. via Iglesias)','0457', 'Linea_1Q_A','39.2353450867,9.18825583408');
+insert into ctm.fermate values ('L. da Vinci (ang. via Is Pardinas)','0754', 'Linea_PF_R','39.2250191988,9.24603584993');
+insert into ctm.fermate values ('Trieste (ang. via 29 Novembre)','0162', 'Linea_1_A Linea_5_A Circolare_San_Simone_A Linea_5e11_A Linea_9_R','39.2188784041,9.10579389727');
+insert into ctm.fermate values ('Margine Rosso (fronte via Marco Polo)','0409', 'Linea_PF_A','39.2266117996,9.2384764394');
+insert into ctm.fermate values ('Nazionale (ang. via Ballero)','0962', 'Linea_18_A','39.2512163356,9.17451893717');
+insert into ctm.fermate values ('Giotto (ang. via Carpaccio)','0882', 'Linea_20_A','39.2503610923,9.09637307708');
+insert into ctm.fermate values ('Carmine (ang. via De Sanctis)','0597', 'Linea_9_R Linea_19_A','39.279602665,9.02137876724');
+insert into ctm.fermate values ('Vesalio (cittadella finanziaria)','0365', 'Linea_1_R Linea_29_R','39.2418332031,9.13622229369');
+insert into ctm.fermate values ('San Gottardo (Chiesa)','0658', 'Linea_M_R Linea_8_R Linea_8A_R Linea_17_A Linea_QSA_A','39.2593203865,9.14581816361');
+insert into ctm.fermate values ('Dante (ang. via San Lucifero)','0271', 'Linea_6_R Linea_29_R Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.2137876379,9.1237628508');
+insert into ctm.fermate values ('Calamosca (Capolinea 511)','0340', 'Linea_5e11_A Linea_5e11_R','39.186884464,9.15167758138');
+insert into ctm.fermate values ('Autonomia Regionale (fronte via San Giov','0771', 'Linea_1Q_A','39.2230582763,9.28412996209');
+insert into ctm.fermate values ('Flavio Gioia (Chiesa)','0250', 'Linea_1_R','39.2365386943,9.13293304865');
+insert into ctm.fermate values ('Marconi (fronte quartiere Europeo)','0253', 'Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R','39.2337579987,9.13757384268');
+insert into ctm.fermate values ('Jenner (fronte Oncologico)','0131', 'Linea_13_A','39.2457304266,9.11527853374');
+insert into ctm.fermate values ('San Martino (cimitero Pirri)','0740', 'Linea_1_R','39.2436039346,9.13220476702');
+insert into ctm.fermate values ('Cinquini (parco San Michele)','1140', 'Linea_5_A Linea_5_R Linea_5e11_A Linea_5e11_R','39.2420673755,9.11083452323');
+insert into ctm.fermate values ('Via delle Azalee altezza civico 9','2045', 'Linea_17_R','39.2598141652,9.14725639911');
+insert into ctm.fermate values ('San Giorgio (parcheggi)','0059', 'Linea_8_A Linea_8A_A','39.2206467215,9.11303654127');
+insert into ctm.fermate values ('San Benedetto (fronte Poste)','0207', 'Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A','39.224433067,9.12864707724');
+insert into ctm.fermate values ('Roma (cimitero)','0675', 'Linea_17_A','39.2595004706,9.17230253394');
+insert into ctm.fermate values ('Ausonia (ang. Lungosaline)','0355', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.2044954282,9.16218496828');
+insert into ctm.fermate values ('Marconi (Credito Italiano)','0465', 'Linea_19_R Linea_30_R Linea_31R_A Linea_41_A Linea_1Q_R Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2416584219,9.17884053877');
+insert into ctm.fermate values ('Pergolesi (ang. via Cimarosa)','0191', 'Linea_3_R Linea_6_R','39.2210620368,9.1295560642');
+insert into ctm.fermate values ('Cagna (ang. via Curie)','0301', 'Linea_10_A','39.206994664,9.13873769843');
+insert into ctm.fermate values ('Ciociaria (fronte via Nebida)','1141', 'Linea_5_R Linea_5e11_R Linea_20_R','39.2382792323,9.105035121');
+insert into ctm.fermate values ('Via Del REdentore (altezza civico n°56C)','1016', 'Linea_M_A Linea_8_A Linea_8A_A Linea_QSA_R','39.2539539544,9.14263153592');
+insert into ctm.fermate values ('Carmine (fronte Chiesa)','0601', 'Linea_9_R Linea_19_A','39.2828026074,9.01371596118');
+insert into ctm.fermate values ('Borgo Sant''Elia (fronte via Ferrara)','0074', 'Linea_6_R','39.1972030223,9.14362841461');
+insert into ctm.fermate values ('Zuddas (ang. via vico Zuddas)','0532', 'Linea_M_A Linea_8_A Linea_8A_A Linea_QSA_R','39.2524721828,9.14587351426');
+insert into ctm.fermate values ('Romagna (parcheggi)','0076', 'Linea_6_A','39.2278679592,9.11845839858');
+insert into ctm.fermate values ('Astrolabio (giardini)','0317', 'Linea_3_R','39.200314636,9.1485102001');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (fronte lido Carabi','0384', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.2184235291,9.18219874029');
+insert into ctm.fermate values ('Vittorio Veneto (ang. via Mazzini)','0945', 'Linea_17_A','39.2539873274,9.17135029362');
+insert into ctm.fermate values ('La Vega (Clinica)','0071', 'Linea_6_R','39.2257875817,9.11736592769');
+insert into ctm.fermate values ('Elmas (seconda fermata)','0117', 'Linea_9_R','39.245411394,9.08856754032');
+insert into ctm.fermate values ('del Pino Solitario (ang. via Polveriera)','0835', 'Linea_9_R Linea_19_A','39.2688809344,9.04824558993');
+insert into ctm.fermate values ('Poetto (fronte Ippodromo)','0374', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.209639795,9.16907660898');
+insert into ctm.fermate values ('Via San Giacomo (altezza civico n°48)','1023', 'Linea_7_A','39.2180996428,9.1191022447');
+insert into ctm.fermate values ('S.P. Villasimius (ang. via Lago di Vares','0475', 'Linea_1Q_R Linea_PF_A','39.2171265988,9.29955828019');
+insert into ctm.fermate values ('Roma (fronte Stazione FS)','0040', 'Linea_1_A Linea_5_A Circolare_San_Simone_A Linea_5e11_A Linea_9_R','39.2162898573,9.10846574743');
+insert into ctm.fermate values ('Santa Margherita (parcheggi)','0058', 'Linea_7_A Linea_8_R Linea_8A_R','39.2204568645,9.11368493813');
+insert into ctm.fermate values ('Is Guadazzonis (Ospedale)','0858', 'Linea_10_A Linea_10_R','39.2095470636,9.13675058916');
+insert into ctm.fermate values ('Tamburino Sardo (ang. via Montale)','1150', 'Linea_15_A','39.252217879,9.11554411712');
+insert into ctm.fermate values ('dei Fiori (fronte via Ciclamini)','1128', 'Linea_15_A','39.2600515625,9.12108562776');
+insert into ctm.fermate values ('Schiavazzi (parco giochi)','0638', 'Linea_6_R','39.1963732968,9.13674820874');
+insert into ctm.fermate values ('Buoncammino (Polizia)','0065', 'Linea_8_R Linea_8A_R Linea_10_A','39.2226893373,9.11591272832');
+insert into ctm.fermate values ('S. Avendrace (fronte via Coghinas)','0149', 'Linea_1_A Linea_9_R','39.2273085281,9.1000603529');
+insert into ctm.fermate values ('Fiume (ang. via Borsellino)','2020', 'Linea_40_A Linea_PF_R','39.2354482164,9.20199758957');
+insert into ctm.fermate values ('La Playa (capolinea 29)','1146', 'Linea_29_A Linea_29_R','39.2144466154,9.10411929956');
+insert into ctm.fermate values ('La Playa (fronte mercato Ittico)','0035', 'Navetta_Giorgino_A Linea_8A_A Linea_Zona_Industriale_A Carcere_Uta_R','39.2148719253,9.10208131346');
+insert into ctm.fermate values ('Margine Rosso (ang. via Marco Polo)','0410', 'Linea_PF_R','39.2266739248,9.23894004798');
+insert into ctm.fermate values ('Via della Libertà altezza civico 97', '2048', 'Linea_17_R','39.2575599201,9.15539948988');
+insert into ctm.fermate values ('Nazionale (fronte chiesa)','0624', 'Linea_9_A','39.3096311809,8.96281474474');
+insert into ctm.fermate values ('Sauro (uffici comunali)','0158', 'Linea_1_R Linea_5_R Linea_5e11_R','39.2222956721,9.10335474866');
+insert into ctm.fermate values ('S. Avendrace (ang. via Tirso)','0146', 'Linea_1_R Linea_9_A','39.2295982844,9.09885871696');
+insert into ctm.fermate values ('Raffa Garzia','0857', 'Linea_10_R','39.20992016,9.13360094912');
+insert into ctm.fermate values ('Riva Villasanta (ang. via Randaccio)','0244', 'Linea_M_R Linea_8_R Linea_8A_R Linea_19_R Linea_QS_A Linea_QSB_R','39.2407454263,9.12597702833');
+insert into ctm.fermate values ('Schiavazzi (fronte piazza Pigafetta)','0646', 'Linea_6_R','39.1933876562,9.13933623072');
+insert into ctm.fermate values ('Poetto (Via Dell''Idrovora - Fronte Osped','0378', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.2130043728,9.17279114833');
+insert into ctm.fermate values ('Flumini','0413', 'Linea_PF_A Linea_PF_R','39.2213951269,9.28624314449');
+insert into ctm.fermate values ('Europa (parco)','0913', 'Linea_9_A Linea_19_R','39.2892368053,9.00720066888');
+insert into ctm.fermate values ('Caracalla (ang. via S. Giuliano)','1187', 'Linea_29_R','39.2583078242,9.13360001998');
+insert into ctm.fermate values ('Chiabrera (ang. via Rosa)','1103', 'Linea_29_R','39.2327048137,9.12875486747');
+insert into ctm.fermate values ('Crespellani (fronte via Tintoretto)','0886', 'Linea_20_A','39.257439864,9.10068267152');
+insert into ctm.fermate values ('Pitz'' e Serra (fronte N.S. del Buoncammi','0752', 'Linea_1Q_R','39.2397312262,9.22498711054');
+insert into ctm.fermate values ('Castiglione (ang. via Grandi)','0227', 'Linea_1_A','39.2291367712,9.12856298145');
+insert into ctm.fermate values ('Colombo (fronte Polizia Municipale)','0525', 'Linea_19_R Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2332584571,9.18585194619');
+insert into ctm.fermate values ('Marconi (fronte Clinica)','0911', 'Linea_30_R Linea_31R_A','39.2420147229,9.17563170861');
+insert into ctm.fermate values ('Mazzini (poliambulatorio)','0670', 'Linea_17_A','39.253932512,9.17186009612');
+insert into ctm.fermate values ('Marconi (ang. via Angioy)','0470', 'Linea_30R_A','39.2430968137,9.18670063009');
+insert into ctm.fermate values ('Marconi (fronte via Torricelli)','0480', 'Linea_30_R Linea_31R_A','39.2424704474,9.17215657527');
+insert into ctm.fermate values ('Flavio Gioia (fronte Chiesa)','0249', 'Linea_1_A','39.2362413672,9.13290931449');
+insert into ctm.fermate values ('Archimede (fronte via Avogadro)','1145', 'Circolare_CEP_A','39.2356939965,9.13089223847');
+insert into ctm.fermate values ('Piovella (fronte chiesa)','0095', 'Linea_5_A Linea_5e11_A','39.2403629967,9.11224548276');
+insert into ctm.fermate values ('Cagliari (ang. via Firenze)','1111', 'Linea_30R_R Linea_41_A','39.2445440251,9.18323968288');
+insert into ctm.fermate values ('Is Mirrionis (fronte Magistero)','2026', 'Linea_5_R Linea_5e11_R','39.2295874354,9.11090757379');
+insert into ctm.fermate values ('Cabras (Polizia Municipale)','0547', 'Linea_M_R Linea_8_R Linea_8A_R Linea_19_R Linea_QS_A Linea_QSB_R','39.2502153404,9.1419518093');
+insert into ctm.fermate values ('Sant''Ignazio da Laconi (lato civico n.74)','2065', 'Linea_10_A Linea_10_R','39.2229920152,9.11043381957');
+insert into ctm.fermate values ('Pisano (parco Terramaiani)','1181', 'Linea_29_A','39.2442456409,9.13828959934');
+insert into ctm.fermate values ('Pola (ang. via Mameli)','0159', 'Linea_1_R Linea_5_A Linea_5e11_A','39.2204826432,9.10543720242');
+insert into ctm.fermate values ('Jenner (Casa Accoglienza)','0872', 'Linea_13_A','39.2431344213,9.11620129893');
+insert into ctm.fermate values ('Is Guadazzonis (scuole)','0860', 'Linea_10_A','39.2104000248,9.13933509579');
+insert into ctm.fermate values ('Lungosaline (ang. Via Gorgona)','0348', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.1972201017,9.15826573636');
+insert into ctm.fermate values ('Bacaredda (vico S. Giovanni)','0010', 'Linea_M_A Linea_6_R Circolare_CEP_A','39.2260638528,9.12036687003');
+insert into ctm.fermate values ('Roma (Molo Sanità)','0024', 'Linea_1_R Linea_M_R Linea_5_R Linea_5e11_R Linea_29_A Linea_30_A Linea_30R_A Linea_31_A Linea_31R_R Linea_PF_A Linea_PQ_A','39.2140432253,9.11158967359');
+insert into ctm.fermate values ('San Gavino','0542', 'Linea_8A_A','39.2596545509,9.13778671005');
+insert into ctm.fermate values ('L. da Vinci (Su Meriagu)','0421', 'Linea_PF_A','39.2200678155,9.2684681046');
+insert into ctm.fermate values ('Tiepolo (fronte piazza Tiepolo)','0884', 'Linea_20_A','39.254146189,9.09564812019');
+insert into ctm.fermate values ('I Maggio (fronte liceo)','0490', 'Linea_30R_R Linea_31_R','39.2472729338,9.15966447835');
+insert into ctm.fermate values ('Duca di Genova (ang. via Conte Verde)','1132', 'Linea_15_A','39.2488960948,9.12965361591');
+insert into ctm.fermate values ('Centro commerciale','1174', 'Circolare_San_Simone_A Circolare_San_Simone_R','39.2308829322,9.09262743023');
+insert into ctm.fermate values ('Merello (fronte via Vittorio Veneto)','0167', 'Linea_5_A Linea_5e11_A Linea_10_R','39.2257402804,9.11044971095');
+insert into ctm.fermate values ('Pergolesi (ang. via Rossini)','0192', 'Linea_3_A Linea_6_A','39.2224153511,9.12801784351');
+insert into ctm.fermate values ('Cagna (ang. via Is Guadazzonis)','0861', 'Linea_10_A','39.2102722036,9.14072471639');
+insert into ctm.fermate values ('Pisano (centro commerciale)','1134', 'Linea_15_A Linea_29_R','39.2481400823,9.13675597643');
+insert into ctm.fermate values ('Nazionale (fronte via Toscana)','0618', 'Linea_9_A','39.3054259739,8.97277960955');
+insert into ctm.fermate values ('Cadello (fronte uffici Citt Metropolitana)','0091', 'Linea_8_A Linea_8A_A Linea_13_A','39.2379355277,9.11590305162');
+insert into ctm.fermate values ('Pergolesi (ang. via Donizetti)','0190', 'Linea_3_A Linea_6_A','39.2213776187,9.12937129864');
+insert into ctm.fermate values ('Schiavazzi (fronte scuola)','0645', 'Linea_6_R','39.1963335282,9.13988630837');
+insert into ctm.fermate values ('Trieste (Poste)','0506', 'Linea_19_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2536222155,9.16203152568');
+insert into ctm.fermate values ('Scano (ang. via Cugia)','0259', 'Linea_3_R','39.2153034608,9.13018255164');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (fronte Fortino)','0398', 'Linea_PQ_R','39.2283755232,9.2117320881');
+insert into ctm.fermate values ('Brigata Sassari (CTM Point)','0466', 'Linea_19_A Linea_31_A Linea_31_R Linea_31R_A Linea_31R_R Linea_40_A Linea_40_A Linea_41_A Linea_41_A Linea_1Q_A Linea_1Q_R Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2424749569,9.18106742482');
+insert into ctm.fermate values ('L. da Vinci (Hotel Califfo)','0415', 'Linea_PF_A','39.2231939778,9.24841586135');
+insert into ctm.fermate values ('Poetto (fronte G.Rossi)','0322', 'Linea_PF_A Linea_PQ_A','39.2010157162,9.14270971755');
+insert into ctm.fermate values ('Marmilla (ang. via Monsignor Virgilio)','1123', 'Linea_13_A Linea_15_A','39.2496334454,9.12274807876');
+insert into ctm.fermate values ('Poetto (ang. via San Pietro)','0359', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.2079489646,9.1668604135');
+insert into ctm.fermate values ('Elmas (ang. via dell''Industria)','0363', 'Linea_9_A','39.2478548561,9.0864962792');
+insert into ctm.fermate values ('Nazionale (ang. via Stazione)','0622', 'Linea_9_A','39.3090918285,8.96708329861');
+insert into ctm.fermate values ('Quirra (mercato civico)','0032', 'Linea_20_A','39.2390696991,9.1077476608');
+insert into ctm.fermate values ('della pace (cimitero)','1272', 'Linea_18_A','39.2481216317,9.17718820945');
+insert into ctm.fermate values ('Giorgino (ex fabbrica)','0564', 'Navetta_Giorgino_A Linea_8A_A','39.2112783888,9.08894161732');
+insert into ctm.fermate values ('Chiabrera (ang. via Stampa)','1101', 'Linea_29_A','39.232470458,9.12882395474');
+insert into ctm.fermate values ('Cittadella Universitaria - Lato Biblioteca','2090', 'Linea_University_Express_A','39.2714290671,9.12393373699');
+insert into ctm.fermate values ('Campania (ang. via Mattei)','0082', 'Linea_3_A','39.2325131402,9.11379707684');
+insert into ctm.fermate values ('Jenner (fronte Casa Accoglienza)','0870', 'Linea_13_A','39.2436391135,9.11610942953');
+insert into ctm.fermate values ('Matteotti (capolinea PF - PQ)','0028', 'Linea_PF_A Linea_PF_R Linea_PQ_A Linea_PQ_R','39.2148559975,9.10969134279');
+insert into ctm.fermate values ('Giovanni XXIII (fronte via Alberti)','0222', 'Linea_1_A Linea_3_R Linea_29_R','39.2273728001,9.1266134684');
+insert into ctm.fermate values ('Africa (fronte via Iglesias)','1166', 'Linea_9_R Linea_19_A','39.2975448428,8.99892151152');
+insert into ctm.fermate values ('Binaghi (ang. via Aresu)','1142', 'Linea_20_A','39.254250288,9.10043473007');
+insert into ctm.fermate values ('Nazionale (ang. via Stazione)','0621', 'Linea_9_R','39.3091099021,8.96726886708');
+insert into ctm.fermate values ('Cittadella Universitaria - Lato Medicina','2093', 'Linea_University_Express_R','39.2713207416,9.12411902332');
+insert into ctm.fermate values ('Sonnino (Archivio di Stato)','0811', 'Linea_1_R Linea_M_R Linea_29_A','39.2140080014,9.11983663727');
+insert into ctm.fermate values ('S.S. 391 Assemini - Decimo (seconda ferm','0639', 'Linea_9_R','39.3017058359,8.97881166554');
+insert into ctm.fermate values ('L. da Vinci (ang. via Buonarroti)','0643', 'Linea_17_A','39.2606040399,9.17548104639');
+insert into ctm.fermate values ('Calamosca (fronte Strada Faro)','0339', 'Linea_5e11_A','39.189914186,9.15006304309');
+insert into ctm.fermate values ('Flumini (Circonvallazione)','0494', 'Linea_1Q_R Linea_PF_A','39.2177392646,9.28888091578');
+insert into ctm.fermate values ('Cabras (ang. vico Zuddas)','0427', 'Linea_M_A Linea_8_A Linea_8A_A Linea_19_A Linea_QS_R Linea_QSB_A','39.2520760027,9.14564091042');
+insert into ctm.fermate values ('S.S. 554 (cavalcavia pedonale)','0750', 'Linea_PQ_R','39.235340694,9.21670040797');
+insert into ctm.fermate values ('Regina Elena (fronte Bastione)','0053', 'Linea_6_R Linea_7_A Linea_10_A','39.2162635046,9.11707207151');
+insert into ctm.fermate values ('Cittadella Universitaria','0735', 'Linea_8_R Linea_29_A Linea_QSA_A Linea_QSA_R','39.2687451777,9.12271186046');
+insert into ctm.fermate values ('Roma (Stazione FS)','0039', 'Linea_5_R Circolare_San_Simone_R Linea_5e11_R Linea_9_A','39.2162179329,9.10829188793');
+insert into ctm.fermate values ('Sini (ang. via Gherardo delle Notti)','0896', 'Linea_20_R','39.2534802021,9.09466211762');
+insert into ctm.fermate values ('Via San Giovanni (altezza civico n°361)','1020', 'Linea_7_A','39.2236854363,9.11995735099');
+insert into ctm.fermate values ('Via Delle Azalee fronte civico 79','2053', 'Linea_17_A','39.2608842089,9.14900881841');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (Torre)','0389', 'Linea_PQ_A','39.2273295826,9.20710650207');
+insert into ctm.fermate values ('Cimitero (cimitero di Bonaria)','0334', 'Linea_6_A Linea_30_A Linea_30R_A Linea_31_A','39.2105983583,9.12325921237');
+insert into ctm.fermate values ('S.P. Villasimius (fronte via delle Acaci','0441', 'Linea_1Q_R','39.1946229147,9.33722403384');
+insert into ctm.fermate values ('Scirocco (ang. via Ghibli)','0316', 'Linea_3_A','39.2013335302,9.14797962823');
+insert into ctm.fermate values ('Don Minzoni (fronte Scuole)','0505', 'Linea_19_R Linea_30_A Linea_30R_A Linea_QS_A Linea_QSA_R Linea_QSB_R','39.2488998789,9.17498832931');
+insert into ctm.fermate values ('Libeccio (fronte via Aquilone)','0315', 'Linea_3_A','39.2027134377,9.14698655442');
+insert into ctm.fermate values ('Carpaccio (fronte Circoscrizione)','0139', 'Linea_20_R','39.2511524362,9.09828634558');
+insert into ctm.fermate values ('Calamosca (prima fermata)','0370', 'Linea_5e11_R','39.1937103307,9.14803311512');
+insert into ctm.fermate values ('Merello (ang. via Oslavia)','0164', 'Linea_5_R Linea_5e11_R','39.2233722197,9.1085693218');
+insert into ctm.fermate values ('Trieste (fronte via Tirana)','0528', 'Linea_19_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2532255835,9.1555405837');
+insert into ctm.fermate values ('S.P. Villasimius (fronte via Transatlant','0432', 'Linea_1Q_A','39.210019851,9.30886334612');
+insert into ctm.fermate values ('L. da Vinci (Hotel Setar)','0417', 'Linea_PF_A','39.2211465339,9.25352879415');
+insert into ctm.fermate values ('Fiume (fronte via Borsellino)','2021', 'Linea_41_A Linea_PF_A','39.2350687212,9.20259899135');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (fronte Bussola)','0388', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.2228676724,9.19226543612');
+insert into ctm.fermate values ('Baronia (ang. via Edison)','1178', 'Linea_9_A Linea_19_R','39.2952020466,9.00278310333');
+insert into ctm.fermate values ('della Pineta (ang. via Firenze)','0294', 'Linea_3_R Linea_5_R Linea_5e11_R Linea_6_A','39.2067017976,9.13491516443');
+insert into ctm.fermate values ('Nigra (fronte polisportiva)','1107', 'Linea_30R_A','39.2419732328,9.1959908121');
+insert into ctm.fermate values ('Italia (ang. via Dalla Chiesa)','2030', 'Linea_40_A','39.236353167,9.20999490759');
+insert into ctm.fermate values ('San Gottardo (ang. via Dorgali)','0661', 'Linea_17_R','39.2628104533,9.14346084726');
+insert into ctm.fermate values ('F.lli Bandiera (fronte via Bayle)','0452', 'Linea_1Q_R','39.2373004881,9.19370681493');
+insert into ctm.fermate values ('Piemonte (fronte via Ciusa)','0703', 'Linea_30R_R Linea_40_A Linea_1Q_R Linea_PQ_R','39.2399229577,9.19884713152');
+insert into ctm.fermate values ('La Playa (mercato ittico)','0037', 'Navetta_Giorgino_R Linea_8A_R','39.2149809331,9.10107374565');
+insert into ctm.fermate values ('Trieste (Assessorato RAS)','0160', 'Circolare_San_Simone_A Linea_9_R','39.2204393655,9.1034562822');
+insert into ctm.fermate values ('Risorgimento (ang. via Mentana)','0364', 'Linea_1_R','39.2431596896,9.13457940827');
+insert into ctm.fermate values ('Buoncammino (ang. via Belvedere)','0069', 'Linea_8_R Linea_8A_R Linea_10_A Linea_20_A Linea_20_R','39.2249884853,9.11449159204');
+insert into ctm.fermate values ('Sulcitana Assemini (ang. via Sitzia)','0731', 'Linea_9_R Linea_19_A','39.2755727755,9.03082585965');
+insert into ctm.fermate values ('Colombo (scuole)','0460', 'Linea_19_A Linea_40_A Linea_QS_R Linea_QSA_A Linea_QSB_A','39.23824103,9.18034974198');
+insert into ctm.fermate values ('Santa Maria Chiara (fronte via Calamatti','0240', 'Linea_8_A Linea_8A_A Linea_19_A Linea_QS_R Linea_QSB_A','39.2409225846,9.12034590929');
+insert into ctm.fermate values ('San Benedetto (ang. via Fiume)','2024', 'Linea_PF_A','39.2358310181,9.1994728367');
+insert into ctm.fermate values ('Trento (teatro Massimo)','0155', 'Linea_1_A','39.2223835642,9.10582232698');
+insert into ctm.fermate values ('Pitz'' e Serra (ang. via Danimarca)','0705', 'Linea_1Q_R Linea_PQ_R','39.2402854808,9.20796728334');
+insert into ctm.fermate values ('Pizzetti (fronte spiazzo)','1259', 'Linea_1Q_A','39.2321503368,9.17998657424');
+insert into ctm.fermate values ('Danimarca (ang. via Pitz''e Serra)','0925', 'Linea_40_A','39.2397724099,9.20766450341');
+insert into ctm.fermate values ('Via Castelli lato civico n°19','2063', 'Linea_20_A','39.2329796532,9.10642912717');
+insert into ctm.fermate values ('Gallus (ang. vico Gallus)','0498', 'Linea_19_A Linea_30R_R Linea_31_R Linea_QS_R Linea_QSA_A Linea_QSB_A','39.2526617676,9.17201924354');
+insert into ctm.fermate values ('San Bartolomeo (fronte piazza)','0326', 'Linea_5e11_R','39.1960379866,9.14575675138');
+insert into ctm.fermate values ('Marconi (clinica)','0915', 'Linea_31_A Linea_31R_R','39.2418520758,9.17593257709');
+insert into ctm.fermate values ('S.P. Villasimius (fronte via Lago D''alse','0472', 'Linea_1Q_A Linea_PF_A','39.2156076101,9.30156728978');
+insert into ctm.fermate values ('Eligio Porcu (ang. via Cavour)','0979', 'Linea_40_A','39.2415523872,9.18328983651');
+insert into ctm.fermate values ('Puglia (parcheggi)','0122', 'Linea_3_A Linea_16_R','39.2429528956,9.09803156107');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (Fortino)','0397', 'Linea_PQ_A','39.2281574091,9.21275093091');
+insert into ctm.fermate values ('Fiume (ang. via Fieramosca)','0448', 'Linea_19_A Linea_QSA_A Linea_QSB_A','39.2371317562,9.19759947705');
+insert into ctm.fermate values ('Vesalio (scuole)','0684', 'Linea_29_A','39.2386488061,9.13152342385');
+insert into ctm.fermate values ('Bacaredda (Conservatorio)','0011', 'Linea_M_R Linea_6_A','39.2252702599,9.1209910907');
+insert into ctm.fermate values ('Autonomia Regionale (ang. via Molinu Coc','0633', 'Linea_1Q_A Linea_PF_A','39.2193415232,9.28589887625');
+insert into ctm.fermate values ('Italia (ang. via Dalla Chiesa)','2005', 'Linea_41_A','39.236506933,9.20967094172');
+insert into ctm.fermate values ('Lungosaline (fronte via Ischia)','0353', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.2016060656,9.15994321995');
+insert into ctm.fermate values ('Lungosaline (ang. via Ischia)','0352', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.2016327797,9.16017489764');
+insert into ctm.fermate values ('Diaz (uffici Abbanoa)','0265', 'Linea_PF_A Linea_PQ_A','39.2101696805,9.11957530387');
+insert into ctm.fermate values ('Giotto (ang. via Carpaccio)','0140', 'Linea_20_R','39.2505957151,9.09595619744');
+insert into ctm.fermate values ('Margine Rosso (fronte via Neapolis)','0405', 'Linea_PF_A','39.2283430721,9.22888972494');
+insert into ctm.fermate values ('Segni (fronte via Putzolu)','1154', 'Linea_15_A','39.2583179681,9.12444379768');
+insert into ctm.fermate values ('Marongiu (fronte Cimitero San Michele)','0112', 'Linea_1_A','39.2433278919,9.10205301988');
+insert into ctm.fermate values ('Stendardi (fronte palestra)','0628', 'Linea_15_A','39.2512937135,9.12054905874');
+insert into ctm.fermate values ('Autonomia Regionale (ang. via Cixerri)','0726', 'Linea_1Q_R','39.2282727587,9.2815443138');
+insert into ctm.fermate values ('Bellini (ang. via S.Martino)','0679', 'Linea_17_A','39.2598380416,9.16314692424');
+insert into ctm.fermate values ('della Pineta (fronte via dei Colombi)','0291', 'Linea_3_R Linea_6_A','39.2101923965,9.13192203664');
+insert into ctm.fermate values ('Barracca Manna (ang. via Ungaretti)','1153', 'Linea_13_A Linea_15_A','39.2544225768,9.11845670976');
+insert into ctm.fermate values ('4 Novembre (fronte via Fiume)','0849', 'Linea_19_A Linea_19_R Linea_1Q_A Linea_QSA_A Linea_QSA_R Linea_QSB_A Linea_QSB_R','39.2393117921,9.1925536416');
+insert into ctm.fermate values ('Fiume (ang. via San Benedetto)','0446', 'Linea_19_A Linea_41_A Linea_QSA_A Linea_QSB_A','39.236245192,9.19965939409');
+insert into ctm.fermate values ('Bacaredda (ang. piazza Garibaldi)','0813', 'Linea_M_R','39.2198358413,9.12188530223');
+insert into ctm.fermate values ('San Lorenzo (ang. via Tonara)','0653', 'Linea_M_A Linea_8_A','39.2591695301,9.13646446428');
+insert into ctm.fermate values ('Is Maglias (ang. via trincea delle Frasc','0181', 'Linea_8_R Linea_8A_R Linea_20_A','39.2356884404,9.10015335953');
+insert into ctm.fermate values ('Paoli (ang. via Tola)','0198', 'Linea_1_R Linea_29_A','39.2200955184,9.12343799281');
+insert into ctm.fermate values ('Vico (ang. via Salvemini)','0455', 'Linea_1Q_A','39.2362595546,9.19109698069');
+insert into ctm.fermate values ('S.S. 391 Elmas (fronte Provveditorato)','0582', 'Linea_9_A Linea_19_R','39.262837768,9.06103783187');
+insert into ctm.fermate values ('Danimarca (ang. via Bulgaria)','0984', 'Linea_41_A','39.2385394523,9.20681502369');
+insert into ctm.fermate values ('Pitz''e Serra (Giua)','0709', 'Linea_1Q_R','39.2405282043,9.21326336932');
+insert into ctm.fermate values ('Trentino (fronte via Molise)','0873', 'Linea_13_A','39.2309267869,9.11426952732');
+insert into ctm.fermate values ('Regina Elena (Unione Sarda)','0063', 'Linea_6_A Linea_7_A Linea_10_R','39.2198219679,9.11785409933');
+insert into ctm.fermate values ('Sonnino (Piazza Gramsci)','0021', 'Linea_1_A Linea_M_A Linea_10_A','39.2147738201,9.11993060315');
+insert into ctm.fermate values ('Tasso (ang. via Petrarca)','0991', 'Linea_41_A','39.2352694139,9.17910239155');
+insert into ctm.fermate values ('Africa (ang. via Iglesias)','1176', 'Linea_9_A Linea_19_R','39.2974096829,8.99889832033');
+insert into ctm.fermate values ('Castiglione (ang. via Serra)','0232', 'Linea_1_A','39.2312966998,9.13094199776');
+insert into ctm.fermate values ('Torricelli (ang. via Asfodelo)','1105', 'Linea_29_R','39.2368661688,9.13019921754');
+insert into ctm.fermate values ('S''Arrulloni (fronte campi sportivi)','0974', 'Linea_40_A Linea_1Q_A','39.2310699283,9.17941611549');
+insert into ctm.fermate values ('Porcell (ang. via dei Genovesi)','0062', 'Linea_7_A Linea_8_R Linea_8A_R','39.2208243321,9.115689565');
+insert into ctm.fermate values ('Sole (fronte via del Sestante)','0318', 'Linea_3_A','39.2001147982,9.14976048496');
+insert into ctm.fermate values ('Golfo di Quartu S.E. (fronte lido VV.FF.','0386', 'Linea_PF_R Linea_PQ_R Linea_QS_A','39.2206419487,9.18676856084');
+insert into ctm.fermate values ('Via delle Agavi (lato civico 63B)','2075', 'Linea_13_A','39.2596859567,9.1173412979');
+insert into ctm.fermate values ('Marconi (ang. via Cavaro)','1265', 'Linea_30R_A','39.2444793066,9.18989096613');
+insert into ctm.fermate values ('Giulio Cesare (ang. via Sant''Angelo)','0816', 'Linea_M_A Linea_8A_A Linea_QSA_R','39.2630582377,9.13976383657');
+insert into ctm.fermate values ('della Pineta (ang. via Milano)','0288', 'Linea_3_R Linea_6_A','39.2077032344,9.13383996784');
+insert into ctm.fermate values ('Rio Sa Murta (ang. via Tevere)','2040', 'Linea_9_R Linea_19_A','39.2941026543,9.00542696663');
+insert into ctm.fermate values ('Via delle Begonie (Altezza Palestra)','2052', 'Linea_17_A','39.2592859844,9.15159007998');
+insert into ctm.fermate values ('Nazionale (ang. via Italia)','0619', 'Linea_9_R','39.3078939777,8.96913676911');
+insert into ctm.fermate values ('Piovella (piazza d''Esquivel)','0088', 'Linea_5_A Linea_5e11_A','39.2362446729,9.11267920931');
+insert into ctm.fermate values ('28 Febbraio (Assessorato RAS)','0224', 'Linea_3_A Linea_13_A Linea_16_A Linea_29_A','39.2293732828,9.12652437961');
+insert into ctm.fermate values ('Cadello (ang. via dei Falletti)','0084', 'Linea_5_A Linea_5e11_A Linea_8_R Linea_8A_R','39.2344165334,9.11159876429');
+insert into ctm.fermate values ('Carpaccio (Circoscrizione)','0883', 'Linea_20_A','39.2510355412,9.09799645784');
+insert into ctm.fermate values ('Gherardo delle Notti (scuole)','0732', 'Linea_19_R Linea_20_R','39.2527385932,9.0979640605');
+insert into ctm.fermate values ('S''Ecca S''Arrideli (prima fermata)','0719', 'Linea_1Q_A','39.2433532495,9.26772253194');
+insert into ctm.fermate values ('Autonomia Regionale (ang. via Menta Fior','0736', 'Linea_1Q_A','39.2360033915,9.27802974313');
+insert into ctm.fermate values ('S.S. 391 Decimo - Assemini (seconda ferm','0616', 'Linea_9_A','39.2983096334,8.98385728708');
+insert into ctm.fermate values ('Regina Elena (Terrapieno)','0066', 'Linea_6_R Linea_10_A','39.2221734788,9.11814763713');
+insert into ctm.fermate values ('Vidal (ang. via Solmi)','0855', 'Linea_10_R','39.2149504931,9.13156028232');
+insert into ctm.fermate values ('Is Mirrionis (Chiesa)','0087', 'Linea_3_R Linea_5_R Linea_5e11_R Linea_8_R Linea_8A_R Linea_16_R','39.2350399147,9.10987338563');
+insert into ctm.fermate values ('Roma (fronte Molo Sanità)','0739', 'Linea_1_A Linea_M_A Linea_5_A Linea_5e11_A Linea_7_A Linea_29_R Linea_30_R Linea_30R_R Linea_31_R Linea_31R_A Linea_PF_R Linea_PQ_R','39.2142778151,9.11126572266');
+insert into ctm.fermate values ('Cornalias (ang. via Perugino)','0804', 'Linea_1_A Linea_University_Express_A Linea_20_A','39.2489132228,9.10354445944');
+insert into ctm.fermate values ('San Benedetto (ang. via Parigi)','0938', 'Linea_19_A Linea_PF_R Linea_QSA_A Linea_QSB_A','39.2318178147,9.19076053022');
+insert into ctm.fermate values ('Europa (fronte parco)','1163', 'Linea_9_R Linea_19_A','39.2890565776,9.00743255543');
+insert into ctm.fermate values ('Nazionale (chiesa)','0625', 'Linea_9_R','39.3098295692,8.96330178419');
+insert into ctm.fermate values ('Stazione (capolinea 9)','0627', 'Linea_9_A Linea_9_R','39.3049737527,8.96631976785');
+insert into ctm.fermate values ('Cagna (ang. via Malpighi)','0862', 'Linea_10_A','39.208867947,9.13954054522');
+insert into ctm.fermate values ('Is Maglias (fronte via Montegrappa)','0177', 'Linea_8_R Linea_8A_R Linea_20_A','39.2331091729,9.10267544812');
+insert into ctm.fermate values ('S.P. Villasimius (fronte Camping)','0437', 'Linea_1Q_R','39.2054146271,9.31916224824');
+insert into ctm.fermate values ('Diaz (ang. via Bottego)','0275', 'Linea_PF_R Linea_PQ_R','39.2081110694,9.12355599461');
+insert into ctm.fermate values ('San Gavino (ang. via Crasso)','0818', 'Linea_M_A','39.2621790008,9.13655143502');
+insert into ctm.fermate values ('Is Maglias (ang. via Doberdò)','0179', 'Linea_8_R Linea_8A_R Linea_20_A','39.2341372094,9.10175005019');
+insert into ctm.fermate values ('Poetto (ex Ospedale Marino)','0376', 'Linea_PF_A Linea_PQ_A Linea_QS_R','39.2114476709,9.1713279426');
+insert into ctm.fermate values ('L. da Vinci (ang. via S. Giovanni)','0420', 'Linea_PF_R','39.2202477351,9.26859621275');
+insert into ctm.fermate values ('Santa Maria Chiara (scuole)','0242', 'Linea_M_A Linea_8_A Linea_8A_A Linea_19_A Linea_QS_R Linea_QSB_A','39.2436854133,9.12365314512');
+insert into ctm.fermate values ('Cadello (uffici Citt Metropolitana)','0092', 'Linea_8_R Linea_8A_R Linea_13_A','39.2384838013,9.11728279676');
+insert into ctm.fermate values ('Ciusa (Leonardo da Vinci)','0007', 'Linea_3_A Linea_M_A Linea_13_A Circolare_CEP_A','39.229434321,9.11993238112');
+insert into ctm.fermate values ('Ospedale (ospedale)','0061', 'Linea_8_A Linea_8A_A','39.2217731321,9.11296884273');
+insert into ctm.fermate values ('Giotto (giardini)','0141', 'Linea_20_R','39.2495106291,9.10046273536');
+insert into ctm.fermate values ('Giotto (ang. via Deliperi)','0805', 'Linea_1_A Linea_20_A','39.249617651,9.10173765047');
+insert into ctm.fermate values ('Deliperi (fronte scuola)','0806', 'Linea_1_A Linea_20_A','39.2518176486,9.10014153204');
+insert into ctm.fermate values ('Carmine (fronte via Montale)','0600', 'Linea_9_A Linea_19_R','39.2807475382,9.01834151863');
